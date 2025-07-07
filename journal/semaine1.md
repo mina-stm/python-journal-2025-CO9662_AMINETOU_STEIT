@@ -71,13 +71,13 @@ Listez les notions importantes que vous avez comprises ou découvertes cette sem
   - une hypothèse est une supposition testable visant à répondre à une question de recherche , dont la validité et évaluée selon la        cohérence ou non des résultats obtenus.
   - l'objectif = résultats de question  de recherche
   - quelques processus à suivre:
-      -- identifier les questions de recherche
-      -- revue sur des articles existants
-      -- formuler une hypothèse
-      -- choisir une méthodologie à suivre
-      -- collecte de données 
-      -- traitement
-      -- interpréter des résultats
+      - identifier les questions de recherche
+      - revue sur des articles existants
+      - formuler une hypothèse
+      - choisir une méthodologie à suivre
+      - collecte de données 
+      - traitement
+      - interpréter des résultats
 
     
 
