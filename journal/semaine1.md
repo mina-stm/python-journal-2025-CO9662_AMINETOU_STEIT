@@ -66,8 +66,20 @@ Listez les notions importantes que vous avez comprises ou découvertes cette sem
        -- Numpy,scipy... pour le traitement
        -- matlplotlib pour les résultats
 
-* Concernant notre article; ( nécessite un problématique , une approche  et perspective)
-  - l'objectif  
+* Concernant notre article: ( nécessite un problématique , une approche  et perspective)
+  - lire et revue sur 3 approche de même axe pour formuler les questions de recherche 
+  - une hypothèse est une supposition testable visant à répondre à une question de recherche , dont la validité et évaluée selon la        cohérence ou non des résultats obtenus.
+  - l'objectif = résultats de question  de recherche
+  - quelques processus à suivre:
+      -- identifier les questions de recherche
+      -- revue sur des articles existants
+      -- formuler une hypothèse
+      -- choisir une méthodologie à suivre
+      -- collecte de données 
+      -- traitement
+      -- interpréter des résultats
+
+    
 
 
 
