@@ -69,7 +69,7 @@ Listez les notions importantes que vous avez comprises ou découvertes cette sem
 * Concernant notre article: ( nécessite un problématique , une approche  et perspective)
   - lire et revue sur 3 approche de même axe pour formuler les questions de recherche 
   - une hypothèse est une supposition testable visant à répondre à une question de recherche , dont la validité et évaluée selon la        cohérence ou non des résultats obtenus.
-  - l'objectif = résultats de question  de recherche
+  - l'objectif =  résultats de question  de recherche
   - quelques processus à suivre:
       - identifier les questions de recherche
       - revue sur des articles existants
@@ -80,7 +80,14 @@ Listez les notions importantes que vous avez comprises ou découvertes cette sem
       - interpréter des résultats
 
     
+### 3. Vos attentes
+Qu’attendez-vous des prochaines semaines de formation ?
+-  
+- ...
 
+### 4. Les difficultés rencontrées
+Soyez honnête : ce qui vous a semblé difficile, flou ou frustrant :
+- 
 
 
 
