@@ -31,7 +31,7 @@ L’environnement utilisé/  pas / impression générale:
 Décrivez brièvement les activités de la semaine 1 :
 - Résumé de ce que nous avons fait dans la premire semaine de la formation
 
- # cours:
+* cours:
 
 - Des notions de base sur:
   python l'instation, l'utisation de anaconda / l'environement IDE ( jupyter) et  un tp
@@ -67,6 +67,7 @@ Listez les notions importantes que vous avez comprises ou découvertes cette sem
        -- matlplotlib pour les résultats
 
 * Concernant notre article; ( nécessite un problématique , une approche  et perspective)
+  - l'objectif  
 
 
 
