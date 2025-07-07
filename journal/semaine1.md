@@ -31,7 +31,7 @@ L’environnement utilisé/  pas / impression générale:
 Décrivez brièvement les activités de la semaine 1 :
 - Résumé de ce que nous avons fait dans la premire semaine de la formation
 
-*cours:
+ # cours:
 
 - Des notions de base sur:
   python l'instation, l'utisation de anaconda / l'environement IDE ( jupyter) et  un tp
@@ -58,7 +58,7 @@ Listez les notions importantes que vous avez comprises ou découvertes cette sem
           - polyvalent                                 - hot niveau       
           - simple intégration facile                 - des bibliothèques puissants dédiées a l'analyse des données , calcule scientifique la visualisation des résultats
           - communauté et large  adoption             - open source
-*L'environnement de développement python
+* L'environnement de développement python
      - standard IDEL/SHELL
      - Anaconda distrubtion gratuite et open source de python  contient plusieurs  Environnement IDE: Jupyter ( texte + code), spyder (code), vscode, pycharm...
      - Plusieurs bibliothèque important:
@@ -66,7 +66,7 @@ Listez les notions importantes que vous avez comprises ou découvertes cette sem
        -- Numpy,scipy... pour le traitement
        -- matlplotlib pour les résultats
 
-Concernant notre article; ( nécessite un problématique , une approche  et perspective)
+* Concernant notre article; ( nécessite un problématique , une approche  et perspective)
 
 
 
