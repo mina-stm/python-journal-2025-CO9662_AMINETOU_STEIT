@@ -34,11 +34,11 @@ Décrivez brièvement les activités de la semaine 1 :
 * cours:
 
 - Des notions de base sur:
-  python l'instation, l'utisation de anaconda / l'environement IDE ( jupyter) et  un tp
+  python l'instation, l'utisation de anaconda / l'environement IDE ( jupyter)/ et comment creer un article 
 
-- La collaboration sur github 
+- un TP sur github 
 
-- Des revues d’article portant sur le même axe d’approche que notre thème de recherche.
+- extraire des elements d'un article 
 
 
 ### 2. Ce que vous avez appris
