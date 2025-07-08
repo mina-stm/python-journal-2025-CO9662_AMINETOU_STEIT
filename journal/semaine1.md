@@ -82,11 +82,15 @@ Listez les notions importantes que vous avez comprises ou découvertes cette sem
     
 ### 3. Vos attentes
 Qu’attendez-vous des prochaines semaines de formation ?
--  
-- ...
+-  Utiliser les bibliothèques de calcul scientifique telles que NumPy et Pandas pour la collecte, le traitement et l’analyse des données, ainsi que Matplotlib pour la visualisation des résultats. 
+- Apprendre à écrire des algorithmes en Python et à réaliser des calculs scientifiques adaptés à notre problématique de recherche.
+- Savoir identifier les questions de recherche, formuler des hypothèses, et choisir une méthodologie appropriée pour analyser les données de manière rigoureuse et pertinente.
+
+ 
 
 ### 4. Les difficultés rencontrées
 Soyez honnête : ce qui vous a semblé difficile, flou ou frustrant :
+
 - 
 
 
