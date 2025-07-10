@@ -1,5 +1,5 @@
 
-- Problématique
+### Problématique
 
 
 
@@ -19,7 +19,7 @@ décision automatisée ?
 
 
 
-- Approche proposée
+### Approche proposée
 
 Tableau1 : Les approches de la performance  financière
 
@@ -33,7 +33,7 @@ Tableau1 : Les approches de la performance  financière
 
 
 
-- Technologies utilisées
+### Technologies utilisées
 
 
 
@@ -45,7 +45,7 @@ Tableau1 : Les approches de la performance  financière
 
 
 
-- Perspectives de recherche
+### Perspectives de recherche
 
 
 
