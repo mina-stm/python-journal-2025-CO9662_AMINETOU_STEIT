@@ -1,0 +1,1026 @@
+dexnum,name,generation,type1,type2,species,height,weight,ability1,ability2,hidden_ability,hp,attack,defense,sp_atk,sp_def,speed,total,ev_yield,catch_rate,base_friendship,base_exp,growth_rate,egg_group1,egg_group2,percent_male,percent_female,egg_cycles,special_group
+0001,Bulbasaur,1,Grass,Poison,Seed Pokémon,0.7,6.9,Overgrow,Chlorophyll,,45,49,49,65,65,45,318,1 Sp. Atk,45,50,64,Medium Slow,Grass ,Monster,87.5,12.5,20,Ordinary
+0002,Ivysaur,1,Grass,Poison,Seed Pokémon,1.0,13.0,Overgrow,Chlorophyll,,60,62,63,80,80,60,405,"1 Sp. Atk, 1 Sp. Def",45,50,142,Medium Slow,Grass ,Monster,87.5,12.5,20,Ordinary
+0003,Venusaur,1,Grass,Poison,Seed Pokémon,2.0,100.0,Overgrow,Chlorophyll,,80,82,83,100,100,80,525,"2 Sp. Atk, 1 Sp. Def",45,50,236,Medium Slow,Grass ,Monster,87.5,12.5,20,Ordinary
+0004,Charmander,1,Fire,,Lizard Pokémon,0.6,8.5,Blaze,Solar Power,,39,52,43,60,50,65,309,1 Speed,45,50,62,Medium Slow,Dragon ,Monster,87.5,12.5,20,Ordinary
+0005,Charmeleon,1,Fire,,Flame Pokémon,1.1,19.0,Blaze,Solar Power,,58,64,58,80,65,80,405,"1 Sp. Atk, 1 Speed",45,50,142,Medium Slow,Dragon ,Monster,87.5,12.5,20,Ordinary
+0006,Charizard,1,Fire,Flying,Flame Pokémon,1.7,90.5,Blaze,Solar Power,,78,84,78,109,85,100,534,3 Sp. Atk,45,50,267,Medium Slow,Dragon ,Monster,87.5,12.5,20,Ordinary
+0007,Squirtle,1,Water,,Tiny Turtle Pokémon,0.5,9.0,Torrent,Rain Dish,,44,48,65,50,64,43,314,1 Defense,45,50,63,Medium Slow,Monster ,Water 1,87.5,12.5,20,Ordinary
+0008,Wartortle,1,Water,,Turtle Pokémon,1.0,22.5,Torrent,Rain Dish,,59,63,80,65,80,58,405,"1 Defense, 1 Sp. Def",45,50,142,Medium Slow,Monster ,Water 1,87.5,12.5,20,Ordinary
+0009,Blastoise,1,Water,,Shellfish Pokémon,1.6,85.5,Torrent,Rain Dish,,79,83,100,85,105,78,530,3 Sp. Def,45,50,239,Medium Slow,Monster ,Water 1,87.5,12.5,20,Ordinary
+0010,Caterpie,1,Bug,,Worm Pokémon,0.3,2.9,Shield Dust,Run Away,,45,30,35,20,20,45,195,1 HP,255,50,39,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0011,Metapod,1,Bug,,Cocoon Pokémon,0.7,9.9,Shed Skin,,,50,20,55,25,25,30,205,2 Defense,120,50,72,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0012,Butterfree,1,Bug,Flying,Butterfly Pokémon,1.1,32.0,Compound Eyes,Tinted Lens,,60,45,50,90,80,70,395,"2 Sp. Atk, 1 Sp. Def",45,50,178,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0013,Weedle,1,Bug,Poison,Hairy Bug Pokémon,0.3,3.2,Shield Dust,Run Away,,40,35,30,20,20,50,195,1 Speed,255,50,39,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0014,Kakuna,1,Bug,Poison,Cocoon Pokémon,0.6,10.0,Shed Skin,,,45,25,50,25,25,35,205,2 Defense,120,50,72,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0015,Beedrill,1,Bug,Poison,Poison Bee Pokémon,1.0,29.5,Swarm,Sniper,,65,90,40,45,80,75,395,"2 Attack, 1 Sp. Def",45,50,178,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0016,Pidgey,1,Normal,Flying,Tiny Bird Pokémon,0.3,1.8,Keen Eye,Tangled Feet,Big Pecks,40,45,40,35,35,56,251,1 Speed,255,50,50,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0017,Pidgeotto,1,Normal,Flying,Bird Pokémon,1.1,30.0,Keen Eye,Tangled Feet,Big Pecks,63,60,55,50,50,71,349,2 Speed,120,50,122,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0018,Pidgeot,1,Normal,Flying,Bird Pokémon,1.5,39.5,Keen Eye,Tangled Feet,Big Pecks,83,80,75,70,70,101,479,3 Speed,45,50,216,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0019,Rattata,1,Normal,,Mouse Pokémon,0.3,3.5,Run Away,Guts,Hustle,30,56,35,25,35,72,253,1 Speed,255,50,51,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0020,Raticate,1,Normal,,Mouse Pokémon,0.7,18.5,Run Away,Guts,Hustle,55,81,60,50,70,97,413,2 Speed,127,50,145,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0021,Spearow,1,Normal,Flying,Tiny Bird Pokémon,0.3,2.0,Keen Eye,Sniper,,40,60,30,31,31,70,262,1 Speed,255,50,52,Medium Fast,Flying,,50.0,50.0,15,Ordinary
+0022,Fearow,1,Normal,Flying,Beak Pokémon,1.2,38.0,Keen Eye,Sniper,,65,90,65,61,61,100,442,2 Speed,90,50,155,Medium Fast,Flying,,50.0,50.0,15,Ordinary
+0023,Ekans,1,Poison,,Snake Pokémon,2.0,6.9,Intimidate,Shed Skin,Unnerve,35,60,44,40,54,55,288,1 Attack,255,50,58,Medium Fast,Dragon ,Field,50.0,50.0,20,Ordinary
+0024,Arbok,1,Poison,,Cobra Pokémon,3.5,65.0,Intimidate,Shed Skin,Unnerve,60,95,69,65,79,80,448,2 Attack,90,50,157,Medium Fast,Dragon ,Field,50.0,50.0,20,Ordinary
+0025,Pikachu,1,Electric,,Mouse Pokémon,0.4,6.0,Static,Lightning Rod,,35,55,40,50,50,90,320,2 Speed,190,50,112,Medium Fast,Fairy ,Field,50.0,50.0,10,Ordinary
+0026,Raichu,1,Electric,,Mouse Pokémon,0.8,30.0,Static,Lightning Rod,,60,90,55,90,80,110,485,3 Speed,75,50,243,Medium Fast,Fairy ,Field,50.0,50.0,10,Ordinary
+0027,Sandshrew,1,Ground,,Mouse Pokémon,0.6,12.0,Sand Veil,Sand Rush,,50,75,85,20,30,40,300,1 Defense,255,50,60,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0028,Sandslash,1,Ground,,Mouse Pokémon,1.0,29.5,Sand Veil,Sand Rush,,75,100,110,45,55,65,450,2 Defense,90,50,158,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0029,Nidoran♀ (female),1,Poison,,Poison Pin Pokémon,0.4,7.0,Poison Point,Rivalry,Hustle,55,47,52,40,40,41,275,1 HP,235,50,55,Medium Slow,Field ,Monster,0.0,100.0,20,Ordinary
+0030,Nidorina,1,Poison,,Poison Pin Pokémon,0.8,20.0,Poison Point,Rivalry,Hustle,70,62,67,55,55,56,365,2 HP,120,50,128,Medium Slow,Undiscovered,,0.0,100.0,20,Ordinary
+0031,Nidoqueen,1,Poison,Ground,Drill Pokémon,1.3,60.0,Poison Point,Rivalry,Sheer Force,90,92,87,75,85,76,505,3 HP,45,50,227,Medium Slow,Undiscovered,,0.0,100.0,20,Ordinary
+0032,Nidoran♂ (male),1,Poison,,Poison Pin Pokémon,0.5,9.0,Poison Point,Rivalry,Hustle,46,57,40,40,40,50,273,1 Attack,235,50,55,Medium Slow,Field ,Monster,100.0,0.0,20,Ordinary
+0033,Nidorino,1,Poison,,Poison Pin Pokémon,0.9,19.5,Poison Point,Rivalry,Hustle,61,72,57,55,55,65,365,2 Attack,120,50,128,Medium Slow,Field ,Monster,100.0,0.0,20,Ordinary
+0034,Nidoking,1,Poison,Ground,Drill Pokémon,1.4,62.0,Poison Point,Rivalry,Sheer Force,81,102,77,85,75,85,505,3 Attack,45,50,227,Medium Slow,Field ,Monster,100.0,0.0,20,Ordinary
+0035,Clefairy,1,Fairy,,Fairy Pokémon,0.6,7.5,Cute Charm,Magic Guard,Friend Guard,70,45,48,60,65,35,323,2 HP,150,140,113,Fast,Fairy,,25.0,75.0,10,Ordinary
+0036,Clefable,1,Fairy,,Fairy Pokémon,1.3,40.0,Cute Charm,Magic Guard,Unaware,95,70,73,95,90,60,483,3 HP,25,140,217,Fast,Fairy,,25.0,75.0,10,Ordinary
+0037,Vulpix,1,Fire,,Fox Pokémon,0.6,9.9,Flash Fire,Drought,,38,41,40,50,65,65,299,1 Speed,190,50,60,Medium Fast,Field,,25.0,75.0,20,Ordinary
+0038,Ninetales,1,Fire,,Fox Pokémon,1.1,19.9,Flash Fire,Drought,,73,76,75,81,100,100,505,"1 Sp. Def, 1 Speed",75,50,177,Medium Fast,Field,,25.0,75.0,20,Ordinary
+0039,Jigglypuff,1,Normal,Fairy,Balloon Pokémon,0.5,5.5,Cute Charm,Competitive,Friend Guard,115,45,20,45,25,20,270,2 HP,170,50,95,Fast,Fairy,,25.0,75.0,10,Ordinary
+0040,Wigglytuff,1,Normal,Fairy,Balloon Pokémon,1.0,12.0,Cute Charm,Competitive,Frisk,140,70,45,85,50,45,435,3 HP,50,50,218,Fast,Fairy,,25.0,75.0,10,Ordinary
+0041,Zubat,1,Poison,Flying,Bat Pokémon,0.8,7.5,Inner Focus,Infiltrator,,40,45,35,30,40,55,245,1 Speed,255,50,49,Medium Fast,Flying,,50.0,50.0,15,Ordinary
+0042,Golbat,1,Poison,Flying,Bat Pokémon,1.6,55.0,Inner Focus,Infiltrator,,75,80,70,65,75,90,455,2 Speed,90,50,159,Medium Fast,Flying,,50.0,50.0,15,Ordinary
+0043,Oddish,1,Grass,Poison,Weed Pokémon,0.5,5.4,Chlorophyll,Run Away,,45,50,55,75,65,30,320,1 Sp. Atk,255,50,64,Medium Slow,Grass,,50.0,50.0,20,Ordinary
+0044,Gloom,1,Grass,Poison,Weed Pokémon,0.8,8.6,Chlorophyll,Stench,,60,65,70,85,75,40,395,2 Sp. Atk,120,50,138,Medium Slow,Grass,,50.0,50.0,20,Ordinary
+0045,Vileplume,1,Grass,Poison,Flower Pokémon,1.2,18.6,Chlorophyll,Effect Spore,,75,80,85,110,90,50,490,3 Sp. Atk,45,50,221,Medium Slow,Grass,,50.0,50.0,20,Ordinary
+0046,Paras,1,Bug,Grass,Mushroom Pokémon,0.3,5.4,Effect Spore,Dry Skin,Damp,35,70,55,45,55,25,285,1 Attack,190,50,57,Medium Fast,Bug ,Grass,50.0,50.0,20,Ordinary
+0047,Parasect,1,Bug,Grass,Mushroom Pokémon,1.0,29.5,Effect Spore,Dry Skin,Damp,60,95,80,60,80,30,405,"2 Attack, 1 Defense",75,50,142,Medium Fast,Bug ,Grass,50.0,50.0,20,Ordinary
+0048,Venonat,1,Bug,Poison,Insect Pokémon,1.0,30.0,Compound Eyes,Tinted Lens,Run Away,60,55,50,40,55,45,305,1 Sp. Def,190,50,61,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0049,Venomoth,1,Bug,Poison,Poison Moth Pokémon,1.5,12.5,Shield Dust,Tinted Lens,Wonder Skin,70,65,60,90,75,90,450,"1 Sp. Atk, 1 Speed",75,50,158,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0050,Diglett,1,Ground,,Mole Pokémon,0.2,0.8,Sand Veil,Arena Trap,Sand Force,10,55,25,35,45,95,265,1 Speed,255,50,53,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0051,Dugtrio,1,Ground,,Mole Pokémon,0.7,33.3,Sand Veil,Arena Trap,Sand Force,35,100,50,50,70,120,425,2 Speed,50,50,149,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0052,Meowth,1,Normal,,Scratch Cat Pokémon,0.4,4.2,Pickup,Technician,Unnerve,40,45,35,40,40,90,290,1 Speed,255,50,58,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0053,Persian,1,Normal,,Classy Cat Pokémon,1.0,32.0,Limber,Technician,Unnerve,65,70,60,65,65,115,440,2 Speed,90,50,154,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0054,Psyduck,1,Water,,Duck Pokémon,0.8,19.6,Damp,Cloud Nine,Swift Swim,50,52,48,65,50,55,320,1 Sp. Atk,190,50,64,Medium Fast,Field ,Water 1,50.0,50.0,20,Ordinary
+0055,Golduck,1,Water,,Duck Pokémon,1.7,76.6,Damp,Cloud Nine,Swift Swim,80,82,78,95,80,85,500,2 Sp. Atk,75,50,175,Medium Fast,Field ,Water 1,50.0,50.0,20,Ordinary
+0056,Mankey,1,Fighting,,Pig Monkey Pokémon,0.5,28.0,Vital Spirit,Anger Point,Defiant,40,80,35,35,45,70,305,1 Attack,190,50,61,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0057,Primeape,1,Fighting,,Pig Monkey Pokémon,1.0,32.0,Vital Spirit,Anger Point,Defiant,65,105,60,60,70,95,455,2 Attack,75,50,159,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0058,Growlithe,1,Fire,,Puppy Pokémon,0.7,19.0,Intimidate,Flash Fire,Justified,55,70,45,70,50,60,350,1 Attack,190,50,70,Slow,Field,,75.0,25.0,20,Ordinary
+0059,Arcanine,1,Fire,,Legendary Pokémon,1.9,155.0,Intimidate,Flash Fire,Justified,90,110,80,100,80,95,555,2 Attack,75,50,194,Slow,Field,,75.0,25.0,20,Ordinary
+0060,Poliwag,1,Water,,Tadpole Pokémon,0.6,12.4,Water Absorb,Damp,Swift Swim,40,50,40,40,40,90,300,1 Speed,255,50,60,Medium Slow,Water 1,,50.0,50.0,20,Ordinary
+0061,Poliwhirl,1,Water,,Tadpole Pokémon,1.0,20.0,Water Absorb,Damp,Swift Swim,65,65,65,50,50,90,385,2 Speed,120,50,135,Medium Slow,Water 1,,50.0,50.0,20,Ordinary
+0062,Poliwrath,1,Water,Fighting,Tadpole Pokémon,1.3,54.0,Water Absorb,Damp,Swift Swim,90,95,95,70,90,70,510,3 Defense,45,50,230,Medium Slow,Water 1,,50.0,50.0,20,Ordinary
+0063,Abra,1,Psychic,,Psi Pokémon,0.9,19.5,Synchronize,Inner Focus,Magic Guard,25,20,15,105,55,90,310,1 Sp. Atk,200,50,62,Medium Slow,Human-Like,,75.0,25.0,20,Ordinary
+0064,Kadabra,1,Psychic,,Psi Pokémon,1.3,56.5,Synchronize,Inner Focus,Magic Guard,40,35,30,120,70,105,400,2 Sp. Atk,100,50,140,Medium Slow,Human-Like,,75.0,25.0,20,Ordinary
+0065,Alakazam,1,Psychic,,Psi Pokémon,1.5,48.0,Synchronize,Inner Focus,Magic Guard,55,50,45,135,95,120,500,3 Sp. Atk,50,50,225,Medium Slow,Human-Like,,75.0,25.0,20,Ordinary
+0066,Machop,1,Fighting,,Superpower Pokémon,0.8,19.5,Guts,No Guard,Steadfast,70,80,50,35,35,35,305,1 Attack,180,50,61,Medium Slow,Human-Like,,75.0,25.0,20,Ordinary
+0067,Machoke,1,Fighting,,Superpower Pokémon,1.5,70.5,Guts,No Guard,Steadfast,80,100,70,50,60,45,405,2 Attack,90,50,142,Medium Slow,Human-Like,,75.0,25.0,20,Ordinary
+0068,Machamp,1,Fighting,,Superpower Pokémon,1.6,130.0,Guts,No Guard,Steadfast,90,130,80,65,85,55,505,3 Attack,45,50,227,Medium Slow,Human-Like,,75.0,25.0,20,Ordinary
+0069,Bellsprout,1,Grass,Poison,Flower Pokémon,0.7,4.0,Chlorophyll,Gluttony,,50,75,35,70,30,40,300,1 Attack,255,50,60,Medium Slow,Grass,,50.0,50.0,20,Ordinary
+0070,Weepinbell,1,Grass,Poison,Flycatcher Pokémon,1.0,6.4,Chlorophyll,Gluttony,,65,90,50,85,45,55,390,2 Attack,120,50,137,Medium Slow,Grass,,50.0,50.0,20,Ordinary
+0071,Victreebel,1,Grass,Poison,Flycatcher Pokémon,1.7,15.5,Chlorophyll,Gluttony,,80,105,65,100,70,70,490,3 Attack,45,50,221,Medium Slow,Grass,,50.0,50.0,20,Ordinary
+0072,Tentacool,1,Water,Poison,Jellyfish Pokémon,0.9,45.5,Clear Body,Liquid Ooze,Rain Dish,40,40,35,50,100,70,335,1 Sp. Def,190,50,67,Slow,Water 3,,50.0,50.0,20,Ordinary
+0073,Tentacruel,1,Water,Poison,Jellyfish Pokémon,1.6,55.0,Clear Body,Liquid Ooze,Rain Dish,80,70,65,80,120,100,515,2 Sp. Def,60,50,180,Slow,Water 3,,50.0,50.0,20,Ordinary
+0074,Geodude,1,Rock,Ground,Rock Pokémon,0.4,20.0,Rock Head,Sturdy,Sand Veil,40,80,100,30,30,20,300,1 Defense,255,50,60,Medium Slow,Mineral,,50.0,50.0,15,Ordinary
+0075,Graveler,1,Rock,Ground,Rock Pokémon,1.0,105.0,Rock Head,Sturdy,Sand Veil,55,95,115,45,45,35,390,2 Defense,120,50,137,Medium Slow,Mineral,,50.0,50.0,15,Ordinary
+0076,Golem,1,Rock,Ground,Megaton Pokémon,1.4,300.0,Rock Head,Sturdy,Sand Veil,80,120,130,55,65,45,495,3 Defense,45,50,223,Medium Slow,Mineral,,50.0,50.0,15,Ordinary
+0077,Ponyta,1,Fire,,Fire Horse Pokémon,1.0,30.0,Run Away,Flash Fire,Flame Body,50,85,55,65,65,90,410,1 Speed,190,50,82,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0078,Rapidash,1,Fire,,Fire Horse Pokémon,1.7,95.0,Run Away,Flash Fire,Flame Body,65,100,70,80,80,105,500,2 Speed,60,50,175,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0079,Slowpoke,1,Water,Psychic,Dopey Pokémon,1.2,36.0,Oblivious,Own Tempo,Regenerator,90,65,65,40,40,15,315,1 HP,190,50,63,Medium Fast,Monster ,Water 1,50.0,50.0,20,Ordinary
+0080,Slowbro,1,Water,Psychic,Hermit Crab Pokémon,1.6,78.5,Oblivious,Own Tempo,Regenerator,95,75,110,100,80,30,490,2 Defense,75,50,172,Medium Fast,Monster ,Water 1,50.0,50.0,20,Ordinary
+0081,Magnemite,1,Electric,Steel,Magnet Pokémon,0.3,6.0,Magnet Pull,Sturdy,Analytic,25,35,70,95,55,45,325,1 Sp. Atk,190,50,65,Medium Fast,Mineral,,,,20,Ordinary
+0082,Magneton,1,Electric,Steel,Magnet Pokémon,1.0,60.0,Magnet Pull,Sturdy,Analytic,50,60,95,120,70,70,465,2 Sp. Atk,60,50,163,Medium Fast,Mineral,,,,20,Ordinary
+0083,Farfetch'd,1,Normal,Flying,Wild Duck Pokémon,0.8,15.0,Keen Eye,Inner Focus,Defiant,52,90,55,58,62,60,377,1 Attack,45,50,132,Medium Fast,Field ,Flying,50.0,50.0,20,Ordinary
+0084,Doduo,1,Normal,Flying,Twin Bird Pokémon,1.4,39.2,Run Away,Early Bird,Tangled Feet,35,85,45,35,35,75,310,1 Attack,190,50,62,Medium Fast,Flying,,50.0,50.0,20,Ordinary
+0085,Dodrio,1,Normal,Flying,Triple Bird Pokémon,1.8,85.2,Run Away,Early Bird,Tangled Feet,60,110,70,60,60,110,470,2 Attack,45,50,165,Medium Fast,Flying,,50.0,50.0,20,Ordinary
+0086,Seel,1,Water,,Sea Lion Pokémon,1.1,90.0,Thick Fat,Hydration,Ice Body,65,45,55,45,70,45,325,1 Sp. Def,190,50,65,Medium Fast,Field ,Water 1,50.0,50.0,20,Ordinary
+0087,Dewgong,1,Water,Ice,Sea Lion Pokémon,1.7,120.0,Thick Fat,Hydration,Ice Body,90,70,80,70,95,70,475,2 Sp. Def,75,50,166,Medium Fast,Field ,Water 1,50.0,50.0,20,Ordinary
+0088,Grimer,1,Poison,,Sludge Pokémon,0.9,30.0,Stench,Sticky Hold,Poison Touch,80,80,50,40,50,25,325,1 HP,190,50,65,Medium Fast,Amorphous,,50.0,50.0,20,Ordinary
+0089,Muk,1,Poison,,Sludge Pokémon,1.2,30.0,Stench,Sticky Hold,Poison Touch,105,105,75,65,100,50,500,"1 HP, 1 Attack",75,50,175,Medium Fast,Amorphous,,50.0,50.0,20,Ordinary
+0090,Shellder,1,Water,,Bivalve Pokémon,0.3,4.0,Shell Armor,Skill Link,Overcoat,30,65,100,45,25,40,305,1 Defense,190,50,61,Slow,Water 3,,50.0,50.0,20,Ordinary
+0091,Cloyster,1,Water,Ice,Bivalve Pokémon,1.5,132.5,Shell Armor,Skill Link,Overcoat,50,95,180,85,45,70,525,2 Defense,60,50,184,Slow,Water 3,,50.0,50.0,20,Ordinary
+0092,Gastly,1,Ghost,Poison,Gas Pokémon,1.3,0.1,Levitate,,,30,35,30,100,35,80,310,1 Sp. Atk,190,50,62,Medium Slow,Amorphous,,50.0,50.0,20,Ordinary
+0093,Haunter,1,Ghost,Poison,Gas Pokémon,1.6,0.1,Levitate,,,45,50,45,115,55,95,405,2 Sp. Atk,90,50,142,Medium Slow,Amorphous,,50.0,50.0,20,Ordinary
+0094,Gengar,1,Ghost,Poison,Shadow Pokémon,1.5,40.5,Cursed Body,,,60,65,60,130,75,110,500,3 Sp. Atk,45,50,250,Medium Slow,Amorphous,,50.0,50.0,20,Ordinary
+0095,Onix,1,Rock,Ground,Rock Snake Pokémon,8.8,210.0,Rock Head,Sturdy,Weak Armor,35,45,160,30,45,70,385,1 Defense,45,50,77,Medium Fast,Mineral,,50.0,50.0,25,Ordinary
+0096,Drowzee,1,Psychic,,Hypnosis Pokémon,1.0,32.4,Insomnia,Forewarn,Inner Focus,60,48,45,43,90,42,328,1 Sp. Def,190,50,66,Medium Fast,Human-Like,,50.0,50.0,20,Ordinary
+0097,Hypno,1,Psychic,,Hypnosis Pokémon,1.6,75.6,Insomnia,Forewarn,Inner Focus,85,73,70,73,115,67,483,2 Sp. Def,75,50,169,Medium Fast,Human-Like,,50.0,50.0,20,Ordinary
+0098,Krabby,1,Water,,River Crab Pokémon,0.4,6.5,Hyper Cutter,Shell Armor,Sheer Force,30,105,90,25,25,50,325,1 Attack,225,50,65,Medium Fast,Water 3,,50.0,50.0,20,Ordinary
+0099,Kingler,1,Water,,Pincer Pokémon,1.3,60.0,Hyper Cutter,Shell Armor,Sheer Force,55,130,115,50,50,75,475,2 Attack,60,50,166,Medium Fast,Water 3,,50.0,50.0,20,Ordinary
+0100,Voltorb,1,Electric,,Ball Pokémon,0.5,10.4,Soundproof,Static,Aftermath,40,30,50,55,55,100,330,1 Speed,190,50,66,Medium Fast,Mineral,,,,20,Ordinary
+0101,Electrode,1,Electric,,Ball Pokémon,1.2,66.6,Soundproof,Static,Aftermath,60,50,70,80,80,150,490,2 Speed,60,50,172,Medium Fast,Mineral,,,,20,Ordinary
+0102,Exeggcute,1,Grass,Psychic,Egg Pokémon,0.4,2.5,Chlorophyll,Harvest,,60,40,80,60,45,40,325,1 Defense,90,50,65,Slow,Grass,,50.0,50.0,20,Ordinary
+0103,Exeggutor,1,Grass,Psychic,Coconut Pokémon,2.0,120.0,Chlorophyll,Harvest,,95,95,85,125,75,55,530,2 Sp. Atk,45,50,186,Slow,Grass,,50.0,50.0,20,Ordinary
+0104,Cubone,1,Ground,,Lonely Pokémon,0.4,6.5,Rock Head,Lightning Rod,Battle Armor,50,50,95,40,50,35,320,1 Defense,190,50,64,Medium Fast,Monster,,50.0,50.0,20,Ordinary
+0105,Marowak,1,Ground,,Bone Keeper Pokémon,1.0,45.0,Rock Head,Lightning Rod,Battle Armor,60,80,110,50,80,45,425,2 Defense,75,50,149,Medium Fast,Monster,,50.0,50.0,20,Ordinary
+0106,Hitmonlee,1,Fighting,,Kicking Pokémon,1.5,49.8,Limber,Reckless,Unburden,50,120,53,35,110,87,455,2 Attack,45,50,159,Medium Fast,Human-Like,,100.0,0.0,25,Ordinary
+0107,Hitmonchan,1,Fighting,,Punching Pokémon,1.4,50.2,Keen Eye,Iron Fist,Inner Focus,50,105,79,35,110,76,455,2 Sp. Def,45,50,159,Medium Fast,Human-Like,,100.0,0.0,25,Ordinary
+0108,Lickitung,1,Normal,,Licking Pokémon,1.2,65.5,Own Tempo,Oblivious,Cloud Nine,90,55,75,60,75,30,385,2 HP,45,50,77,Medium Fast,Monster,,50.0,50.0,20,Ordinary
+0109,Koffing,1,Poison,,Poison Gas Pokémon,0.6,1.0,Levitate,Neutralizing Gas,Stench,40,65,95,60,45,35,340,1 Defense,190,50,68,Medium Fast,Amorphous,,50.0,50.0,20,Ordinary
+0110,Weezing,1,Poison,,Poison Gas Pokémon,1.2,9.5,Levitate,Neutralizing Gas,Stench,65,90,120,85,70,60,490,2 Defense,60,50,172,Medium Fast,Amorphous,,50.0,50.0,20,Ordinary
+0111,Rhyhorn,1,Ground,Rock,Spikes Pokémon,1.0,115.0,Lightning Rod,Rock Head,Reckless,80,85,95,30,30,25,345,1 Defense,120,50,69,Slow,Field ,Monster,50.0,50.0,20,Ordinary
+0112,Rhydon,1,Ground,Rock,Drill Pokémon,1.9,120.0,Lightning Rod,Rock Head,Reckless,105,130,120,45,45,40,485,2 Attack,60,50,170,Slow,Field ,Monster,50.0,50.0,20,Ordinary
+0113,Chansey,1,Normal,,Egg Pokémon,1.1,34.6,Natural Cure,Serene Grace,Healer,250,5,5,35,105,50,450,2 HP,30,140,395,Fast,Fairy,,0.0,100.0,40,Ordinary
+0114,Tangela,1,Grass,,Vine Pokémon,1.0,35.0,Chlorophyll,Leaf Guard,Regenerator,65,55,115,100,40,60,435,1 Defense,45,50,87,Medium Fast,Grass,,50.0,50.0,20,Ordinary
+0115,Kangaskhan,1,Normal,,Parent Pokémon,2.2,80.0,Early Bird,Scrappy,Inner Focus,105,95,80,40,80,90,490,2 HP,45,50,172,Medium Fast,Monster,,0.0,100.0,20,Ordinary
+0116,Horsea,1,Water,,Dragon Pokémon,0.4,8.0,Swift Swim,Sniper,Damp,30,40,70,70,25,60,295,1 Sp. Atk,225,50,59,Medium Fast,Dragon ,Water 1,50.0,50.0,20,Ordinary
+0117,Seadra,1,Water,,Dragon Pokémon,1.2,25.0,Poison Point,Sniper,Damp,55,65,95,95,45,85,440,"1 Defense, 1 Sp. Atk",75,50,154,Medium Fast,Dragon ,Water 1,50.0,50.0,20,Ordinary
+0118,Goldeen,1,Water,,Goldfish Pokémon,0.6,15.0,Swift Swim,Water Veil,Lightning Rod,45,67,60,35,50,63,320,1 Attack,225,50,64,Medium Fast,Water 2,,50.0,50.0,20,Ordinary
+0119,Seaking,1,Water,,Goldfish Pokémon,1.3,39.0,Swift Swim,Water Veil,Lightning Rod,80,92,65,65,80,68,450,2 Attack,60,50,158,Medium Fast,Water 2,,50.0,50.0,20,Ordinary
+0120,Staryu,1,Water,,Star Shape Pokémon,0.8,34.5,Illuminate,Natural Cure,Analytic,30,45,55,70,55,85,340,1 Speed,225,50,68,Slow,Water 3,,,,20,Ordinary
+0121,Starmie,1,Water,Psychic,Mysterious Pokémon,1.1,80.0,Illuminate,Natural Cure,Analytic,60,75,85,100,85,115,520,2 Speed,60,50,182,Slow,Water 3,,,,20,Ordinary
+0122,Mr. Mime,1,Psychic,Fairy,Barrier Pokémon,1.3,54.5,Soundproof,Filter,Technician,40,45,65,100,120,90,460,2 Sp. Def,45,50,161,Medium Fast,Human-Like,,50.0,50.0,25,Ordinary
+0123,Scyther,1,Bug,Flying,Mantis Pokémon,1.5,56.0,Swarm,Technician,Steadfast,70,110,80,55,80,105,500,1 Attack,45,50,100,Medium Fast,Bug,,50.0,50.0,25,Ordinary
+0124,Jynx,1,Ice,Psychic,Human Shape Pokémon,1.4,40.6,Oblivious,Forewarn,Dry Skin,65,50,35,115,95,95,455,2 Sp. Atk,45,50,159,Medium Fast,Human-Like,,0.0,100.0,25,Ordinary
+0125,Electabuzz,1,Electric,,Electric Pokémon,1.1,30.0,Static,Vital Spirit,,65,83,57,95,85,105,490,2 Speed,45,50,172,Medium Fast,Human-Like,,75.0,25.0,25,Ordinary
+0126,Magmar,1,Fire,,Spitfire Pokémon,1.3,44.5,Flame Body,Vital Spirit,,65,95,57,100,85,93,495,2 Sp. Atk,45,50,173,Medium Fast,Human-Like,,75.0,25.0,25,Ordinary
+0127,Pinsir,1,Bug,,Stag Beetle Pokémon,1.5,55.0,Hyper Cutter,Mold Breaker,Moxie,65,125,100,55,70,85,500,2 Attack,45,50,175,Slow,Bug,,50.0,50.0,25,Ordinary
+0128,Tauros,1,Normal,,Wild Bull Pokémon,1.4,88.4,Intimidate,Anger Point,Sheer Force,75,100,95,40,70,110,490,"1 Attack, 1 Speed",45,50,172,Slow,Field,,100.0,0.0,20,Ordinary
+0129,Magikarp,1,Water,,Fish Pokémon,0.9,10.0,Swift Swim,Rattled,,20,10,55,15,20,80,200,1 Speed,255,50,40,Slow,Dragon ,Water 2,50.0,50.0,5,Ordinary
+0130,Gyarados,1,Water,Flying,Atrocious Pokémon,6.5,235.0,Intimidate,Moxie,,95,125,79,60,100,81,540,2 Attack,45,50,189,Slow,Dragon ,Water 2,50.0,50.0,5,Ordinary
+0131,Lapras,1,Water,Ice,Transport Pokémon,2.5,220.0,Water Absorb,Shell Armor,Hydration,130,85,80,85,95,60,535,2 HP,45,50,187,Slow,Monster ,Water 1,50.0,50.0,40,Ordinary
+0132,Ditto,1,Normal,,Transform Pokémon,0.3,4.0,Limber,Imposter,,48,48,48,48,48,48,288,1 HP,35,50,101,Medium Fast,Ditto,,,,20,Ordinary
+0133,Eevee,1,Normal,,Evolution Pokémon,0.3,6.5,Run Away,Adaptability,Anticipation,55,55,50,45,65,55,325,1 Sp. Def,45,50,65,Medium Fast,Field,,87.5,12.5,35,Ordinary
+0134,Vaporeon,1,Water,,Bubble Jet Pokémon,1.0,29.0,Water Absorb,Hydration,,130,65,60,110,95,65,525,2 HP,45,50,184,Medium Fast,Field,,87.5,12.5,35,Ordinary
+0135,Jolteon,1,Electric,,Lightning Pokémon,0.8,24.5,Volt Absorb,Quick Feet,,65,65,60,110,95,130,525,2 Speed,45,50,184,Medium Fast,Field,,87.5,12.5,35,Ordinary
+0136,Flareon,1,Fire,,Flame Pokémon,0.9,25.0,Flash Fire,Guts,,65,130,60,95,110,65,525,2 Attack,45,50,184,Medium Fast,Field,,87.5,12.5,35,Ordinary
+0137,Porygon,1,Normal,,Virtual Pokémon,0.8,36.5,Trace,Download,Analytic,65,60,70,85,75,40,395,1 Sp. Atk,45,50,79,Medium Fast,Mineral,,,,20,Ordinary
+0138,Omanyte,1,Rock,Water,Spiral Pokémon,0.4,7.5,Swift Swim,Shell Armor,Weak Armor,35,40,100,90,55,35,355,1 Defense,45,50,71,Medium Fast,Water 1 ,Water 3,87.5,12.5,30,Fossil
+0139,Omastar,1,Rock,Water,Spiral Pokémon,1.0,35.0,Swift Swim,Shell Armor,Weak Armor,70,60,125,115,70,55,495,2 Defense,45,50,173,Medium Fast,Water 1 ,Water 3,87.5,12.5,30,Fossil
+0140,Kabuto,1,Rock,Water,Shellfish Pokémon,0.5,11.5,Swift Swim,Battle Armor,Weak Armor,30,80,90,55,45,55,355,1 Defense,45,50,71,Medium Fast,Water 1 ,Water 3,87.5,12.5,30,Fossil
+0141,Kabutops,1,Rock,Water,Shellfish Pokémon,1.3,40.5,Swift Swim,Battle Armor,Weak Armor,60,115,105,65,70,80,495,2 Attack,45,50,173,Medium Fast,Water 1 ,Water 3,87.5,12.5,30,Fossil
+0142,Aerodactyl,1,Rock,Flying,Fossil Pokémon,1.8,59.0,Rock Head,Pressure,Unnerve,80,105,65,60,75,130,515,2 Speed,45,50,180,Slow,Flying,,87.5,12.5,35,Fossil
+0143,Snorlax,1,Normal,,Sleeping Pokémon,2.1,460.0,Immunity,Thick Fat,Gluttony,160,110,65,65,110,30,540,2 HP,25,50,189,Slow,Monster,,87.5,12.5,40,Ordinary
+0144,Articuno,1,Ice,Flying,Freeze Pokémon,1.7,55.4,Pressure,Snow Cloak,,90,85,100,95,125,85,580,3 Sp. Def,3,35,290,Slow,Undiscovered,,,,80,Legendary
+0145,Zapdos,1,Electric,Flying,Electric Pokémon,1.6,52.6,Pressure,Static,,90,90,85,125,90,100,580,3 Sp. Atk,3,35,290,Slow,Undiscovered,,,,80,Legendary
+0146,Moltres,1,Fire,Flying,Flame Pokémon,2.0,60.0,Pressure,Flame Body,,90,100,90,125,85,90,580,3 Sp. Atk,3,35,290,Slow,Undiscovered,,,,80,Legendary
+0147,Dratini,1,Dragon,,Dragon Pokémon,1.8,3.3,Shed Skin,Marvel Scale,,41,64,45,50,50,50,300,1 Attack,45,35,60,Slow,Dragon ,Water 1,50.0,50.0,40,Ordinary
+0148,Dragonair,1,Dragon,,Dragon Pokémon,4.0,16.5,Shed Skin,Marvel Scale,,61,84,65,70,70,70,420,2 Attack,45,35,147,Slow,Dragon ,Water 1,50.0,50.0,40,Ordinary
+0149,Dragonite,1,Dragon,Flying,Dragon Pokémon,2.2,210.0,Inner Focus,Multiscale,,91,134,95,100,100,80,600,3 Attack,45,35,300,Slow,Dragon ,Water 1,50.0,50.0,40,Ordinary
+0150,Mewtwo,1,Psychic,,Genetic Pokémon,2.0,122.0,Pressure,Unnerve,,106,110,90,154,90,130,680,3 Sp. Atk,3,0,340,Slow,Undiscovered,,,,120,Legendary
+0151,Mew,1,Psychic,,New Species Pokémon,0.4,4.0,Synchronize,,,100,100,100,100,100,100,600,3 HP,45,100,300,Medium Slow,Undiscovered,,,,120,Mythical
+0152,Chikorita,2,Grass,,Leaf Pokémon,0.9,6.4,Overgrow,Leaf Guard,,45,49,65,49,65,45,318,1 Sp. Def,45,50,64,Medium Slow,Grass ,Monster,87.5,12.5,20,Ordinary
+0153,Bayleef,2,Grass,,Leaf Pokémon,1.2,15.8,Overgrow,Leaf Guard,,60,62,80,63,80,60,405,"1 Defense, 1 Sp. Def",45,50,142,Medium Slow,Grass ,Monster,87.5,12.5,20,Ordinary
+0154,Meganium,2,Grass,,Herb Pokémon,1.8,100.5,Overgrow,Leaf Guard,,80,82,100,83,100,80,525,"1 Defense, 2 Sp. Def",45,50,236,Medium Slow,Grass ,Monster,87.5,12.5,20,Ordinary
+0155,Cyndaquil,2,Fire,,Fire Mouse Pokémon,0.5,7.9,Blaze,Flash Fire,,39,52,43,60,50,65,309,1 Speed,45,50,62,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0156,Quilava,2,Fire,,Volcano Pokémon,0.9,19.0,Blaze,Flash Fire,,58,64,58,80,65,80,405,"1 Sp. Atk, 1 Speed",45,50,142,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0157,Typhlosion,2,Fire,,Volcano Pokémon,1.7,79.5,Blaze,Flash Fire,,78,84,78,109,85,100,534,3 Sp. Atk,45,50,267,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0158,Totodile,2,Water,,Big Jaw Pokémon,0.6,9.5,Torrent,Sheer Force,,50,65,64,44,48,43,314,1 Attack,45,50,63,Medium Slow,Monster ,Water 1,87.5,12.5,20,Ordinary
+0159,Croconaw,2,Water,,Big Jaw Pokémon,1.1,25.0,Torrent,Sheer Force,,65,80,80,59,63,58,405,"1 Attack, 1 Defense",45,50,142,Medium Slow,Monster ,Water 1,87.5,12.5,20,Ordinary
+0160,Feraligatr,2,Water,,Big Jaw Pokémon,2.3,88.8,Torrent,Sheer Force,,85,105,100,79,83,78,530,"2 Attack, 1 Defense",45,50,239,Medium Slow,Monster ,Water 1,87.5,12.5,20,Ordinary
+0161,Sentret,2,Normal,,Scout Pokémon,0.8,6.0,Run Away,Keen Eye,Frisk,35,46,34,35,45,20,215,1 Attack,255,50,43,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0162,Furret,2,Normal,,Long Body Pokémon,1.8,32.5,Run Away,Keen Eye,Frisk,85,76,64,45,55,90,415,2 Speed,90,50,145,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0163,Hoothoot,2,Normal,Flying,Owl Pokémon,0.7,21.2,Insomnia,Keen Eye,Tinted Lens,60,30,30,36,56,50,262,1 HP,255,50,52,Medium Fast,Flying,,50.0,50.0,15,Ordinary
+0164,Noctowl,2,Normal,Flying,Owl Pokémon,1.6,40.8,Insomnia,Keen Eye,Tinted Lens,100,50,50,86,96,70,452,2 HP,90,50,158,Medium Fast,Flying,,50.0,50.0,15,Ordinary
+0165,Ledyba,2,Bug,Flying,Five Star Pokémon,1.0,10.8,Swarm,Early Bird,Rattled,40,20,30,40,80,55,265,1 Sp. Def,255,50,53,Fast,Bug,,50.0,50.0,15,Ordinary
+0166,Ledian,2,Bug,Flying,Five Star Pokémon,1.4,35.6,Swarm,Early Bird,Iron Fist,55,35,50,55,110,85,390,2 Sp. Def,90,50,137,Fast,Bug,,50.0,50.0,15,Ordinary
+0167,Spinarak,2,Bug,Poison,String Spit Pokémon,0.5,8.5,Swarm,Insomnia,Sniper,40,60,40,40,40,30,250,1 Attack,255,50,50,Fast,Bug,,50.0,50.0,15,Ordinary
+0168,Ariados,2,Bug,Poison,Long Leg Pokémon,1.1,33.5,Swarm,Insomnia,Sniper,70,90,70,60,70,40,400,2 Attack,90,50,140,Fast,Bug,,50.0,50.0,15,Ordinary
+0169,Crobat,2,Poison,Flying,Bat Pokémon,1.8,75.0,Inner Focus,Infiltrator,,85,90,80,70,80,130,535,3 Speed,90,50,241,Medium Fast,Flying,,50.0,50.0,15,Ordinary
+0170,Chinchou,2,Water,Electric,Angler Pokémon,0.5,12.0,Volt Absorb,Illuminate,Water Absorb,75,38,38,56,56,67,330,1 HP,190,50,66,Slow,Water 2,,50.0,50.0,20,Ordinary
+0171,Lanturn,2,Water,Electric,Light Pokémon,1.2,22.5,Volt Absorb,Illuminate,Water Absorb,125,58,58,76,76,67,460,2 HP,75,50,161,Slow,Water 2,,50.0,50.0,20,Ordinary
+0172,Pichu,2,Electric,,Tiny Mouse Pokémon,0.3,2.0,Static,Lightning Rod,,20,40,15,35,35,60,205,1 Speed,190,50,41,Medium Fast,Undiscovered,,50.0,50.0,10,Baby Pokemon
+0173,Cleffa,2,Fairy,,Star Shape Pokémon,0.3,3.0,Cute Charm,Magic Guard,Friend Guard,50,25,28,45,55,15,218,1 Sp. Def,150,140,44,Fast,Undiscovered,,25.0,75.0,10,Baby Pokemon
+0174,Igglybuff,2,Normal,Fairy,Balloon Pokémon,0.3,1.0,Cute Charm,Competitive,Friend Guard,90,30,15,40,20,15,210,1 HP,170,50,42,Fast,Undiscovered,,25.0,75.0,10,Baby Pokemon
+0175,Togepi,2,Fairy,,Spike Ball Pokémon,0.3,1.5,Hustle,Serene Grace,Super Luck,35,20,65,40,65,20,245,1 Sp. Def,190,50,49,Fast,Undiscovered,,87.5,12.5,10,Baby Pokemon
+0176,Togetic,2,Fairy,Flying,Happiness Pokémon,0.6,3.2,Hustle,Serene Grace,Super Luck,55,40,85,80,105,40,405,2 Sp. Def,75,50,142,Fast,Fairy ,Flying,87.5,12.5,10,Ordinary
+0177,Natu,2,Psychic,Flying,Tiny Bird Pokémon,0.2,2.0,Synchronize,Early Bird,Magic Bounce,40,50,45,70,45,70,320,1 Sp. Atk,190,50,64,Medium Fast,Flying,,50.0,50.0,20,Ordinary
+0178,Xatu,2,Psychic,Flying,Mystic Pokémon,1.5,15.0,Synchronize,Early Bird,Magic Bounce,65,75,70,95,70,95,470,"1 Sp. Atk, 1 Speed",75,50,165,Medium Fast,Flying,,50.0,50.0,20,Ordinary
+0179,Mareep,2,Electric,,Wool Pokémon,0.6,7.8,Static,Plus,,55,40,40,65,45,35,280,1 Sp. Atk,235,50,56,Medium Slow,Field ,Monster,50.0,50.0,20,Ordinary
+0180,Flaaffy,2,Electric,,Wool Pokémon,0.8,13.3,Static,Plus,,70,55,55,80,60,45,365,2 Sp. Atk,120,50,128,Medium Slow,Field ,Monster,50.0,50.0,20,Ordinary
+0181,Ampharos,2,Electric,,Light Pokémon,1.4,61.5,Static,Plus,,90,75,85,115,90,55,510,3 Sp. Atk,45,50,255,Medium Slow,Field ,Monster,50.0,50.0,20,Ordinary
+0182,Bellossom,2,Grass,,Flower Pokémon,0.4,5.8,Chlorophyll,Healer,,75,80,95,90,100,50,490,3 Sp. Def,45,50,221,Medium Slow,Grass,,50.0,50.0,20,Ordinary
+0183,Marill,2,Water,Fairy,Aqua Mouse Pokémon,0.4,8.5,Thick Fat,Huge Power,Sap Sipper,70,20,50,20,50,40,250,2 HP,190,50,88,Fast,Fairy ,Water 1,50.0,50.0,10,Ordinary
+0184,Azumarill,2,Water,Fairy,Aqua Rabbit Pokémon,0.8,28.5,Thick Fat,Huge Power,Sap Sipper,100,50,80,60,80,50,420,3 HP,75,50,210,Fast,Fairy ,Water 1,50.0,50.0,10,Ordinary
+0185,Sudowoodo,2,Rock,,Imitation Pokémon,1.2,38.0,Sturdy,Rock Head,Rattled,70,100,115,30,65,30,410,2 Defense,65,50,144,Medium Fast,Mineral,,50.0,50.0,20,Ordinary
+0186,Politoed,2,Water,,Frog Pokémon,1.1,33.9,Water Absorb,Damp,Drizzle,90,75,75,90,100,70,500,3 Sp. Def,45,50,225,Medium Slow,Water 1,,50.0,50.0,20,Ordinary
+0187,Hoppip,2,Grass,Flying,Cottonweed Pokémon,0.4,0.5,Chlorophyll,Leaf Guard,Infiltrator,35,35,40,35,55,50,250,1 Sp. Def,255,50,50,Medium Slow,Fairy ,Grass,50.0,50.0,20,Ordinary
+0188,Skiploom,2,Grass,Flying,Cottonweed Pokémon,0.6,1.0,Chlorophyll,Leaf Guard,Infiltrator,55,45,50,45,65,80,340,2 Speed,120,50,119,Medium Slow,Fairy ,Grass,50.0,50.0,20,Ordinary
+0189,Jumpluff,2,Grass,Flying,Cottonweed Pokémon,0.8,3.0,Chlorophyll,Leaf Guard,Infiltrator,75,55,70,55,95,110,460,3 Speed,45,50,230,Medium Slow,Fairy ,Grass,50.0,50.0,20,Ordinary
+0190,Aipom,2,Normal,,Long Tail Pokémon,0.8,11.5,Run Away,Pickup,Skill Link,55,70,55,40,55,85,360,1 Speed,45,50,72,Fast,Field,,50.0,50.0,20,Ordinary
+0191,Sunkern,2,Grass,,Seed Pokémon,0.3,1.8,Chlorophyll,Solar Power,Early Bird,30,30,30,30,30,30,180,1 Sp. Atk,235,50,36,Medium Slow,Grass,,50.0,50.0,20,Ordinary
+0192,Sunflora,2,Grass,,Sun Pokémon,0.8,8.5,Chlorophyll,Solar Power,Early Bird,75,75,55,105,85,30,425,2 Sp. Atk,120,50,149,Medium Slow,Grass,,50.0,50.0,20,Ordinary
+0193,Yanma,2,Bug,Flying,Clear Wing Pokémon,1.2,38.0,Speed Boost,Compound Eyes,Frisk,65,65,45,75,45,95,390,1 Speed,75,50,78,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0194,Wooper,2,Water,Ground,Water Fish Pokémon,0.4,8.5,Damp,Water Absorb,Unaware,55,45,45,25,25,15,210,1 HP,255,50,42,Medium Fast,Field ,Water 1,50.0,50.0,20,Ordinary
+0195,Quagsire,2,Water,Ground,Water Fish Pokémon,1.4,75.0,Damp,Water Absorb,Unaware,95,85,85,65,65,35,430,2 HP,90,50,151,Medium Fast,Field ,Water 1,50.0,50.0,20,Ordinary
+0196,Espeon,2,Psychic,,Sun Pokémon,0.9,26.5,Synchronize,Magic Bounce,,65,65,60,130,95,110,525,2 Sp. Atk,45,50,184,Medium Fast,Field,,87.5,12.5,35,Ordinary
+0197,Umbreon,2,Dark,,Moonlight Pokémon,1.0,27.0,Synchronize,Inner Focus,,95,65,110,60,130,65,525,2 Sp. Def,45,35,184,Medium Fast,Field,,87.5,12.5,35,Ordinary
+0198,Murkrow,2,Dark,Flying,Darkness Pokémon,0.5,2.1,Insomnia,Super Luck,Prankster,60,85,42,85,42,91,405,1 Speed,30,35,81,Medium Slow,Flying,,50.0,50.0,20,Ordinary
+0199,Slowking,2,Water,Psychic,Royal Pokémon,2.0,79.5,Oblivious,Own Tempo,Regenerator,95,75,80,100,110,30,490,2 Sp. Def,70,50,172,Medium Fast,Monster ,Water 1,50.0,50.0,20,Ordinary
+0200,Misdreavus,2,Ghost,,Screech Pokémon,0.7,1.0,Levitate,,,60,60,60,85,85,85,435,1 Sp. Def,45,35,87,Fast,Amorphous,,50.0,50.0,25,Ordinary
+0201,Unown,2,Psychic,,Symbol Pokémon,0.5,5.0,Levitate,,,48,72,48,72,48,48,336,"1 Attack, 1 Sp. Atk",225,50,118,Medium Fast,Undiscovered,,,,40,Ordinary
+0202,Wobbuffet,2,Psychic,,Patient Pokémon,1.3,28.5,Shadow Tag,Telepathy,,190,33,58,33,58,33,405,2 HP,45,50,142,Medium Fast,Amorphous,,50.0,50.0,20,Ordinary
+0203,Girafarig,2,Normal,Psychic,Long Neck Pokémon,1.5,41.5,Inner Focus,Early Bird,Sap Sipper,70,80,65,90,65,85,455,2 Sp. Atk,60,50,159,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0204,Pineco,2,Bug,,Bagworm Pokémon,0.6,7.2,Sturdy,Overcoat,,50,65,90,35,35,15,290,1 Defense,190,50,58,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0205,Forretress,2,Bug,Steel,Bagworm Pokémon,1.2,125.8,Sturdy,Overcoat,,75,90,140,60,60,40,465,2 Defense,75,50,163,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0206,Dunsparce,2,Normal,,Land Snake Pokémon,1.5,14.0,Serene Grace,Run Away,Rattled,100,70,70,65,65,45,415,1 HP,190,50,145,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0207,Gligar,2,Ground,Flying,FlyScorpion Pokémon,1.1,64.8,Hyper Cutter,Sand Veil,Immunity,65,75,105,35,65,85,430,1 Defense,60,50,86,Medium Slow,Bug,,50.0,50.0,20,Ordinary
+0208,Steelix,2,Steel,Ground,Iron Snake Pokémon,9.2,400.0,Rock Head,Sturdy,Sheer Force,75,85,200,55,65,30,510,2 Defense,25,50,179,Medium Fast,Mineral,,50.0,50.0,25,Ordinary
+0209,Snubbull,2,Fairy,,Fairy Pokémon,0.6,7.8,Intimidate,Run Away,Rattled,60,80,50,40,40,30,300,1 Attack,190,50,60,Fast,Fairy ,Field,25.0,75.0,20,Ordinary
+0210,Granbull,2,Fairy,,Fairy Pokémon,1.4,48.7,Intimidate,Quick Feet,Rattled,90,120,75,60,60,45,450,2 Attack,75,50,158,Fast,Fairy ,Field,25.0,75.0,20,Ordinary
+0211,Qwilfish,2,Water,Poison,Balloon Pokémon,0.5,3.9,Poison Point,Swift Swim,Intimidate,65,95,85,55,55,85,440,1 Attack,45,50,88,Medium Fast,Water 2,,50.0,50.0,20,Ordinary
+0212,Scizor,2,Bug,Steel,Pincer Pokémon,1.8,118.0,Swarm,Technician,Light Metal,70,130,100,55,80,65,500,2 Attack,25,50,175,Medium Fast,Bug,,50.0,50.0,25,Ordinary
+0213,Shuckle,2,Bug,Rock,Mold Pokémon,0.6,20.5,Sturdy,Gluttony,Contrary,20,10,230,10,230,5,505,"1 Defense, 1 Sp. Def",190,50,177,Medium Slow,Bug,,50.0,50.0,20,Ordinary
+0214,Heracross,2,Bug,Fighting,Single Horn Pokémon,1.5,54.0,Swarm,Guts,Moxie,80,125,75,40,95,85,500,2 Attack,45,50,175,Slow,Bug,,50.0,50.0,25,Ordinary
+0215,Sneasel,2,Dark,Ice,Sharp Claw Pokémon,0.9,28.0,Inner Focus,Keen Eye,Pickpocket,55,95,55,35,75,115,430,1 Speed,60,35,86,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0216,Teddiursa,2,Normal,,Little Bear Pokémon,0.6,8.8,Pickup,Quick Feet,Honey Gather,60,80,50,50,50,40,330,1 Attack,120,50,66,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0217,Ursaring,2,Normal,,Hibernator Pokémon,1.8,125.8,Guts,Quick Feet,Unnerve,90,130,75,75,75,55,500,2 Attack,60,50,175,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0218,Slugma,2,Fire,,Lava Pokémon,0.7,35.0,Magma Armor,Flame Body,Weak Armor,40,40,40,70,40,20,250,1 Sp. Atk,190,50,50,Medium Fast,Amorphous,,50.0,50.0,20,Ordinary
+0219,Magcargo,2,Fire,Rock,Lava Pokémon,0.8,55.0,Magma Armor,Flame Body,Weak Armor,60,50,120,90,80,30,430,2 Defense,75,50,151,Medium Fast,Amorphous,,50.0,50.0,20,Ordinary
+0220,Swinub,2,Ice,Ground,Pig Pokémon,0.4,6.5,Oblivious,Snow Cloak,Thick Fat,50,50,40,30,30,50,250,1 Attack,225,50,50,Slow,Field,,50.0,50.0,20,Ordinary
+0221,Piloswine,2,Ice,Ground,Swine Pokémon,1.1,55.8,Oblivious,Snow Cloak,Thick Fat,100,100,80,60,60,50,450,"1 HP, 1 Attack",75,50,158,Slow,Field,,50.0,50.0,20,Ordinary
+0222,Corsola,2,Water,Rock,Coral Pokémon,0.6,5.0,Hustle,Natural Cure,Regenerator,65,55,95,65,95,35,410,"1 Defense, 1 Sp. Def",60,50,144,Fast,Water 1 ,Water 3,25.0,75.0,20,Ordinary
+0223,Remoraid,2,Water,,Jet Pokémon,0.6,12.0,Hustle,Sniper,Moody,35,65,35,65,35,65,300,1 Sp. Atk,190,50,60,Medium Fast,Water 1 ,Water 2,50.0,50.0,20,Ordinary
+0224,Octillery,2,Water,,Jet Pokémon,0.9,28.5,Suction Cups,Sniper,Moody,75,105,75,105,75,45,480,"1 Attack, 1 Sp. Atk",75,50,168,Medium Fast,Water 1 ,Water 2,50.0,50.0,20,Ordinary
+0225,Delibird,2,Ice,Flying,Delivery Pokémon,0.9,16.0,Vital Spirit,Hustle,Insomnia,45,55,45,65,45,75,330,1 Speed,45,50,116,Fast,Field ,Water 1,50.0,50.0,20,Ordinary
+0226,Mantine,2,Water,Flying,Kite Pokémon,2.1,220.0,Swift Swim,Water Absorb,Water Veil,85,40,70,80,140,70,485,2 Sp. Def,25,50,170,Slow,Water 1,,50.0,50.0,25,Ordinary
+0227,Skarmory,2,Steel,Flying,Armor Bird Pokémon,1.7,50.5,Keen Eye,Sturdy,Weak Armor,65,80,140,40,70,70,465,2 Defense,25,50,163,Slow,Flying,,50.0,50.0,25,Ordinary
+0228,Houndour,2,Dark,Fire,Dark Pokémon,0.6,10.8,Early Bird,Flash Fire,Unnerve,45,60,30,80,50,65,330,1 Sp. Atk,120,35,66,Slow,Field,,50.0,50.0,20,Ordinary
+0229,Houndoom,2,Dark,Fire,Dark Pokémon,1.4,35.0,Early Bird,Flash Fire,Unnerve,75,90,50,110,80,95,500,2 Sp. Atk,45,35,175,Slow,Field,,50.0,50.0,20,Ordinary
+0230,Kingdra,2,Water,Dragon,Dragon Pokémon,1.8,152.0,Swift Swim,Sniper,Damp,75,95,95,95,95,85,540,"1 Attack, 1 Sp. Atk, 1 Sp. Def",45,50,243,Medium Fast,Dragon ,Water 1,50.0,50.0,20,Ordinary
+0231,Phanpy,2,Ground,,Long Nose Pokémon,0.5,33.5,Pickup,Sand Veil,,90,60,60,40,40,40,330,1 HP,120,50,66,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0232,Donphan,2,Ground,,Armor Pokémon,1.1,120.0,Sturdy,Sand Veil,,90,120,120,60,60,50,500,"1 Attack, 1 Defense",60,50,175,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0233,Porygon2,2,Normal,,Virtual Pokémon,0.6,32.5,Trace,Download,Analytic,85,80,90,105,95,60,515,2 Sp. Atk,45,50,180,Medium Fast,Mineral,,,,20,Ordinary
+0234,Stantler,2,Normal,,Big Horn Pokémon,1.4,71.2,Intimidate,Frisk,Sap Sipper,73,95,62,85,65,85,465,1 Attack,45,50,163,Slow,Field,,50.0,50.0,20,Ordinary
+0235,Smeargle,2,Normal,,Painter Pokémon,1.2,58.0,Own Tempo,Technician,Moody,55,20,35,20,45,75,250,1 Speed,45,50,88,Fast,Field,,50.0,50.0,20,Ordinary
+0236,Tyrogue,2,Fighting,,Scuffle Pokémon,0.7,21.0,Guts,Steadfast,Vital Spirit,35,35,35,35,35,35,210,1 Attack,75,50,42,Medium Fast,Undiscovered,,100.0,0.0,25,Baby Pokemon
+0237,Hitmontop,2,Fighting,,Handstand Pokémon,1.4,48.0,Intimidate,Technician,Steadfast,50,95,95,35,110,70,455,2 Sp. Def,45,50,159,Medium Fast,Human-Like,,100.0,0.0,25,Ordinary
+0238,Smoochum,2,Ice,Psychic,Kiss Pokémon,0.4,6.0,Oblivious,Forewarn,Hydration,45,30,15,85,65,65,305,1 Sp. Atk,45,50,61,Medium Fast,Undiscovered,,0.0,100.0,25,Baby Pokemon
+0239,Elekid,2,Electric,,Electric Pokémon,0.6,23.5,Static,Vital Spirit,,45,63,37,65,55,95,360,1 Speed,45,50,72,Medium Fast,Undiscovered,,75.0,25.0,25,Baby Pokemon
+0240,Magby,2,Fire,,Live Coal Pokémon,0.7,21.4,Flame Body,Vital Spirit,,45,75,37,70,55,83,365,1 Speed,45,50,73,Medium Fast,Undiscovered,,75.0,25.0,25,Baby Pokemon
+0241,Miltank,2,Normal,,Milk Cow Pokémon,1.2,75.5,Thick Fat,Scrappy,Sap Sipper,95,80,105,40,70,100,490,2 Defense,45,50,172,Slow,Field,,0.0,100.0,20,Ordinary
+0242,Blissey,2,Normal,,Happiness Pokémon,1.5,46.8,Natural Cure,Serene Grace,Healer,255,10,10,75,135,55,540,3 HP,30,140,635,Fast,Fairy,,0.0,100.0,40,Ordinary
+0243,Raikou,2,Electric,,Thunder Pokémon,1.9,178.0,Pressure,Inner Focus,,90,85,75,115,100,115,580,"1 Sp. Atk, 2 Speed",3,35,261,Slow,Undiscovered,,,,80,Legendary
+0244,Entei,2,Fire,,Volcano Pokémon,2.1,198.0,Pressure,Inner Focus,,115,115,85,90,75,100,580,"1 HP, 2 Attack",3,35,261,Slow,Undiscovered,,,,80,Legendary
+0245,Suicune,2,Water,,Aurora Pokémon,2.0,187.0,Pressure,Inner Focus,,100,75,115,90,115,85,580,"1 Defense, 2 Sp. Def",3,35,261,Slow,Undiscovered,,,,80,Legendary
+0246,Larvitar,2,Rock,Ground,Rock Skin Pokémon,0.6,72.0,Guts,Sand Veil,,50,64,50,45,50,41,300,1 Attack,45,35,60,Slow,Monster,,50.0,50.0,40,Ordinary
+0247,Pupitar,2,Rock,Ground,Hard Shell Pokémon,1.2,152.0,Shed Skin,,,70,84,70,65,70,51,410,2 Attack,45,35,144,Slow,Monster,,50.0,50.0,40,Ordinary
+0248,Tyranitar,2,Rock,Dark,Armor Pokémon,2.0,202.0,Sand Stream,Unnerve,,100,134,110,95,100,61,600,3 Attack,45,35,300,Slow,Monster,,50.0,50.0,40,Ordinary
+0249,Lugia,2,Psychic,Flying,Diving Pokémon,5.2,216.0,Pressure,Multiscale,,106,90,130,90,154,110,680,3 Sp. Def,3,0,306,Slow,Undiscovered,,,,120,Legendary
+0250,Ho-oh,2,Fire,Flying,Rainbow Pokémon,3.8,199.0,Pressure,Regenerator,,106,130,90,110,154,90,680,3 Sp. Def,3,0,306,Slow,Undiscovered,,,,120,Ordinary
+0251,Celebi,2,Psychic,Grass,Time Travel Pokémon,0.6,5.0,Natural Cure,,,100,100,100,100,100,100,600,3 HP,45,100,270,Medium Slow,Undiscovered,,,,120,Mythical
+0252,Treecko,3,Grass,,Wood Gecko Pokémon,0.5,5.0,Overgrow,Unburden,,40,45,35,65,55,70,310,1 Speed,45,50,62,Medium Slow,Dragon ,Monster,87.5,12.5,20,Ordinary
+0253,Grovyle,3,Grass,,Wood Gecko Pokémon,0.9,21.6,Overgrow,Unburden,,50,65,45,85,65,95,405,2 Speed,45,50,142,Medium Slow,Dragon ,Monster,87.5,12.5,20,Ordinary
+0254,Sceptile,3,Grass,,Forest Pokémon,1.7,52.2,Overgrow,Unburden,,70,85,65,105,85,120,530,3 Speed,45,50,239,Medium Slow,Dragon ,Monster,87.5,12.5,20,Ordinary
+0255,Torchic,3,Fire,,Chick Pokémon,0.4,2.5,Blaze,Speed Boost,,45,60,40,70,50,45,310,1 Sp. Atk,45,50,62,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0256,Combusken,3,Fire,Fighting,Young Fowl Pokémon,0.9,19.5,Blaze,Speed Boost,,60,85,60,85,60,55,405,"1 Attack, 1 Sp. Atk",45,50,142,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0257,Blaziken,3,Fire,Fighting,Blaze Pokémon,1.9,52.0,Blaze,Speed Boost,,80,120,70,110,70,80,530,3 Attack,45,50,239,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0258,Mudkip,3,Water,,Mud Fish Pokémon,0.4,7.6,Torrent,Damp,,50,70,50,50,50,40,310,1 Attack,45,50,62,Medium Slow,Monster ,Water 1,87.5,12.5,20,Ordinary
+0259,Marshtomp,3,Water,Ground,Mud Fish Pokémon,0.7,28.0,Torrent,Damp,,70,85,70,60,70,50,405,2 Attack,45,50,142,Medium Slow,Monster ,Water 1,87.5,12.5,20,Ordinary
+0260,Swampert,3,Water,Ground,Mud Fish Pokémon,1.5,81.9,Torrent,Damp,,100,110,90,85,90,60,535,3 Attack,45,50,241,Medium Slow,Monster ,Water 1,87.5,12.5,20,Ordinary
+0261,Poochyena,3,Dark,,Bite Pokémon,0.5,13.6,Run Away,Quick Feet,Rattled,35,55,35,30,30,35,220,1 Attack,255,50,56,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0262,Mightyena,3,Dark,,Bite Pokémon,1.0,37.0,Intimidate,Quick Feet,Moxie,70,90,70,60,60,70,420,2 Attack,127,50,147,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0263,Zigzagoon,3,Normal,,TinyRaccoon Pokémon,0.4,17.5,Pickup,Gluttony,Quick Feet,38,30,41,30,41,60,240,1 Speed,255,50,56,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0264,Linoone,3,Normal,,Rushing Pokémon,0.5,32.5,Pickup,Gluttony,Quick Feet,78,70,61,50,61,100,420,2 Speed,90,50,147,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0265,Wurmple,3,Bug,,Worm Pokémon,0.3,3.6,Shield Dust,Run Away,,45,45,35,20,30,20,195,1 HP,255,50,56,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0266,Silcoon,3,Bug,,Cocoon Pokémon,0.6,10.0,Shed Skin,,,50,35,55,25,25,15,205,2 Defense,120,50,72,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0267,Beautifly,3,Bug,Flying,Butterfly Pokémon,1.0,28.4,Swarm,Rivalry,,60,70,50,100,50,65,395,3 Sp. Atk,45,50,178,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0268,Cascoon,3,Bug,,Cocoon Pokémon,0.7,11.5,Shed Skin,,,50,35,55,25,25,15,205,2 Defense,120,50,72,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0269,Dustox,3,Bug,Poison,Poison Moth Pokémon,1.2,31.6,Shield Dust,Compound Eyes,,60,50,70,50,90,65,385,3 Sp. Def,45,50,173,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0270,Lotad,3,Water,Grass,Water Weed Pokémon,0.5,2.6,Swift Swim,Rain Dish,Own Tempo,40,30,30,40,50,30,220,1 Sp. Def,255,50,44,Medium Slow,Grass ,Water 1,50.0,50.0,15,Ordinary
+0271,Lombre,3,Water,Grass,Jolly Pokémon,1.2,32.5,Swift Swim,Rain Dish,Own Tempo,60,50,50,60,70,50,340,2 Sp. Def,120,50,119,Medium Slow,Grass ,Water 1,50.0,50.0,15,Ordinary
+0272,Ludicolo,3,Water,Grass,Carefree Pokémon,1.5,55.0,Swift Swim,Rain Dish,Own Tempo,80,70,70,90,100,70,480,3 Sp. Def,45,50,216,Medium Slow,Grass ,Water 1,50.0,50.0,15,Ordinary
+0273,Seedot,3,Grass,,Acorn Pokémon,0.5,4.0,Chlorophyll,Early Bird,Pickpocket,40,40,50,30,30,30,220,1 Defense,255,50,44,Medium Slow,Field ,Grass,50.0,50.0,15,Ordinary
+0274,Nuzleaf,3,Grass,Dark,Wily Pokémon,1.0,28.0,Chlorophyll,Early Bird,Pickpocket,70,70,40,60,40,60,340,2 Attack,120,50,119,Medium Slow,Field ,Grass,50.0,50.0,15,Ordinary
+0275,Shiftry,3,Grass,Dark,Wicked Pokémon,1.3,59.6,Chlorophyll,Early Bird,Pickpocket,90,100,60,90,60,80,480,3 Attack,45,50,216,Medium Slow,Field ,Grass,50.0,50.0,15,Ordinary
+0276,Taillow,3,Normal,Flying,TinySwallow Pokémon,0.3,2.3,Guts,Scrappy,,40,55,30,30,30,85,270,1 Speed,200,50,54,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0277,Swellow,3,Normal,Flying,Swallow Pokémon,0.7,19.8,Guts,Scrappy,,60,85,60,75,50,125,455,2 Speed,45,50,159,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0278,Wingull,3,Water,Flying,Seagull Pokémon,0.6,9.5,Keen Eye,Hydration,Rain Dish,40,30,30,55,30,85,270,1 Speed,190,50,54,Medium Fast,Flying ,Water 1,50.0,50.0,20,Ordinary
+0279,Pelipper,3,Water,Flying,Water Bird Pokémon,1.2,28.0,Keen Eye,Drizzle,Rain Dish,60,50,100,95,70,65,440,2 Defense,45,50,154,Medium Fast,Flying ,Water 1,50.0,50.0,20,Ordinary
+0280,Ralts,3,Psychic,Fairy,Feeling Pokémon,0.4,6.6,Synchronize,Trace,Telepathy,28,25,25,45,35,40,198,1 Sp. Atk,235,35,40,Slow,Amorphous ,Human-Like,50.0,50.0,20,Ordinary
+0281,Kirlia,3,Psychic,Fairy,Emotion Pokémon,0.8,20.2,Synchronize,Trace,Telepathy,38,35,35,65,55,50,278,2 Sp. Atk,120,35,97,Slow,Amorphous ,Human-Like,50.0,50.0,20,Ordinary
+0282,Gardevoir,3,Psychic,Fairy,Embrace Pokémon,1.6,48.4,Synchronize,Trace,Telepathy,68,65,65,125,115,80,518,3 Sp. Atk,45,35,259,Slow,Amorphous ,Human-Like,50.0,50.0,20,Ordinary
+0283,Surskit,3,Bug,Water,Pond Skater Pokémon,0.5,1.7,Swift Swim,Rain Dish,,40,30,32,50,52,65,269,1 Speed,200,50,54,Medium Fast,Bug ,Water 1,50.0,50.0,15,Ordinary
+0284,Masquerain,3,Bug,Flying,Eyeball Pokémon,0.8,3.6,Intimidate,Unnerve,,70,60,62,100,82,80,454,"1 Sp. Atk, 1 Sp. Def",75,50,159,Medium Fast,Bug ,Water 1,50.0,50.0,15,Ordinary
+0285,Shroomish,3,Grass,,Mushroom Pokémon,0.4,4.5,Effect Spore,Poison Heal,Quick Feet,60,40,60,40,60,35,295,1 HP,255,50,59,Fluctuating,Fairy ,Grass,50.0,50.0,15,Ordinary
+0286,Breloom,3,Grass,Fighting,Mushroom Pokémon,1.2,39.2,Effect Spore,Poison Heal,Technician,60,130,80,60,60,70,460,2 Attack,90,50,161,Fluctuating,Fairy ,Grass,50.0,50.0,15,Ordinary
+0287,Slakoth,3,Normal,,Slacker Pokémon,0.8,24.0,Truant,,,60,60,60,35,35,30,280,1 HP,255,50,56,Slow,Field,,50.0,50.0,15,Ordinary
+0288,Vigoroth,3,Normal,,Wild Monkey Pokémon,1.4,46.5,Vital Spirit,,,80,80,80,55,55,90,440,2 Speed,120,50,154,Slow,Field,,50.0,50.0,15,Ordinary
+0289,Slaking,3,Normal,,Lazy Pokémon,2.0,130.5,Truant,,,150,160,100,95,65,100,670,3 HP,45,50,285,Slow,Field,,50.0,50.0,15,Ordinary
+0290,Nincada,3,Bug,Ground,Trainee Pokémon,0.5,5.5,Compound Eyes,Run Away,,31,45,90,30,30,40,266,1 Defense,255,50,53,Erratic,Bug,,50.0,50.0,15,Ordinary
+0291,Ninjask,3,Bug,Flying,Ninja Pokémon,0.8,12.0,Speed Boost,Infiltrator,,61,90,45,50,50,160,456,2 Speed,120,50,160,Erratic,Bug,,50.0,50.0,15,Ordinary
+0292,Shedinja,3,Bug,Ghost,Shed Pokémon,0.8,1.2,Wonder Guard,,,1,90,45,30,30,40,236,2 HP,45,50,83,Erratic,Mineral,,,,15,Ordinary
+0293,Whismur,3,Normal,,Whisper Pokémon,0.6,16.3,Soundproof,Rattled,,64,51,23,51,23,28,240,1 HP,190,50,48,Medium Slow,Field ,Monster,50.0,50.0,20,Ordinary
+0294,Loudred,3,Normal,,Big Voice Pokémon,1.0,40.5,Soundproof,Scrappy,,84,71,43,71,43,48,360,2 HP,120,50,126,Medium Slow,Field ,Monster,50.0,50.0,20,Ordinary
+0295,Exploud,3,Normal,,Loud Noise Pokémon,1.5,84.0,Soundproof,Scrappy,,104,91,63,91,73,68,490,3 HP,45,50,221,Medium Slow,Field ,Monster,50.0,50.0,20,Ordinary
+0296,Makuhita,3,Fighting,,Guts Pokémon,1.0,86.4,Thick Fat,Guts,Sheer Force,72,60,30,20,30,25,237,1 HP,180,50,47,Fluctuating,Human-Like,,75.0,25.0,20,Ordinary
+0297,Hariyama,3,Fighting,,Arm Thrust Pokémon,2.3,253.8,Thick Fat,Guts,Sheer Force,144,120,60,40,60,50,474,2 HP,200,50,166,Fluctuating,Human-Like,,75.0,25.0,20,Ordinary
+0298,Azurill,3,Normal,Fairy,Polka Dot Pokémon,0.2,2.0,Thick Fat,Huge Power,Sap Sipper,50,20,40,20,40,20,190,1 HP,150,50,38,Fast,Undiscovered,,25.0,75.0,10,Baby Pokemon
+0299,Nosepass,3,Rock,,Compass Pokémon,1.0,97.0,Sturdy,Magnet Pull,Sand Force,30,45,135,45,90,30,375,1 Defense,255,50,75,Medium Fast,Mineral,,50.0,50.0,20,Ordinary
+0300,Skitty,3,Normal,,Kitten Pokémon,0.6,11.0,Cute Charm,Normalize,Wonder Skin,50,45,45,35,35,50,260,1 Speed,255,50,52,Fast,Fairy ,Field,25.0,75.0,15,Ordinary
+0301,Delcatty,3,Normal,,Prim Pokémon,1.1,32.6,Cute Charm,Normalize,Wonder Skin,70,65,65,55,55,90,400,"1 HP, 1 Speed",60,50,140,Fast,Fairy ,Field,25.0,75.0,15,Ordinary
+0302,Sableye,3,Dark,Ghost,Darkness Pokémon,0.5,11.0,Keen Eye,Stall,Prankster,50,75,75,65,65,50,380,"1 Attack, 1 Defense",45,35,133,Medium Slow,Human-Like,,50.0,50.0,25,Ordinary
+0303,Mawile,3,Steel,Fairy,Deceiver Pokémon,0.6,11.5,Hyper Cutter,Intimidate,Sheer Force,50,85,85,55,55,50,380,"1 Attack, 1 Defense",45,50,133,Fast,Fairy ,Field,50.0,50.0,20,Ordinary
+0304,Aron,3,Steel,Rock,Iron Armor Pokémon,0.4,60.0,Sturdy,Rock Head,Heavy Metal,50,70,100,40,40,30,330,1 Defense,180,35,66,Slow,Monster,,50.0,50.0,35,Ordinary
+0305,Lairon,3,Steel,Rock,Iron Armor Pokémon,0.9,120.0,Sturdy,Rock Head,Heavy Metal,60,90,140,50,50,40,430,2 Defense,90,35,151,Slow,Monster,,50.0,50.0,35,Ordinary
+0306,Aggron,3,Steel,Rock,Iron Armor Pokémon,2.1,360.0,Sturdy,Rock Head,Heavy Metal,70,110,180,60,60,50,530,3 Defense,45,35,239,Slow,Monster,,50.0,50.0,35,Ordinary
+0307,Meditite,3,Fighting,Psychic,Meditate Pokémon,0.6,11.2,Pure Power,Telepathy,,30,40,55,40,55,60,280,1 Speed,180,50,56,Medium Fast,Human-Like,,50.0,50.0,20,Ordinary
+0308,Medicham,3,Fighting,Psychic,Meditate Pokémon,1.3,31.5,Pure Power,Telepathy,,60,60,75,60,75,80,410,2 Speed,90,50,144,Medium Fast,Human-Like,,50.0,50.0,20,Ordinary
+0309,Electrike,3,Electric,,Lightning Pokémon,0.6,15.2,Static,Lightning Rod,Minus,40,45,40,65,40,65,295,1 Speed,120,50,59,Slow,Field,,50.0,50.0,20,Ordinary
+0310,Manectric,3,Electric,,Discharge Pokémon,1.5,40.2,Static,Lightning Rod,Minus,70,75,60,105,60,105,475,2 Speed,45,50,166,Slow,Field,,50.0,50.0,20,Ordinary
+0311,Plusle,3,Electric,,Cheering Pokémon,0.4,4.2,Plus,Lightning Rod,,60,50,40,85,75,95,405,1 Speed,200,50,142,Medium Fast,Fairy,,50.0,50.0,20,Ordinary
+0312,Minun,3,Electric,,Cheering Pokémon,0.4,4.2,Minus,Volt Absorb,,60,40,50,75,85,95,405,1 Speed,200,50,142,Medium Fast,Fairy,,50.0,50.0,20,Ordinary
+0313,Volbeat,3,Bug,,Firefly Pokémon,0.7,17.7,Illuminate,Swarm,Prankster,65,73,75,47,85,85,430,1 Speed,150,50,151,Erratic,Bug ,Human-Like,100.0,0.0,15,Ordinary
+0314,Illumise,3,Bug,,Firefly Pokémon,0.6,17.7,Oblivious,Tinted Lens,Prankster,65,47,75,73,85,85,430,1 Speed,150,50,151,Fluctuating,Bug ,Human-Like,0.0,100.0,15,Ordinary
+0315,Roselia,3,Grass,Poison,Thorn Pokémon,0.3,2.0,Natural Cure,Poison Point,Leaf Guard,50,60,45,100,80,65,400,2 Sp. Atk,150,50,140,Medium Slow,Fairy ,Grass,50.0,50.0,20,Ordinary
+0316,Gulpin,3,Poison,,Stomach Pokémon,0.4,10.3,Liquid Ooze,Sticky Hold,Gluttony,70,43,53,43,53,40,302,1 HP,225,50,60,Fluctuating,Amorphous,,50.0,50.0,20,Ordinary
+0317,Swalot,3,Poison,,Poison Bag Pokémon,1.7,80.0,Liquid Ooze,Sticky Hold,Gluttony,100,73,83,73,83,55,467,2 HP,75,50,163,Fluctuating,Amorphous,,50.0,50.0,20,Ordinary
+0318,Carvanha,3,Water,Dark,Savage Pokémon,0.8,20.8,Rough Skin,Speed Boost,,45,90,20,65,20,65,305,1 Attack,225,35,61,Slow,Water 2,,50.0,50.0,20,Ordinary
+0319,Sharpedo,3,Water,Dark,Brutal Pokémon,1.8,88.8,Rough Skin,Speed Boost,,70,120,40,95,40,95,460,2 Attack,60,35,161,Slow,Water 2,,50.0,50.0,20,Ordinary
+0320,Wailmer,3,Water,,Ball Whale Pokémon,2.0,130.0,Water Veil,Oblivious,Pressure,130,70,35,70,35,60,400,1 HP,125,50,80,Fluctuating,Field ,Water 2,50.0,50.0,40,Ordinary
+0321,Wailord,3,Water,,Float Whale Pokémon,14.5,398.0,Water Veil,Oblivious,Pressure,170,90,45,90,45,60,500,2 HP,60,50,175,Fluctuating,Field ,Water 2,50.0,50.0,40,Ordinary
+0322,Numel,3,Fire,Ground,Numb Pokémon,0.7,24.0,Oblivious,Simple,Own Tempo,60,60,40,65,45,35,305,1 Sp. Atk,255,50,61,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0323,Camerupt,3,Fire,Ground,Eruption Pokémon,1.9,220.0,Magma Armor,Solid Rock,Anger Point,70,100,70,105,75,40,460,"1 Attack, 1 Sp. Atk",150,50,161,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0324,Torkoal,3,Fire,,Coal Pokémon,0.5,80.4,White Smoke,Drought,Shell Armor,70,85,140,85,70,20,470,2 Defense,90,50,165,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0325,Spoink,3,Psychic,,Bounce Pokémon,0.7,30.6,Thick Fat,Own Tempo,Gluttony,60,25,35,70,80,60,330,1 Sp. Def,255,50,66,Fast,Field,,50.0,50.0,20,Ordinary
+0326,Grumpig,3,Psychic,,Manipulate Pokémon,0.9,71.5,Thick Fat,Own Tempo,Gluttony,80,45,65,90,110,80,470,2 Sp. Def,60,50,165,Fast,Field,,50.0,50.0,20,Ordinary
+0327,Spinda,3,Normal,,Spot Panda Pokémon,1.1,5.0,Own Tempo,Tangled Feet,Contrary,60,60,60,60,60,60,360,1 Sp. Atk,255,50,126,Fast,Field ,Human-Like,50.0,50.0,15,Ordinary
+0328,Trapinch,3,Ground,,Ant Pit Pokémon,0.7,15.0,Hyper Cutter,Arena Trap,Sheer Force,45,100,45,45,45,10,290,1 Attack,255,50,58,Medium Slow,Bug ,Dragon,50.0,50.0,20,Ordinary
+0329,Vibrava,3,Ground,Dragon,Vibration Pokémon,1.1,15.3,Levitate,,,50,70,50,50,50,70,340,"1 Attack, 1 Speed",120,50,119,Medium Slow,Bug ,Dragon,50.0,50.0,20,Ordinary
+0330,Flygon,3,Ground,Dragon,Mystic Pokémon,2.0,82.0,Levitate,,,80,100,80,80,80,100,520,"1 Attack, 2 Speed",45,50,234,Medium Slow,Bug ,Dragon,50.0,50.0,20,Ordinary
+0331,Cacnea,3,Grass,,Cactus Pokémon,0.4,51.3,Sand Veil,Water Absorb,,50,85,40,85,40,35,335,1 Sp. Atk,190,35,67,Medium Slow,Grass ,Human-Like,50.0,50.0,20,Ordinary
+0332,Cacturne,3,Grass,Dark,Scarecrow Pokémon,1.3,77.4,Sand Veil,Water Absorb,,70,115,60,115,60,55,475,"1 Attack, 1 Sp. Atk",60,35,166,Medium Slow,Grass ,Human-Like,50.0,50.0,20,Ordinary
+0333,Swablu,3,Normal,Flying,Cotton Bird Pokémon,0.4,1.2,Natural Cure,Cloud Nine,,45,40,60,40,75,50,310,1 Sp. Def,255,50,62,Erratic,Dragon ,Flying,50.0,50.0,20,Ordinary
+0334,Altaria,3,Dragon,Flying,Humming Pokémon,1.1,20.6,Natural Cure,Cloud Nine,,75,70,90,70,105,80,490,2 Sp. Def,45,50,172,Erratic,Dragon ,Flying,50.0,50.0,20,Ordinary
+0335,Zangoose,3,Normal,,Cat Ferret Pokémon,1.3,40.3,Immunity,Toxic Boost,,73,115,60,60,60,90,458,2 Attack,90,50,160,Erratic,Field,,50.0,50.0,20,Ordinary
+0336,Seviper,3,Poison,,Fang Snake Pokémon,2.7,52.5,Shed Skin,Infiltrator,,73,100,60,100,60,65,458,"1 Attack, 1 Sp. Atk",90,50,160,Fluctuating,Dragon ,Field,50.0,50.0,20,Ordinary
+0337,Lunatone,3,Rock,Psychic,Meteorite Pokémon,1.0,168.0,Levitate,,,90,55,65,95,85,70,460,2 Sp. Atk,45,50,161,Fast,Mineral,,,,25,Ordinary
+0338,Solrock,3,Rock,Psychic,Meteorite Pokémon,1.2,154.0,Levitate,,,90,95,85,55,65,70,460,2 Attack,45,50,161,Fast,Mineral,,,,25,Ordinary
+0339,Barboach,3,Water,Ground,Whiskers Pokémon,0.4,1.9,Oblivious,Anticipation,Hydration,50,48,43,46,41,60,288,1 HP,190,50,58,Medium Fast,Water 2,,50.0,50.0,20,Ordinary
+0340,Whiscash,3,Water,Ground,Whiskers Pokémon,0.9,23.6,Oblivious,Anticipation,Hydration,110,78,73,76,71,60,468,2 HP,75,50,164,Medium Fast,Water 2,,50.0,50.0,20,Ordinary
+0341,Corphish,3,Water,,Ruffian Pokémon,0.6,11.5,Hyper Cutter,Shell Armor,Adaptability,43,80,65,50,35,35,308,1 Attack,205,50,62,Fluctuating,Water 1 ,Water 3,50.0,50.0,15,Ordinary
+0342,Crawdaunt,3,Water,Dark,Rogue Pokémon,1.1,32.8,Hyper Cutter,Shell Armor,Adaptability,63,120,85,90,55,55,468,2 Attack,155,50,164,Fluctuating,Water 1 ,Water 3,50.0,50.0,15,Ordinary
+0343,Baltoy,3,Ground,Psychic,Clay Doll Pokémon,0.5,21.5,Levitate,,,40,40,55,40,70,55,300,1 Sp. Def,255,50,60,Medium Fast,Mineral,,,,20,Ordinary
+0344,Claydol,3,Ground,Psychic,Clay Doll Pokémon,1.5,108.0,Levitate,,,60,70,105,70,120,75,500,2 Sp. Def,90,50,175,Medium Fast,Mineral,,,,20,Ordinary
+0345,Lileep,3,Rock,Grass,Sea Lily Pokémon,1.0,23.8,Suction Cups,Storm Drain,,66,41,77,61,87,23,355,1 Sp. Def,45,50,71,Erratic,Water 3,,87.5,12.5,30,Fossil
+0346,Cradily,3,Rock,Grass,Barnacle Pokémon,1.5,60.4,Suction Cups,Storm Drain,,86,81,97,81,107,43,495,2 Sp. Def,45,50,173,Erratic,Water 3,,87.5,12.5,30,Fossil
+0347,Anorith,3,Rock,Bug,Old Shrimp Pokémon,0.7,12.5,Battle Armor,Swift Swim,,45,95,50,40,50,75,355,1 Attack,45,50,71,Erratic,Water 3,,87.5,12.5,30,Fossil
+0348,Armaldo,3,Rock,Bug,Plate Pokémon,1.5,68.2,Battle Armor,Swift Swim,,75,125,100,70,80,45,495,2 Attack,45,50,173,Erratic,Water 3,,87.5,12.5,30,Fossil
+0349,Feebas,3,Water,,Fish Pokémon,0.6,7.4,Swift Swim,Oblivious,Adaptability,20,15,20,10,55,80,200,1 Speed,255,50,40,Erratic,Dragon ,Water 1,50.0,50.0,20,Ordinary
+0350,Milotic,3,Water,,Tender Pokémon,6.2,162.0,Marvel Scale,Competitive,Cute Charm,95,60,79,100,125,81,540,2 Sp. Def,60,50,189,Erratic,Dragon ,Water 1,50.0,50.0,20,Ordinary
+0351,Castform,3,Normal,,Weather Pokémon,0.3,0.8,Forecast,,,70,70,70,70,70,70,420,1 HP,45,50,147,Medium Fast,Amorphous ,Fairy,50.0,50.0,25,Ordinary
+0352,Kecleon,3,Normal,,Color Swap Pokémon,1.0,22.0,Color Change,Protean,,60,90,70,60,120,40,440,1 Sp. Def,200,50,154,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0353,Shuppet,3,Ghost,,Puppet Pokémon,0.6,2.3,Insomnia,Frisk,Cursed Body,44,75,35,63,33,45,295,1 Attack,225,35,59,Fast,Amorphous,,50.0,50.0,25,Ordinary
+0354,Banette,3,Ghost,,Marionette Pokémon,1.1,12.5,Insomnia,Frisk,Cursed Body,64,115,65,83,63,65,455,2 Attack,45,35,159,Fast,Amorphous,,50.0,50.0,25,Ordinary
+0355,Duskull,3,Ghost,,Requiem Pokémon,0.8,15.0,Levitate,Frisk,,20,40,90,30,90,25,295,1 Sp. Def,190,35,59,Fast,Amorphous,,50.0,50.0,25,Ordinary
+0356,Dusclops,3,Ghost,,Beckon Pokémon,1.6,30.6,Pressure,Frisk,,40,70,130,60,130,25,455,"1 Defense, 1 Sp. Def",90,35,159,Fast,Amorphous,,50.0,50.0,25,Ordinary
+0357,Tropius,3,Grass,Flying,Fruit Pokémon,2.0,100.0,Chlorophyll,Solar Power,Harvest,99,68,83,72,87,51,460,2 HP,200,50,161,Slow,Grass ,Monster,50.0,50.0,25,Ordinary
+0358,Chimecho,3,Psychic,,Wind Chime Pokémon,0.6,1.0,Levitate,,,75,50,80,95,90,65,455,"1 Sp. Atk, 1 Sp. Def",45,50,159,Fast,Amorphous,,50.0,50.0,25,Ordinary
+0359,Absol,3,Dark,,Disaster Pokémon,1.2,47.0,Pressure,Super Luck,Justified,65,130,60,75,60,75,465,2 Attack,30,35,163,Medium Slow,Field,,50.0,50.0,25,Ordinary
+0360,Wynaut,3,Psychic,,Bright Pokémon,0.6,14.0,Shadow Tag,Telepathy,,95,23,48,23,48,23,260,1 HP,125,50,52,Medium Fast,Undiscovered,,50.0,50.0,20,Baby Pokemon
+0361,Snorunt,3,Ice,,Snow Hat Pokémon,0.7,16.8,Inner Focus,Ice Body,Moody,50,50,50,50,50,50,300,1 HP,190,50,60,Medium Fast,Fairy ,Mineral,50.0,50.0,20,Ordinary
+0362,Glalie,3,Ice,,Face Pokémon,1.5,256.5,Inner Focus,Ice Body,Moody,80,80,80,80,80,80,480,2 HP,75,50,168,Medium Fast,Fairy ,Mineral,50.0,50.0,20,Ordinary
+0363,Spheal,3,Ice,Water,Clap Pokémon,0.8,39.5,Thick Fat,Ice Body,Oblivious,70,40,50,55,50,25,290,1 HP,255,50,58,Medium Slow,Field ,Water 1,50.0,50.0,20,Ordinary
+0364,Sealeo,3,Ice,Water,Ball Roll Pokémon,1.1,87.6,Thick Fat,Ice Body,Oblivious,90,60,70,75,70,45,410,2 HP,120,50,144,Medium Slow,Field ,Water 1,50.0,50.0,20,Ordinary
+0365,Walrein,3,Ice,Water,Ice Break Pokémon,1.4,150.6,Thick Fat,Ice Body,Oblivious,110,80,90,95,90,65,530,3 HP,45,50,239,Medium Slow,Field ,Water 1,50.0,50.0,20,Ordinary
+0366,Clamperl,3,Water,,Bivalve Pokémon,0.4,52.5,Shell Armor,Rattled,,35,64,85,74,55,32,345,1 Defense,255,50,69,Erratic,Water 1,,50.0,50.0,20,Ordinary
+0367,Huntail,3,Water,,Deep Sea Pokémon,1.7,27.0,Swift Swim,Water Veil,,55,104,105,94,75,52,485,"1 Attack, 1 Defense",60,50,170,Erratic,Water 1,,50.0,50.0,20,Ordinary
+0368,Gorebyss,3,Water,,South Sea Pokémon,1.8,22.6,Swift Swim,Hydration,,55,84,105,114,75,52,485,2 Sp. Atk,60,50,170,Erratic,Water 1,,50.0,50.0,20,Ordinary
+0369,Relicanth,3,Water,Rock,Longevity Pokémon,1.0,23.4,Swift Swim,Rock Head,Sturdy,100,90,130,45,65,55,485,"1 HP, 1 Defense",25,50,170,Slow,Water 1 ,Water 2,87.5,12.5,40,Ordinary
+0370,Luvdisc,3,Water,,Rendezvous Pokémon,0.6,8.7,Swift Swim,Hydration,,43,30,55,40,65,97,330,1 Speed,225,50,116,Fast,Water 2,,25.0,75.0,20,Ordinary
+0371,Bagon,3,Dragon,,Rock Head Pokémon,0.6,42.1,Rock Head,Sheer Force,,45,75,60,40,30,50,300,1 Attack,45,35,60,Slow,Dragon,,50.0,50.0,40,Ordinary
+0372,Shelgon,3,Dragon,,Endurance Pokémon,1.1,110.5,Rock Head,Overcoat,,65,95,100,60,50,50,420,2 Defense,45,35,147,Slow,Dragon,,50.0,50.0,40,Ordinary
+0373,Salamence,3,Dragon,Flying,Dragon Pokémon,1.5,102.6,Intimidate,Moxie,,95,135,80,110,80,100,600,3 Attack,45,35,300,Slow,Dragon,,50.0,50.0,40,Ordinary
+0374,Beldum,3,Steel,Psychic,Iron Ball Pokémon,0.6,95.2,Clear Body,Light Metal,,40,55,80,35,60,30,300,1 Defense,3,35,60,Slow,Mineral,,,,40,Ordinary
+0375,Metang,3,Steel,Psychic,Iron Claw Pokémon,1.2,202.5,Clear Body,Light Metal,,60,75,100,55,80,50,420,2 Defense,3,35,147,Slow,Mineral,,,,40,Ordinary
+0376,Metagross,3,Steel,Psychic,Iron Leg Pokémon,1.6,550.0,Clear Body,Light Metal,,80,135,130,95,90,70,600,3 Defense,3,35,270,Slow,Mineral,,,,40,Ordinary
+0377,Regirock,3,Rock,,Rock Peak Pokémon,1.7,230.0,Clear Body,Sturdy,,80,100,200,50,100,50,580,3 Defense,3,35,261,Slow,Undiscovered,,,,80,Legendary
+0378,Regice,3,Ice,,Iceberg Pokémon,1.8,175.0,Clear Body,Ice Body,,80,50,100,100,200,50,580,3 Sp. Def,3,35,261,Slow,Undiscovered,,,,80,Legendary
+0379,Registeel,3,Steel,,Iron Pokémon,1.9,205.0,Clear Body,Light Metal,,80,75,150,75,150,50,580,"2 Defense, 1 Sp. Def",3,35,261,Slow,Undiscovered,,,,80,Legendary
+0380,Latias,3,Dragon,Psychic,Eon Pokémon,1.4,40.0,Levitate,,,80,80,90,110,130,110,600,3 Sp. Def,3,90,270,Slow,Undiscovered,,0.0,100.0,120,Legendary
+0381,Latios,3,Dragon,Psychic,Eon Pokémon,2.0,60.0,Levitate,,,80,90,80,130,110,110,600,3 Sp. Atk,3,90,270,Slow,Undiscovered,,100.0,0.0,120,Legendary
+0382,Kyogre,3,Water,,Sea Basin Pokémon,4.5,352.0,Drizzle,,,100,100,90,150,140,90,670,3 Sp. Atk,3,0,335,Slow,Undiscovered,,,,120,Legendary
+0383,Groudon,3,Ground,,Continent Pokémon,3.5,950.0,Drought,,,100,150,140,100,90,90,670,3 Attack,3,0,335,Slow,Undiscovered,,,,120,Legendary
+0384,Rayquaza,3,Dragon,Flying,Sky High Pokémon,7.0,206.5,Air Lock,,,105,150,90,150,90,95,680,"2 Attack, 1 Sp. Atk",45,0,340,Slow,Undiscovered,,,,120,Legendary
+0385,Jirachi,3,Steel,Psychic,Wish Pokémon,0.3,1.1,Serene Grace,,,100,100,100,100,100,100,600,3 HP,3,100,270,Slow,Undiscovered,,,,120,Mythical
+0386,Deoxys,3,Psychic,,DNA Pokémon,1.7,60.8,Pressure,,,50,150,50,150,50,150,600,"1 Attack, 1 Sp. Atk, 1 Speed",3,0,270,Slow,Undiscovered,,,,120,Mythical
+0387,Turtwig,4,Grass,,Tiny Leaf Pokémon,0.4,10.2,Overgrow,Shell Armor,,55,68,64,45,55,31,318,1 Attack,45,50,64,Medium Slow,Grass ,Monster,87.5,12.5,20,Ordinary
+0388,Grotle,4,Grass,,Grove Pokémon,1.1,97.0,Overgrow,Shell Armor,,75,89,85,55,65,36,405,"1 Attack, 1 Defense",45,50,142,Medium Slow,Grass ,Monster,87.5,12.5,20,Ordinary
+0389,Torterra,4,Grass,Ground,Continent Pokémon,2.2,310.0,Overgrow,Shell Armor,,95,109,105,75,85,56,525,"2 Attack, 1 Defense",45,50,236,Medium Slow,Grass ,Monster,87.5,12.5,20,Ordinary
+0390,Chimchar,4,Fire,,Chimp Pokémon,0.5,6.2,Blaze,Iron Fist,,44,58,44,58,44,61,309,1 Speed,45,50,62,Medium Slow,Field ,Human-Like,87.5,12.5,20,Ordinary
+0391,Monferno,4,Fire,Fighting,Playful Pokémon,0.9,22.0,Blaze,Iron Fist,,64,78,52,78,52,81,405,"1 Sp. Atk, 1 Speed",45,50,142,Medium Slow,Field ,Human-Like,87.5,12.5,20,Ordinary
+0392,Infernape,4,Fire,Fighting,Flame Pokémon,1.2,55.0,Blaze,Iron Fist,,76,104,71,104,71,108,534,"1 Attack, 1 Sp. Atk, 1 Speed",45,50,240,Medium Slow,Field ,Human-Like,87.5,12.5,20,Ordinary
+0393,Piplup,4,Water,,Penguin Pokémon,0.4,5.2,Torrent,Defiant,,53,51,53,61,56,40,314,1 Sp. Atk,45,50,63,Medium Slow,Field ,Water 1,87.5,12.5,20,Ordinary
+0394,Prinplup,4,Water,,Penguin Pokémon,0.8,23.0,Torrent,Defiant,,64,66,68,81,76,50,405,2 Sp. Atk,45,50,142,Medium Slow,Field ,Water 1,87.5,12.5,20,Ordinary
+0395,Empoleon,4,Water,Steel,Emperor Pokémon,1.7,84.5,Torrent,Defiant,,84,86,88,111,101,60,530,3 Sp. Atk,45,50,239,Medium Slow,Field ,Water 1,87.5,12.5,20,Ordinary
+0396,Starly,4,Normal,Flying,Starling Pokémon,0.3,2.0,Keen Eye,Reckless,,40,55,30,30,30,60,245,1 Speed,255,50,49,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0397,Staravia,4,Normal,Flying,Starling Pokémon,0.6,15.5,Intimidate,Reckless,,55,75,50,40,40,80,340,2 Speed,120,50,119,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0398,Staraptor,4,Normal,Flying,Predator Pokémon,1.2,24.9,Intimidate,Reckless,,85,120,70,50,60,100,485,3 Attack,45,50,243,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0399,Bidoof,4,Normal,,Plump Mouse Pokémon,0.5,20.0,Simple,Unaware,Moody,59,45,40,35,40,31,250,1 HP,255,50,50,Medium Fast,Field ,Water 1,50.0,50.0,15,Ordinary
+0400,Bibarel,4,Normal,Water,Beaver Pokémon,1.0,31.5,Simple,Unaware,Moody,79,85,60,55,60,71,410,2 Attack,127,50,144,Medium Fast,Field ,Water 1,50.0,50.0,15,Ordinary
+0401,Kricketot,4,Bug,,Cricket Pokémon,0.3,2.2,Shed Skin,Run Away,,37,25,41,25,41,25,194,1 Defense,255,50,39,Medium Slow,Bug,,50.0,50.0,15,Ordinary
+0402,Kricketune,4,Bug,,Cricket Pokémon,1.0,25.5,Swarm,Technician,,77,85,51,55,51,65,384,2 Attack,45,50,134,Medium Slow,Bug,,50.0,50.0,15,Ordinary
+0403,Shinx,4,Electric,,Flash Pokémon,0.5,9.5,Rivalry,Intimidate,Guts,45,65,34,40,34,45,263,1 Attack,235,50,53,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0404,Luxio,4,Electric,,Spark Pokémon,0.9,30.5,Rivalry,Intimidate,Guts,60,85,49,60,49,60,363,2 Attack,120,100,127,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0405,Luxray,4,Electric,,Gleam Eyes Pokémon,1.4,42.0,Rivalry,Intimidate,Guts,80,120,79,95,79,70,523,3 Attack,45,50,262,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0406,Budew,4,Grass,Poison,Bud Pokémon,0.2,1.2,Natural Cure,Poison Point,Leaf Guard,40,30,35,50,70,55,280,1 Sp. Atk,255,50,56,Medium Slow,Undiscovered,,50.0,50.0,20,Baby Pokemon
+0407,Roserade,4,Grass,Poison,Bouquet Pokémon,0.9,14.5,Natural Cure,Poison Point,Technician,60,70,65,125,105,90,515,3 Sp. Atk,75,50,232,Medium Slow,Fairy ,Grass,50.0,50.0,20,Ordinary
+0408,Cranidos,4,Rock,,Head Butt Pokémon,0.9,31.5,Mold Breaker,Sheer Force,,67,125,40,30,30,58,350,1 Attack,45,50,70,Erratic,Monster,,87.5,12.5,30,Fossil
+0409,Rampardos,4,Rock,,Head Butt Pokémon,1.6,102.5,Mold Breaker,Sheer Force,,97,165,60,65,50,58,495,2 Attack,45,50,173,Erratic,Monster,,87.5,12.5,30,Fossil
+0410,Shieldon,4,Rock,Steel,Shield Pokémon,0.5,57.0,Sturdy,Soundproof,,30,42,118,42,88,30,350,1 Defense,45,50,70,Erratic,Monster,,87.5,12.5,30,Fossil
+0411,Bastiodon,4,Rock,Steel,Shield Pokémon,1.3,149.5,Sturdy,Soundproof,,60,52,168,47,138,30,495,2 Defense,45,50,173,Erratic,Monster,,87.5,12.5,30,Fossil
+0412,Burmy,4,Bug,,Bagworm Pokémon,0.2,3.4,Shed Skin,Overcoat,,40,29,45,29,45,36,224,1 Sp. Def,120,50,45,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0413,Wormadam,4,Bug,Grass,Bagworm Pokémon,0.5,6.5,Anticipation,Overcoat,,60,59,85,79,105,36,424,2 Sp. Def,45,50,148,Medium Fast,Bug,,0.0,100.0,15,Ordinary
+0414,Mothim,4,Bug,Flying,Moth Pokémon,0.9,23.3,Swarm,Tinted Lens,,70,94,50,94,50,66,424,"1 Attack, 1 Sp. Atk",45,50,148,Medium Fast,Bug,,100.0,0.0,15,Ordinary
+0415,Combee,4,Bug,Flying,Tiny Bee Pokémon,0.3,5.5,Honey Gather,Hustle,,30,30,42,30,42,70,244,1 Speed,120,50,49,Medium Slow,Bug,,87.5,12.5,15,Ordinary
+0416,Vespiquen,4,Bug,Flying,Beehive Pokémon,1.2,38.5,Pressure,Unnerve,,70,80,102,80,102,40,474,"1 Defense, 1 Sp. Def",45,50,166,Medium Slow,Bug,,0.0,100.0,15,Ordinary
+0417,Pachirisu,4,Electric,,EleSquirrel Pokémon,0.4,3.9,Run Away,Pickup,Volt Absorb,60,45,70,45,90,95,405,1 Speed,200,100,142,Medium Fast,Fairy ,Field,50.0,50.0,10,Ordinary
+0418,Buizel,4,Water,,Sea Weasel Pokémon,0.7,29.5,Swift Swim,Water Veil,,55,65,35,60,30,85,330,1 Speed,190,50,66,Medium Fast,Field ,Water 1,50.0,50.0,20,Ordinary
+0419,Floatzel,4,Water,,Sea Weasel Pokémon,1.1,33.5,Swift Swim,Water Veil,,85,105,55,85,50,115,495,2 Speed,75,50,173,Medium Fast,Field ,Water 1,50.0,50.0,20,Ordinary
+0420,Cherubi,4,Grass,,Cherry Pokémon,0.4,3.3,Chlorophyll,,,45,35,45,62,53,35,275,1 Sp. Atk,190,50,55,Medium Fast,Fairy ,Grass,50.0,50.0,20,Ordinary
+0421,Cherrim,4,Grass,,Blossom Pokémon,0.5,9.3,Flower Gift,,,70,60,70,87,78,85,450,2 Sp. Atk,75,50,158,Medium Fast,Fairy ,Grass,50.0,50.0,20,Ordinary
+0422,Shellos,4,Water,,Sea Slug Pokémon,0.3,6.3,Sticky Hold,Storm Drain,Sand Force,76,48,48,57,62,34,325,1 HP,190,50,65,Medium Fast,Amorphous ,Water 1,50.0,50.0,20,Ordinary
+0423,Gastrodon,4,Water,Ground,Sea Slug Pokémon,0.9,29.9,Sticky Hold,Storm Drain,Sand Force,111,83,68,92,82,39,475,2 HP,75,50,166,Medium Fast,Amorphous ,Water 1,50.0,50.0,20,Ordinary
+0424,Ambipom,4,Normal,,Long Tail Pokémon,1.2,20.3,Technician,Pickup,Skill Link,75,100,66,60,66,115,482,2 Speed,45,100,169,Fast,Field,,50.0,50.0,20,Ordinary
+0425,Drifloon,4,Ghost,Flying,Balloon Pokémon,0.4,1.2,Aftermath,Unburden,Flare Boost,90,50,34,60,44,70,348,1 HP,125,50,70,Fluctuating,Amorphous,,50.0,50.0,30,Ordinary
+0426,Drifblim,4,Ghost,Flying,Blimp Pokémon,1.2,15.0,Aftermath,Unburden,Flare Boost,150,80,44,90,54,80,498,2 HP,60,50,174,Fluctuating,Amorphous,,50.0,50.0,30,Ordinary
+0427,Buneary,4,Normal,,Rabbit Pokémon,0.4,5.5,Run Away,Klutz,Limber,55,66,44,44,56,85,350,1 Speed,190,0,70,Medium Fast,Field ,Human-Like,50.0,50.0,20,Ordinary
+0428,Lopunny,4,Normal,,Rabbit Pokémon,1.2,33.3,Cute Charm,Klutz,Limber,65,76,84,54,96,105,480,2 Speed,60,140,168,Medium Fast,Field ,Human-Like,50.0,50.0,20,Ordinary
+0429,Mismagius,4,Ghost,,Magical Pokémon,0.9,4.4,Levitate,,,60,60,60,105,105,105,495,"1 Sp. Atk, 1 Sp. Def",45,35,173,Fast,Amorphous,,50.0,50.0,25,Ordinary
+0430,Honchkrow,4,Dark,Flying,Big Boss Pokémon,0.9,27.3,Insomnia,Super Luck,Moxie,100,125,52,105,52,71,505,2 Attack,30,35,177,Medium Slow,Flying,,50.0,50.0,20,Ordinary
+0431,Glameow,4,Normal,,Catty Pokémon,0.5,3.9,Limber,Own Tempo,Keen Eye,49,55,42,42,37,85,310,1 Speed,190,50,62,Fast,Field,,25.0,75.0,20,Ordinary
+0432,Purugly,4,Normal,,Tiger Cat Pokémon,1.0,43.8,Thick Fat,Own Tempo,Defiant,71,82,64,64,59,112,452,2 Speed,75,50,158,Fast,Field,,25.0,75.0,20,Ordinary
+0433,Chingling,4,Psychic,,Bell Pokémon,0.2,0.6,Levitate,,,45,30,50,65,50,45,285,1 Sp. Atk,120,50,57,Fast,Undiscovered,,50.0,50.0,25,Baby Pokemon
+0434,Stunky,4,Poison,Dark,Skunk Pokémon,0.4,19.2,Stench,Aftermath,Keen Eye,63,63,47,41,41,74,329,1 Speed,225,50,66,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0435,Skuntank,4,Poison,Dark,Skunk Pokémon,1.0,38.0,Stench,Aftermath,Keen Eye,103,93,67,71,61,84,479,2 HP,60,50,168,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0436,Bronzor,4,Steel,Psychic,Bronze Pokémon,0.5,60.5,Levitate,Heatproof,Heavy Metal,57,24,86,24,86,23,300,1 Defense,255,50,60,Medium Fast,Mineral,,,,20,Ordinary
+0437,Bronzong,4,Steel,Psychic,Bronze Bell Pokémon,1.3,187.0,Levitate,Heatproof,Heavy Metal,67,89,116,79,116,33,500,"1 Defense, 1 Sp. Def",90,50,175,Medium Fast,Mineral,,,,20,Ordinary
+0438,Bonsly,4,Rock,,Bonsai Pokémon,0.5,15.0,Sturdy,Rock Head,Rattled,50,80,95,10,45,10,290,1 Defense,255,50,58,Medium Fast,Undiscovered,,50.0,50.0,20,Baby Pokemon
+0439,Mime Jr.,4,Psychic,Fairy,Mime Pokémon,0.6,13.0,Soundproof,Filter,Technician,20,25,45,70,90,60,310,1 Sp. Def,145,50,62,Medium Fast,Undiscovered,,50.0,50.0,25,Baby Pokemon
+0440,Happiny,4,Normal,,Playhouse Pokémon,0.6,24.4,Natural Cure,Serene Grace,Friend Guard,100,5,5,15,65,30,220,1 HP,130,140,110,Fast,Undiscovered,,0.0,100.0,40,Baby Pokemon
+0441,Chatot,4,Normal,Flying,Music Note Pokémon,0.5,1.9,Keen Eye,Tangled Feet,Big Pecks,76,65,45,92,42,91,411,1 Attack,30,35,144,Medium Slow,Flying,,50.0,50.0,20,Ordinary
+0442,Spiritomb,4,Ghost,Dark,Forbidden Pokémon,1.0,108.0,Pressure,Infiltrator,,50,92,108,92,108,35,485,"1 Defense, 1 Sp. Def",100,50,170,Medium Fast,Amorphous,,50.0,50.0,30,Ordinary
+0443,Gible,4,Dragon,Ground,Land Shark Pokémon,0.7,20.5,Sand Veil,Rough Skin,,58,70,45,40,45,42,300,1 Attack,45,50,60,Slow,Dragon ,Monster,50.0,50.0,40,Ordinary
+0444,Gabite,4,Dragon,Ground,Cave Pokémon,1.4,56.0,Sand Veil,Rough Skin,,68,90,65,50,55,82,410,2 Attack,45,50,144,Slow,Dragon ,Monster,50.0,50.0,40,Ordinary
+0445,Garchomp,4,Dragon,Ground,Mach Pokémon,1.9,95.0,Sand Veil,Rough Skin,,108,130,95,80,85,102,600,3 Attack,45,50,300,Slow,Dragon ,Monster,50.0,50.0,40,Ordinary
+0446,Munchlax,4,Normal,,Big Eater Pokémon,0.6,105.0,Pickup,Thick Fat,Gluttony,135,85,40,40,85,5,390,1 HP,50,50,78,Slow,Undiscovered,,87.5,12.5,40,Baby Pokemon
+0447,Riolu,4,Fighting,,Emanation Pokémon,0.7,20.2,Steadfast,Inner Focus,Prankster,40,70,40,35,40,60,285,1 Attack,75,50,57,Medium Slow,Undiscovered,,87.5,12.5,25,Baby Pokemon
+0448,Lucario,4,Fighting,Steel,Aura Pokémon,1.2,54.0,Steadfast,Inner Focus,Justified,70,110,70,115,70,90,525,"1 Attack, 1 Sp. Atk",45,50,184,Medium Slow,Field ,Human-Like,87.5,12.5,25,Ordinary
+0449,Hippopotas,4,Ground,,Hippo Pokémon,0.8,49.5,Sand Stream,Sand Force,,68,72,78,38,42,32,330,1 Defense,140,50,66,Slow,Field,,50.0,50.0,30,Ordinary
+0450,Hippowdon,4,Ground,,Heavyweight Pokémon,2.0,300.0,Sand Stream,Sand Force,,108,112,118,68,72,47,525,2 Defense,60,50,184,Slow,Field,,50.0,50.0,30,Ordinary
+0451,Skorupi,4,Poison,Bug,Scorpion Pokémon,0.8,12.0,Battle Armor,Sniper,Keen Eye,40,50,90,30,55,65,330,1 Defense,120,50,66,Slow,Bug ,Water 3,50.0,50.0,20,Ordinary
+0452,Drapion,4,Poison,Dark,Ogre Scorp Pokémon,1.3,61.5,Battle Armor,Sniper,Keen Eye,70,90,110,60,75,95,500,2 Defense,45,50,175,Slow,Bug ,Water 3,50.0,50.0,20,Ordinary
+0453,Croagunk,4,Poison,Fighting,Toxic Mouth Pokémon,0.7,23.0,Anticipation,Dry Skin,Poison Touch,48,61,40,61,40,50,300,1 Attack,140,100,60,Medium Fast,Human-Like,,50.0,50.0,10,Ordinary
+0454,Toxicroak,4,Poison,Fighting,Toxic Mouth Pokémon,1.3,44.4,Anticipation,Dry Skin,Poison Touch,83,106,65,86,65,85,490,2 Attack,75,50,172,Medium Fast,Human-Like,,50.0,50.0,20,Ordinary
+0455,Carnivine,4,Grass,,Bug Catcher Pokémon,1.4,27.0,Levitate,,,74,100,72,90,72,46,454,2 Attack,200,50,159,Slow,Grass,,50.0,50.0,25,Ordinary
+0456,Finneon,4,Water,,Wing Fish Pokémon,0.4,7.0,Swift Swim,Storm Drain,Water Veil,49,49,56,49,61,66,330,1 Speed,190,50,66,Erratic,Water 2,,50.0,50.0,20,Ordinary
+0457,Lumineon,4,Water,,Neon Pokémon,1.2,24.0,Swift Swim,Storm Drain,Water Veil,69,69,76,69,86,91,460,2 Speed,75,50,161,Erratic,Water 2,,50.0,50.0,20,Ordinary
+0458,Mantyke,4,Water,Flying,Kite Pokémon,1.0,65.0,Swift Swim,Water Absorb,Water Veil,45,20,50,60,120,50,345,1 Sp. Def,25,50,69,Slow,Undiscovered,,50.0,50.0,25,Baby Pokemon
+0459,Snover,4,Grass,Ice,Frost Tree Pokémon,1.0,50.5,Snow Warning,Soundproof,,60,62,50,62,60,40,334,1 Attack,120,50,67,Slow,Grass ,Monster,50.0,50.0,20,Ordinary
+0460,Abomasnow,4,Grass,Ice,Frost Tree Pokémon,2.2,135.5,Snow Warning,Soundproof,,90,92,75,92,85,60,494,"1 Attack, 1 Sp. Atk",60,50,173,Slow,Grass ,Monster,50.0,50.0,20,Ordinary
+0461,Weavile,4,Dark,Ice,Sharp Claw Pokémon,1.1,34.0,Pressure,Pickpocket,,70,120,65,45,85,125,510,"1 Attack, 1 Speed",45,35,179,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0462,Magnezone,4,Electric,Steel,Magnet Area Pokémon,1.2,180.0,Magnet Pull,Sturdy,Analytic,70,70,115,130,90,60,535,3 Sp. Atk,30,50,268,Medium Fast,Mineral,,,,20,Ordinary
+0463,Lickilicky,4,Normal,,Licking Pokémon,1.7,140.0,Own Tempo,Oblivious,Cloud Nine,110,85,95,80,95,50,515,3 HP,30,50,180,Medium Fast,Monster,,50.0,50.0,20,Ordinary
+0464,Rhyperior,4,Ground,Rock,Drill Pokémon,2.4,282.8,Lightning Rod,Solid Rock,Reckless,115,140,130,55,55,40,535,3 Attack,30,50,241,Slow,Field ,Monster,50.0,50.0,20,Ordinary
+0465,Tangrowth,4,Grass,,Vine Pokémon,2.0,128.6,Chlorophyll,Leaf Guard,Regenerator,100,100,125,110,50,50,535,2 Defense,30,50,187,Medium Fast,Grass,,50.0,50.0,20,Ordinary
+0466,Electivire,4,Electric,,Thunderbolt Pokémon,1.8,138.6,Motor Drive,Vital Spirit,,75,123,67,95,85,95,540,3 Attack,30,50,243,Medium Fast,Human-Like,,75.0,25.0,25,Ordinary
+0467,Magmortar,4,Fire,,Blast Pokémon,1.6,68.0,Flame Body,Vital Spirit,,75,95,67,125,95,83,540,3 Sp. Atk,30,50,243,Medium Fast,Human-Like,,75.0,25.0,25,Ordinary
+0468,Togekiss,4,Fairy,Flying,Jubilee Pokémon,1.5,38.0,Hustle,Serene Grace,Super Luck,85,50,95,120,115,80,545,"2 Sp. Atk, 1 Sp. Def",30,50,245,Fast,Fairy ,Flying,87.5,12.5,10,Ordinary
+0469,Yanmega,4,Bug,Flying,Ogre Darner Pokémon,1.9,51.5,Speed Boost,Tinted Lens,Frisk,86,76,86,116,56,95,515,2 Attack,30,50,180,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0470,Leafeon,4,Grass,,Verdant Pokémon,1.0,25.5,Leaf Guard,Chlorophyll,,65,110,130,60,65,95,525,2 Defense,45,35,184,Medium Fast,Field,,87.5,12.5,35,Ordinary
+0471,Glaceon,4,Ice,,Fresh Snow Pokémon,0.8,25.9,Snow Cloak,Ice Body,,65,60,110,130,95,65,525,2 Sp. Atk,45,35,184,Medium Fast,Field,,87.5,12.5,35,Ordinary
+0472,Gliscor,4,Ground,Flying,Fang Scorp Pokémon,2.0,42.5,Hyper Cutter,Sand Veil,Poison Heal,75,95,125,45,75,95,510,2 Defense,30,50,179,Medium Slow,Bug,,50.0,50.0,20,Ordinary
+0473,Mamoswine,4,Ice,Ground,Twin Tusk Pokémon,2.5,291.0,Oblivious,Snow Cloak,Thick Fat,110,130,80,70,60,80,530,3 Attack,50,50,239,Slow,Field,,50.0,50.0,20,Ordinary
+0474,Porygon-Z,4,Normal,,Virtual Pokémon,0.9,34.0,Adaptability,Download,Analytic,85,80,70,135,75,90,535,3 Sp. Atk,30,50,241,Medium Fast,Mineral,,,,20,Ordinary
+0475,Gallade,4,Psychic,Fighting,Blade Pokémon,1.6,52.0,Steadfast,Sharpness,Justified,68,125,65,65,115,80,518,3 Attack,45,35,259,Slow,Amorphous ,Human-Like,100.0,0.0,20,Ordinary
+0476,Probopass,4,Rock,Steel,Compass Pokémon,1.4,340.0,Sturdy,Magnet Pull,Sand Force,60,55,145,75,150,40,525,"1 Defense, 2 Sp. Def",60,50,184,Medium Fast,Mineral,,50.0,50.0,20,Ordinary
+0477,Dusknoir,4,Ghost,,Gripper Pokémon,2.2,106.6,Pressure,Frisk,,45,100,135,65,135,45,525,"1 Defense, 2 Sp. Def",45,35,236,Fast,Amorphous,,50.0,50.0,25,Ordinary
+0478,Froslass,4,Ice,Ghost,Snow Land Pokémon,1.3,26.6,Snow Cloak,Cursed Body,,70,80,70,80,70,110,480,2 Speed,75,50,168,Medium Fast,Fairy ,Mineral,0.0,100.0,20,Ordinary
+0479,Rotom,4,Electric,Ghost,Plasma Pokémon,0.3,0.3,Levitate,,,50,50,77,95,77,91,440,"1 Sp. Atk, 1 Speed",45,50,154,Medium Fast,Amorphous,,,,20,Ordinary
+0480,Uxie,4,Psychic,,Knowledge Pokémon,0.3,0.3,Levitate,,,75,75,130,75,130,95,580,"2 Defense, 1 Sp. Def",3,140,290,Slow,Undiscovered,,,,80,Legendary
+0481,Mesprit,4,Psychic,,Emotion Pokémon,0.3,0.3,Levitate,,,80,105,105,105,105,80,580,"1 Attack, 1 Sp. Atk, 1 Sp. Def",3,140,290,Slow,Undiscovered,,,,80,Legendary
+0482,Azelf,4,Psychic,,Willpower Pokémon,0.3,0.3,Levitate,,,75,125,70,125,70,115,580,"2 Attack, 1 Sp. Atk",3,140,290,Slow,Undiscovered,,,,80,Legendary
+0483,Dialga,4,Steel,Dragon,Temporal Pokémon,5.4,683.0,Pressure,Telepathy,,100,120,120,150,100,90,680,3 Sp. Atk,3,0,340,Slow,Undiscovered,,,,120,Legendary
+0484,Palkia,4,Water,Dragon,Spatial Pokémon,4.2,336.0,Pressure,Telepathy,,90,120,100,150,120,100,680,3 Sp. Atk,3,0,340,Slow,Undiscovered,,,,120,Legendary
+0485,Heatran,4,Fire,Steel,Lava Dome Pokémon,1.7,430.0,Flash Fire,Flame Body,,91,90,106,130,106,77,600,3 Sp. Atk,3,100,300,Slow,Undiscovered,,50.0,50.0,10,Legendary
+0486,Regigigas,4,Normal,,Colossal Pokémon,3.7,420.0,Slow Start,,,110,160,110,80,110,100,670,3 Attack,3,0,302,Slow,Undiscovered,,,,120,Legendary
+0487,Giratina,4,Ghost,Dragon,Renegade Pokémon,4.5,750.0,Pressure,Telepathy,,150,100,120,100,120,90,680,3 HP,3,0,340,Slow,Undiscovered,,,,120,Legendary
+0488,Cresselia,4,Psychic,,Lunar Pokémon,1.5,85.6,Levitate,,,120,70,110,75,120,85,580,3 Sp. Def,3,100,290,Slow,Undiscovered,,0.0,100.0,120,Legendary
+0489,Phione,4,Water,,Sea Drifter Pokémon,0.4,3.1,Hydration,,,80,80,80,80,80,80,480,1 HP,30,50,216,Slow,Fairy ,Water 1,,,40,Mythical
+0490,Manaphy,4,Water,,Seafaring Pokémon,0.3,1.4,Hydration,,,100,100,100,100,100,100,600,3 HP,3,50,270,Slow,Fairy ,Water 1,,,10,Mythical
+0491,Darkrai,4,Dark,,Pitch-Black Pokémon,1.5,50.5,Bad Dreams,,,70,90,90,135,90,125,600,"2 Sp. Atk, 1 Speed",3,0,270,Slow,Undiscovered,,,,120,Mythical
+0492,Shaymin,4,Grass,,Gratitude Pokémon,0.2,2.1,Natural Cure,,,100,100,100,100,100,100,600,3 HP,45,100,270,Medium Slow,Undiscovered,,,,120,Mythical
+0493,Arceus,4,Normal,,Alpha Pokémon,3.2,320.0,Multitype,,,120,120,120,120,120,120,720,3 HP,3,0,360,Slow,Undiscovered,,,,120,Mythical
+0494,Victini,5,Psychic,Fire,Victory Pokémon,0.4,4.0,Victory Star,,,100,100,100,100,100,100,600,3 HP,3,100,270,Slow,Undiscovered,,,,120,Mythical
+0495,Snivy,5,Grass,,Grass Snake Pokémon,0.6,8.1,Overgrow,Contrary,,45,45,55,45,55,63,308,1 Speed,45,50,62,Medium Slow,Field ,Grass,87.5,12.5,20,Ordinary
+0496,Servine,5,Grass,,Grass Snake Pokémon,0.8,16.0,Overgrow,Contrary,,60,60,75,60,75,83,413,2 Speed,45,50,145,Medium Slow,Field ,Grass,87.5,12.5,20,Ordinary
+0497,Serperior,5,Grass,,Regal Pokémon,3.3,63.0,Overgrow,Contrary,,75,75,95,75,95,113,528,3 Speed,45,50,238,Medium Slow,Field ,Grass,87.5,12.5,20,Ordinary
+0498,Tepig,5,Fire,,Fire Pig Pokémon,0.5,9.9,Blaze,Thick Fat,,65,63,45,45,45,45,308,1 HP,45,50,62,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0499,Pignite,5,Fire,Fighting,Fire Pig Pokémon,1.0,55.5,Blaze,Thick Fat,,90,93,55,70,55,55,418,2 Attack,45,50,146,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0500,Emboar,5,Fire,Fighting,Mega Fire Pig Pokémon,1.6,150.0,Blaze,Reckless,,110,123,65,100,65,65,528,3 Attack,45,50,238,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0501,Oshawott,5,Water,,Sea Otter Pokémon,0.5,5.9,Torrent,Shell Armor,,55,55,45,63,45,45,308,1 Sp. Atk,45,50,62,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0502,Dewott,5,Water,,Discipline Pokémon,0.8,24.5,Torrent,Shell Armor,,75,75,60,83,60,60,413,2 Sp. Atk,45,50,145,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0503,Samurott,5,Water,,Formidable Pokémon,1.5,94.6,Torrent,Shell Armor,,95,100,85,108,70,70,528,3 Sp. Atk,45,50,264,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0504,Patrat,5,Normal,,Scout Pokémon,0.5,11.6,Run Away,Keen Eye,Analytic,45,55,39,35,39,42,255,1 Attack,255,50,51,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0505,Watchog,5,Normal,,Lookout Pokémon,1.1,27.0,Illuminate,Keen Eye,Analytic,60,85,69,60,69,77,420,2 Attack,255,50,147,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0506,Lillipup,5,Normal,,Puppy Pokémon,0.4,4.1,Vital Spirit,Pickup,Run Away,45,60,45,25,45,55,275,1 Attack,255,50,55,Medium Slow,Field,,50.0,50.0,15,Ordinary
+0507,Herdier,5,Normal,,Loyal Dog Pokémon,0.9,14.7,Intimidate,Sand Rush,Scrappy,65,80,65,35,65,60,370,2 Attack,120,50,130,Medium Slow,Field,,50.0,50.0,15,Ordinary
+0508,Stoutland,5,Normal,,Big-Hearted Pokémon,1.2,61.0,Intimidate,Sand Rush,Scrappy,85,110,90,45,90,80,500,3 Attack,45,50,225,Medium Slow,Field,,50.0,50.0,15,Ordinary
+0509,Purrloin,5,Dark,,Devious Pokémon,0.4,10.1,Limber,Unburden,Prankster,41,50,37,50,37,66,281,1 Speed,255,50,56,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0510,Liepard,5,Dark,,Cruel Pokémon,1.1,37.5,Limber,Unburden,Prankster,64,88,50,88,50,106,446,2 Speed,90,50,156,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0511,Pansage,5,Grass,,Grass Monkey Pokémon,0.6,10.5,Gluttony,Overgrow,,50,53,48,53,48,64,316,1 Speed,190,50,63,Medium Fast,Field,,87.5,12.5,20,Ordinary
+0512,Simisage,5,Grass,,Thorn Monkey Pokémon,1.1,30.5,Gluttony,Overgrow,,75,98,63,98,63,101,498,2 Speed,75,50,174,Medium Fast,Field,,87.5,12.5,20,Ordinary
+0513,Pansear,5,Fire,,High Temp Pokémon,0.6,11.0,Gluttony,Blaze,,50,53,48,53,48,64,316,1 Speed,190,50,63,Medium Fast,Field,,87.5,12.5,20,Ordinary
+0514,Simisear,5,Fire,,Ember Pokémon,1.0,28.0,Gluttony,Blaze,,75,98,63,98,63,101,498,2 Speed,75,50,174,Medium Fast,Field,,87.5,12.5,20,Ordinary
+0515,Panpour,5,Water,,Spray Pokémon,0.6,13.5,Gluttony,Torrent,,50,53,48,53,48,64,316,1 Speed,190,50,63,Medium Fast,Field,,87.5,12.5,20,Ordinary
+0516,Simipour,5,Water,,Geyser Pokémon,1.0,29.0,Gluttony,Torrent,,75,98,63,98,63,101,498,2 Speed,75,50,174,Medium Fast,Field,,87.5,12.5,20,Ordinary
+0517,Munna,5,Psychic,,Dream Eater Pokémon,0.6,23.3,Forewarn,Synchronize,Telepathy,76,25,45,67,55,24,292,1 HP,190,50,58,Fast,Field,,50.0,50.0,10,Ordinary
+0518,Musharna,5,Psychic,,Drowsing Pokémon,1.1,60.5,Forewarn,Synchronize,Telepathy,116,55,85,107,95,29,487,2 HP,75,50,170,Fast,Field,,50.0,50.0,10,Ordinary
+0519,Pidove,5,Normal,Flying,Tiny Pigeon Pokémon,0.3,2.1,Big Pecks,Super Luck,Rivalry,50,55,50,36,30,43,264,1 Attack,255,50,53,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0520,Tranquill,5,Normal,Flying,Wild Pigeon Pokémon,0.6,15.0,Big Pecks,Super Luck,Rivalry,62,77,62,50,42,65,358,2 Attack,120,50,125,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0521,Unfezant,5,Normal,Flying,Proud Pokémon,1.2,29.0,Big Pecks,Super Luck,Rivalry,80,115,80,65,55,93,488,3 Attack,45,50,220,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0522,Blitzle,5,Electric,,Electrified Pokémon,0.8,29.8,Lightning Rod,Motor Drive,Sap Sipper,45,60,32,50,32,76,295,1 Speed,190,50,59,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0523,Zebstrika,5,Electric,,Thunderbolt Pokémon,1.6,79.5,Lightning Rod,Motor Drive,Sap Sipper,75,100,63,80,63,116,497,2 Speed,75,50,174,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0524,Roggenrola,5,Rock,,Mantle Pokémon,0.4,18.0,Sturdy,Weak Armor,Sand Force,55,75,85,25,25,15,280,1 Defense,255,50,56,Medium Slow,Mineral,,50.0,50.0,15,Ordinary
+0525,Boldore,5,Rock,,Ore Pokémon,0.9,102.0,Sturdy,Weak Armor,Sand Force,70,105,105,50,40,20,390,"1 Attack, 1 Defense",120,50,137,Medium Slow,Mineral,,50.0,50.0,15,Ordinary
+0526,Gigalith,5,Rock,,Compressed Pokémon,1.7,260.0,Sturdy,Sand Stream,Sand Force,85,135,130,60,80,25,515,3 Attack,45,50,232,Medium Slow,Mineral,,50.0,50.0,15,Ordinary
+0527,Woobat,5,Psychic,Flying,Bat Pokémon,0.4,2.1,Unaware,Klutz,Simple,65,45,43,55,43,72,323,1 Speed,190,50,65,Medium Fast,Field ,Flying,50.0,50.0,15,Ordinary
+0528,Swoobat,5,Psychic,Flying,Courting Pokémon,0.9,10.5,Unaware,Klutz,Simple,67,57,55,77,55,114,425,2 Speed,45,50,149,Medium Fast,Field ,Flying,50.0,50.0,15,Ordinary
+0529,Drilbur,5,Ground,,Mole Pokémon,0.3,8.5,Sand Rush,Sand Force,Mold Breaker,60,85,40,30,45,68,328,1 Attack,120,50,66,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0530,Excadrill,5,Ground,Steel,Subterrene Pokémon,0.7,40.4,Sand Rush,Sand Force,Mold Breaker,110,135,60,50,65,88,508,2 Attack,60,50,178,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0531,Audino,5,Normal,,Hearing Pokémon,1.1,31.0,Healer,Regenerator,Klutz,103,60,86,60,86,50,445,2 HP,255,50,390,Fast,Fairy,,50.0,50.0,20,Ordinary
+0532,Timburr,5,Fighting,,Muscular Pokémon,0.6,12.5,Guts,Sheer Force,Iron Fist,75,80,55,25,35,35,305,1 Attack,180,70,61,Medium Slow,Human-Like,,75.0,25.0,20,Ordinary
+0533,Gurdurr,5,Fighting,,Muscular Pokémon,1.2,40.0,Guts,Sheer Force,Iron Fist,85,105,85,40,50,40,405,2 Attack,90,50,142,Medium Slow,Human-Like,,75.0,25.0,20,Ordinary
+0534,Conkeldurr,5,Fighting,,Muscular Pokémon,1.4,87.0,Guts,Sheer Force,Iron Fist,105,140,95,55,65,45,505,3 Attack,45,50,227,Medium Slow,Human-Like,,75.0,25.0,20,Ordinary
+0535,Tympole,5,Water,,Tadpole Pokémon,0.5,4.5,Swift Swim,Hydration,Water Absorb,50,50,40,50,40,64,294,1 Speed,255,50,59,Medium Slow,Water 1,,50.0,50.0,20,Ordinary
+0536,Palpitoad,5,Water,Ground,Vibration Pokémon,0.8,17.0,Swift Swim,Hydration,Water Absorb,75,65,55,65,55,69,384,2 HP,120,50,134,Medium Slow,Water 1,,50.0,50.0,20,Ordinary
+0537,Seismitoad,5,Water,Ground,Vibration Pokémon,1.5,62.0,Swift Swim,Poison Touch,Water Absorb,105,95,75,85,75,74,509,3 HP,45,50,229,Medium Slow,Water 1,,50.0,50.0,20,Ordinary
+0538,Throh,5,Fighting,,Judo Pokémon,1.3,55.5,Guts,Inner Focus,Mold Breaker,120,100,85,30,85,45,465,2 HP,45,50,163,Medium Fast,Human-Like,,100.0,0.0,20,Ordinary
+0539,Sawk,5,Fighting,,Karate Pokémon,1.4,51.0,Sturdy,Inner Focus,Mold Breaker,75,125,75,30,75,85,465,2 Attack,45,50,163,Medium Fast,Human-Like,,100.0,0.0,20,Ordinary
+0540,Sewaddle,5,Bug,Grass,Sewing Pokémon,0.3,2.5,Swarm,Chlorophyll,Overcoat,45,53,70,40,60,42,310,1 Defense,255,50,62,Medium Slow,Bug,,50.0,50.0,15,Ordinary
+0541,Swadloon,5,Bug,Grass,Leaf-Wrapped Pokémon,0.5,7.3,Leaf Guard,Chlorophyll,Overcoat,55,63,90,50,80,42,380,2 Defense,120,50,133,Medium Slow,Bug,,50.0,50.0,15,Ordinary
+0542,Leavanny,5,Bug,Grass,Nurturing Pokémon,1.2,20.5,Swarm,Chlorophyll,Overcoat,75,103,80,70,80,92,500,3 Attack,45,50,225,Medium Slow,Bug,,50.0,50.0,15,Ordinary
+0543,Venipede,5,Bug,Poison,Centipede Pokémon,0.4,5.3,Poison Point,Swarm,Speed Boost,30,45,59,30,39,57,260,1 Defense,255,50,52,Medium Slow,Bug,,50.0,50.0,15,Ordinary
+0544,Whirlipede,5,Bug,Poison,Curlipede Pokémon,1.2,58.5,Poison Point,Swarm,Speed Boost,40,55,99,40,79,47,360,2 Defense,120,50,126,Medium Slow,Bug,,50.0,50.0,15,Ordinary
+0545,Scolipede,5,Bug,Poison,Megapede Pokémon,2.5,200.5,Poison Point,Swarm,Speed Boost,60,100,89,55,69,112,485,3 Speed,45,50,218,Medium Slow,Bug,,50.0,50.0,20,Ordinary
+0546,Cottonee,5,Grass,Fairy,Cotton Puff Pokémon,0.3,0.6,Prankster,Infiltrator,Chlorophyll,40,27,60,37,50,66,280,1 Speed,190,50,56,Medium Fast,Fairy ,Grass,50.0,50.0,20,Ordinary
+0547,Whimsicott,5,Grass,Fairy,Windveiled Pokémon,0.7,6.6,Prankster,Infiltrator,Chlorophyll,60,67,85,77,75,116,480,2 Speed,75,50,168,Medium Fast,Fairy ,Grass,50.0,50.0,20,Ordinary
+0548,Petilil,5,Grass,,Bulb Pokémon,0.5,6.6,Chlorophyll,Own Tempo,Leaf Guard,45,35,50,70,50,30,280,1 Sp. Atk,190,50,56,Medium Fast,Grass,,0.0,100.0,20,Ordinary
+0549,Lilligant,5,Grass,,Flowering Pokémon,1.1,16.3,Chlorophyll,Own Tempo,Leaf Guard,70,60,75,110,75,90,480,2 Sp. Atk,75,50,168,Medium Fast,Grass,,0.0,100.0,20,Ordinary
+0550,Basculin,5,Water,,Hostile Pokémon,1.0,18.0,Reckless,Adaptability,Mold Breaker,70,92,65,80,55,98,460,2 Speed,25,50,161,Medium Fast,Water 2,,50.0,50.0,40,Ordinary
+0551,Sandile,5,Ground,Dark,Desert Croc Pokémon,0.7,15.2,Intimidate,Moxie,Anger Point,50,72,35,35,35,65,292,1 Attack,180,50,58,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0552,Krokorok,5,Ground,Dark,Desert Croc Pokémon,1.0,33.4,Intimidate,Moxie,Anger Point,60,82,45,45,45,74,351,2 Attack,90,50,123,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0553,Krookodile,5,Ground,Dark,Intimidation Pokémon,1.5,96.3,Intimidate,Moxie,Anger Point,95,117,80,65,70,92,519,3 Attack,45,50,260,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0554,Darumaka,5,Fire,,Zen Charm Pokémon,0.6,37.5,Hustle,Inner Focus,,70,90,45,15,45,50,315,1 Attack,120,50,63,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0555,Darmanitan,5,Fire,,Blazing Pokémon,1.3,92.9,Sheer Force,Zen Mode,,105,140,55,30,55,95,480,2 Attack,60,50,168,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0556,Maractus,5,Grass,,Cactus Pokémon,1.0,28.0,Water Absorb,Chlorophyll,Storm Drain,75,86,67,106,67,60,461,2 Sp. Atk,255,50,161,Medium Fast,Grass,,50.0,50.0,20,Ordinary
+0557,Dwebble,5,Bug,Rock,Rock Inn Pokémon,0.3,14.5,Sturdy,Shell Armor,Weak Armor,50,65,85,35,35,55,325,1 Defense,190,50,65,Medium Fast,Bug ,Mineral,50.0,50.0,20,Ordinary
+0558,Crustle,5,Bug,Rock,Stone Home Pokémon,1.4,200.0,Sturdy,Shell Armor,Weak Armor,70,105,125,65,75,45,485,2 Defense,75,50,170,Medium Fast,Bug ,Mineral,50.0,50.0,20,Ordinary
+0559,Scraggy,5,Dark,Fighting,Shedding Pokémon,0.6,11.8,Shed Skin,Moxie,Intimidate,50,75,70,35,70,48,348,1 Attack,180,35,70,Medium Fast,Dragon ,Field,50.0,50.0,15,Ordinary
+0560,Scrafty,5,Dark,Fighting,Hoodlum Pokémon,1.1,30.0,Shed Skin,Moxie,Intimidate,65,90,115,45,115,58,488,"1 Defense, 1 Sp. Def",90,50,171,Medium Fast,Dragon ,Field,50.0,50.0,15,Ordinary
+0561,Sigilyph,5,Psychic,Flying,Avianoid Pokémon,1.4,14.0,Wonder Skin,Magic Guard,Tinted Lens,72,58,80,103,80,97,490,2 Sp. Atk,45,50,172,Medium Fast,Flying,,50.0,50.0,20,Ordinary
+0562,Yamask,5,Ghost,,Spirit Pokémon,0.5,1.5,Mummy,,,38,30,85,55,65,30,303,1 Defense,190,50,61,Medium Fast,Amorphous ,Mineral,50.0,50.0,25,Ordinary
+0563,Cofagrigus,5,Ghost,,Coffin Pokémon,1.7,76.5,Mummy,,,58,50,145,95,105,30,483,2 Defense,90,50,169,Medium Fast,Amorphous ,Mineral,50.0,50.0,25,Ordinary
+0564,Tirtouga,5,Water,Rock,Prototurtle Pokémon,0.7,16.5,Solid Rock,Sturdy,Swift Swim,54,78,103,53,45,22,355,1 Defense,45,50,71,Medium Fast,Water 1 ,Water 3,87.5,12.5,30,Fossil
+0565,Carracosta,5,Water,Rock,Prototurtle Pokémon,1.2,81.0,Solid Rock,Sturdy,Swift Swim,74,108,133,83,65,32,495,2 Defense,45,50,173,Medium Fast,Water 1 ,Water 3,87.5,12.5,30,Fossil
+0566,Archen,5,Rock,Flying,First Bird Pokémon,0.5,9.5,Defeatist,,,55,112,45,74,45,70,401,1 Attack,45,50,71,Medium Fast,Flying ,Water 3,87.5,12.5,30,Fossil
+0567,Archeops,5,Rock,Flying,First Bird Pokémon,1.4,32.0,Defeatist,,,75,140,65,112,65,110,567,2 Attack,45,50,177,Medium Fast,Flying ,Water 3,87.5,12.5,30,Fossil
+0568,Trubbish,5,Poison,,Trash Bag Pokémon,0.6,31.0,Stench,Sticky Hold,Aftermath,50,50,62,40,62,65,329,1 Speed,190,50,66,Medium Fast,Mineral,,50.0,50.0,20,Ordinary
+0569,Garbodor,5,Poison,,Trash Heap Pokémon,1.9,107.3,Stench,Weak Armor,Aftermath,80,95,82,60,82,75,474,2 Attack,60,50,166,Medium Fast,Mineral,,50.0,50.0,20,Ordinary
+0570,Zorua,5,Dark,,Tricky Fox Pokémon,0.7,12.5,Illusion,,,40,65,40,80,40,65,330,1 Sp. Atk,75,50,66,Medium Slow,Field,,87.5,12.5,25,Ordinary
+0571,Zoroark,5,Dark,,Illusion Fox Pokémon,1.6,81.1,Illusion,,,60,105,60,120,60,105,510,2 Sp. Atk,45,50,179,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0572,Minccino,5,Normal,,Chinchilla Pokémon,0.4,5.8,Cute Charm,Technician,Skill Link,55,50,40,40,40,75,300,1 Speed,255,50,60,Fast,Field,,25.0,75.0,15,Ordinary
+0573,Cinccino,5,Normal,,Scarf Pokémon,0.5,7.5,Cute Charm,Technician,Skill Link,75,95,60,65,60,115,470,2 Speed,60,50,165,Fast,Field,,25.0,75.0,15,Ordinary
+0574,Gothita,5,Psychic,,Fixation Pokémon,0.4,5.8,Frisk,Competitive,Shadow Tag,45,30,50,55,65,45,290,1 Sp. Def,200,50,58,Medium Slow,Human-Like,,25.0,75.0,20,Ordinary
+0575,Gothorita,5,Psychic,,Manipulate Pokémon,0.7,18.0,Frisk,Competitive,Shadow Tag,60,45,70,75,85,55,390,2 Sp. Def,100,50,137,Medium Slow,Human-Like,,25.0,75.0,20,Ordinary
+0576,Gothitelle,5,Psychic,,Astral Body Pokémon,1.5,44.0,Frisk,Competitive,Shadow Tag,70,55,95,95,110,65,490,3 Sp. Def,50,50,245,Medium Slow,Human-Like,,25.0,75.0,20,Ordinary
+0577,Solosis,5,Psychic,,Cell Pokémon,0.3,1.0,Overcoat,Magic Guard,Regenerator,45,30,40,105,50,20,290,1 Sp. Atk,200,50,58,Medium Slow,Amorphous,,50.0,50.0,20,Ordinary
+0578,Duosion,5,Psychic,,Mitosis Pokémon,0.6,8.0,Overcoat,Magic Guard,Regenerator,65,40,50,125,60,30,370,2 Sp. Atk,100,50,130,Medium Slow,Amorphous,,50.0,50.0,20,Ordinary
+0579,Reuniclus,5,Psychic,,Multiplying Pokémon,1.0,20.1,Overcoat,Magic Guard,Regenerator,110,65,75,125,85,30,490,3 Sp. Atk,50,50,221,Medium Slow,Amorphous,,50.0,50.0,20,Ordinary
+0580,Ducklett,5,Water,Flying,Water Bird Pokémon,0.5,5.5,Keen Eye,Big Pecks,Hydration,62,44,50,44,50,55,305,1 HP,190,50,61,Medium Fast,Flying ,Water 1,50.0,50.0,20,Ordinary
+0581,Swanna,5,Water,Flying,White Bird Pokémon,1.3,24.2,Keen Eye,Big Pecks,Hydration,75,87,63,87,63,98,473,2 Speed,45,50,166,Medium Fast,Flying ,Water 1,50.0,50.0,20,Ordinary
+0582,Vanillite,5,Ice,,Fresh Snow Pokémon,0.4,5.7,Ice Body,Snow Cloak,Weak Armor,36,50,50,65,60,44,305,1 Sp. Atk,255,50,61,Slow,Mineral,,50.0,50.0,20,Ordinary
+0583,Vanillish,5,Ice,,Icy Snow Pokémon,1.1,41.0,Ice Body,Snow Cloak,Weak Armor,51,65,65,80,75,59,395,2 Sp. Atk,120,50,138,Slow,Mineral,,50.0,50.0,20,Ordinary
+0584,Vanilluxe,5,Ice,,Snowstorm Pokémon,1.3,57.5,Ice Body,Snow Warning,Weak Armor,71,95,85,110,95,79,535,3 Sp. Atk,45,50,241,Slow,Mineral,,50.0,50.0,20,Ordinary
+0585,Deerling,5,Normal,Grass,Season Pokémon,0.6,19.5,Chlorophyll,Sap Sipper,Serene Grace,60,60,50,40,50,75,335,1 Speed,190,50,67,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0586,Sawsbuck,5,Normal,Grass,Season Pokémon,1.9,92.5,Chlorophyll,Sap Sipper,Serene Grace,80,100,70,60,70,95,475,2 Attack,75,50,166,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0587,Emolga,5,Electric,Flying,Sky Squirrel Pokémon,0.4,5.0,Static,Motor Drive,,55,75,60,75,60,103,428,2 Speed,200,50,150,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0588,Karrablast,5,Bug,,Clamping Pokémon,0.5,5.9,Swarm,Shed Skin,No Guard,50,75,45,40,45,60,315,1 Attack,200,50,63,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0589,Escavalier,5,Bug,Steel,Cavalry Pokémon,1.0,33.0,Swarm,Shell Armor,Overcoat,70,135,105,60,105,20,495,2 Attack,75,50,173,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0590,Foongus,5,Grass,Poison,Mushroom Pokémon,0.2,1.0,Effect Spore,Regenerator,,69,55,45,55,55,15,294,1 HP,190,50,59,Medium Fast,Grass,,50.0,50.0,20,Ordinary
+0591,Amoonguss,5,Grass,Poison,Mushroom Pokémon,0.6,10.5,Effect Spore,Regenerator,,114,85,70,85,80,30,464,2 HP,75,50,162,Medium Fast,Grass,,50.0,50.0,20,Ordinary
+0592,Frillish,5,Water,Ghost,Floating Pokémon,1.2,33.0,Water Absorb,Cursed Body,Damp,55,40,50,65,85,40,335,1 Sp. Def,190,50,67,Medium Fast,Amorphous,,50.0,50.0,20,Ordinary
+0593,Jellicent,5,Water,Ghost,Floating Pokémon,2.2,135.0,Water Absorb,Cursed Body,Damp,100,60,70,85,105,60,480,2 Sp. Def,60,50,168,Medium Fast,Amorphous,,50.0,50.0,20,Ordinary
+0594,Alomomola,5,Water,,Caring Pokémon,1.2,31.6,Healer,Hydration,Regenerator,165,75,80,40,45,65,470,2 HP,75,50,165,Fast,Water 1 ,Water 2,50.0,50.0,40,Ordinary
+0595,Joltik,5,Bug,Electric,Attaching Pokémon,0.1,0.6,Compound Eyes,Unnerve,Swarm,50,47,50,57,50,65,319,1 Speed,190,50,64,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0596,Galvantula,5,Bug,Electric,EleSpider Pokémon,0.8,14.3,Compound Eyes,Unnerve,Swarm,70,77,60,97,60,108,472,2 Speed,75,50,165,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0597,Ferroseed,5,Grass,Steel,Thorn Seed Pokémon,0.6,18.8,Iron Barbs,,,44,50,91,24,86,10,305,1 Defense,255,50,61,Medium Fast,Grass ,Mineral,50.0,50.0,20,Ordinary
+0598,Ferrothorn,5,Grass,Steel,Thorn Pod Pokémon,1.0,110.0,Iron Barbs,Anticipation,,74,94,131,54,116,20,489,2 Defense,90,50,171,Medium Fast,Grass ,Mineral,50.0,50.0,20,Ordinary
+0599,Klink,5,Steel,,Gear Pokémon,0.3,21.0,Plus,Minus,Clear Body,40,55,70,45,60,30,300,1 Defense,130,50,60,Medium Slow,Mineral,,,,20,Ordinary
+0600,Klang,5,Steel,,Gear Pokémon,0.6,51.0,Plus,Minus,Clear Body,60,80,95,70,85,50,440,2 Defense,60,50,154,Medium Slow,Mineral,,,,20,Ordinary
+0601,Klinklang,5,Steel,,Gear Pokémon,0.6,81.0,Plus,Minus,Clear Body,60,100,115,70,85,90,520,3 Defense,30,50,234,Medium Slow,Mineral,,,,20,Ordinary
+0602,Tynamo,5,Electric,,EleFish Pokémon,0.2,0.3,Levitate,,,35,55,40,45,40,60,275,1 Speed,190,50,55,Slow,Amorphous,,50.0,50.0,20,Ordinary
+0603,Eelektrik,5,Electric,,EleFish Pokémon,1.2,22.0,Levitate,,,65,85,70,75,70,40,405,2 Attack,60,50,142,Slow,Amorphous,,50.0,50.0,20,Ordinary
+0604,Eelektross,5,Electric,,EleFish Pokémon,2.1,80.5,Levitate,,,85,115,80,105,80,50,515,3 Attack,30,50,258,Slow,Amorphous,,50.0,50.0,20,Ordinary
+0605,Elgyem,5,Psychic,,Cerebral Pokémon,0.5,9.0,Telepathy,Synchronize,Analytic,55,55,55,85,55,30,335,1 Sp. Atk,255,50,67,Medium Fast,Human-Like,,50.0,50.0,20,Ordinary
+0606,Beheeyem,5,Psychic,,Cerebral Pokémon,1.0,34.5,Telepathy,Synchronize,Analytic,75,75,75,125,95,40,485,2 Sp. Atk,90,50,170,Medium Fast,Human-Like,,50.0,50.0,20,Ordinary
+0607,Litwick,5,Ghost,Fire,Candle Pokémon,0.3,3.1,Flash Fire,Flame Body,Infiltrator,50,30,55,65,55,20,275,1 Sp. Atk,190,50,55,Medium Slow,Amorphous,,50.0,50.0,20,Ordinary
+0608,Lampent,5,Ghost,Fire,Lamp Pokémon,0.6,13.0,Flash Fire,Flame Body,Infiltrator,60,40,60,95,60,55,370,2 Sp. Atk,90,50,130,Medium Slow,Amorphous,,50.0,50.0,20,Ordinary
+0609,Chandelure,5,Ghost,Fire,Luring Pokémon,1.0,34.3,Flash Fire,Flame Body,Infiltrator,60,55,90,145,90,80,520,3 Sp. Atk,45,50,234,Medium Slow,Amorphous,,50.0,50.0,20,Ordinary
+0610,Axew,5,Dragon,,Tusk Pokémon,0.6,18.0,Rivalry,Mold Breaker,Unnerve,46,87,60,30,40,57,320,1 Attack,75,35,64,Slow,Dragon ,Monster,50.0,50.0,40,Ordinary
+0611,Fraxure,5,Dragon,,Axe Jaw Pokémon,1.0,36.0,Rivalry,Mold Breaker,Unnerve,66,117,70,40,50,67,410,2 Attack,60,35,144,Slow,Dragon ,Monster,50.0,50.0,40,Ordinary
+0612,Haxorus,5,Dragon,,Axe Jaw Pokémon,1.8,105.5,Rivalry,Mold Breaker,Unnerve,76,147,90,60,70,97,540,3 Attack,45,35,270,Slow,Dragon ,Monster,50.0,50.0,40,Ordinary
+0613,Cubchoo,5,Ice,,Chill Pokémon,0.5,8.5,Snow Cloak,Slush Rush,Rattled,55,70,40,60,40,40,305,1 Attack,120,50,61,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0614,Beartic,5,Ice,,Freezing Pokémon,2.6,260.0,Snow Cloak,Slush Rush,Swift Swim,95,130,80,70,80,50,505,2 Attack,60,50,177,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0615,Cryogonal,5,Ice,,Crystallizing Pokémon,1.1,148.0,Levitate,,,80,50,50,95,135,105,515,2 Sp. Def,25,50,180,Medium Fast,Mineral,,,,25,Ordinary
+0616,Shelmet,5,Bug,,Snail Pokémon,0.4,7.7,Hydration,Shell Armor,Overcoat,50,40,85,40,65,25,305,1 Defense,200,50,61,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0617,Accelgor,5,Bug,,Shell Out Pokémon,0.8,25.3,Hydration,Sticky Hold,Unburden,80,70,40,100,60,145,495,2 Speed,75,50,173,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0618,Stunfisk,5,Ground,Electric,Trap Pokémon,0.7,11.0,Static,Limber,Sand Veil,109,66,84,81,99,32,471,2 HP,75,70,165,Medium Fast,Amorphous ,Water 1,50.0,50.0,20,Ordinary
+0619,Mienfoo,5,Fighting,,Martial Arts Pokémon,0.9,20.0,Inner Focus,Regenerator,Reckless,45,85,50,55,50,65,350,1 Attack,180,50,70,Medium Slow,Field ,Human-Like,50.0,50.0,25,Ordinary
+0620,Mienshao,5,Fighting,,Martial Arts Pokémon,1.4,35.5,Inner Focus,Regenerator,Reckless,65,125,60,95,60,105,510,2 Attack,45,50,179,Medium Slow,Field ,Human-Like,50.0,50.0,25,Ordinary
+0621,Druddigon,5,Dragon,,Cave Pokémon,1.6,139.0,Rough Skin,Sheer Force,Mold Breaker,77,120,90,60,90,48,485,2 Attack,45,50,170,Medium Fast,Dragon ,Monster,50.0,50.0,30,Ordinary
+0622,Golett,5,Ground,Ghost,Automaton Pokémon,1.0,92.0,Iron Fist,Klutz,No Guard,59,74,50,35,50,35,303,1 Attack,190,50,61,Medium Fast,Mineral,,,,25,Ordinary
+0623,Golurk,5,Ground,Ghost,Automaton Pokémon,2.8,330.0,Iron Fist,Klutz,No Guard,89,124,80,55,80,55,483,2 Attack,90,50,169,Medium Fast,Mineral,,,,25,Ordinary
+0624,Pawniard,5,Dark,Steel,Sharp Blade Pokémon,0.5,10.2,Defiant,Inner Focus,Pressure,45,85,70,40,40,60,340,1 Attack,120,35,68,Medium Fast,Human-Like,,50.0,50.0,20,Ordinary
+0625,Bisharp,5,Dark,Steel,Sword Blade Pokémon,1.6,70.0,Defiant,Inner Focus,Pressure,65,125,100,60,70,70,490,2 Attack,45,35,172,Medium Fast,Human-Like,,50.0,50.0,20,Ordinary
+0626,Bouffalant,5,Normal,,Bash Buffalo Pokémon,1.6,94.6,Reckless,Sap Sipper,Soundproof,95,110,95,40,95,55,490,2 Attack,45,50,172,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0627,Rufflet,5,Normal,Flying,Eaglet Pokémon,0.5,10.5,Keen Eye,Sheer Force,Hustle,70,83,50,37,50,60,350,1 Attack,190,50,70,Slow,Flying,,100.0,0.0,20,Ordinary
+0628,Braviary,5,Normal,Flying,Valiant Pokémon,1.5,41.0,Keen Eye,Sheer Force,Defiant,100,123,75,57,75,80,510,2 Attack,60,50,179,Slow,Flying,,100.0,0.0,20,Ordinary
+0629,Vullaby,5,Dark,Flying,Diapered Pokémon,0.5,9.0,Big Pecks,Overcoat,Weak Armor,70,55,75,45,65,60,370,1 Defense,190,35,74,Slow,Flying,,0.0,100.0,20,Ordinary
+0630,Mandibuzz,5,Dark,Flying,Bone Vulture Pokémon,1.2,39.5,Big Pecks,Overcoat,Weak Armor,110,65,105,55,95,80,510,2 Sp. Atk,60,35,179,Slow,Flying,,0.0,100.0,20,Ordinary
+0631,Heatmor,5,Fire,,Anteater Pokémon,1.4,58.0,Gluttony,Flash Fire,White Smoke,85,97,66,105,66,65,484,2 Sp. Atk,90,50,169,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0632,Durant,5,Bug,Steel,Iron Ant Pokémon,0.3,33.0,Swarm,Hustle,Truant,58,109,112,48,48,109,484,2 Defense,90,50,169,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0633,Deino,5,Dark,Dragon,Irate Pokémon,0.8,17.3,Hustle,,,52,65,50,45,50,38,300,1 Attack,45,35,60,Slow,Dragon,,50.0,50.0,40,Ordinary
+0634,Zweilous,5,Dark,Dragon,Hostile Pokémon,1.4,50.0,Hustle,,,72,85,70,65,70,58,420,2 Attack,45,35,147,Slow,Dragon,,50.0,50.0,40,Ordinary
+0635,Hydreigon,5,Dark,Dragon,Brutal Pokémon,1.8,160.0,Levitate,,,92,105,90,125,90,98,600,3 Sp. Atk,45,35,300,Slow,Dragon,,50.0,50.0,40,Ordinary
+0636,Larvesta,5,Bug,Fire,Torch Pokémon,1.1,28.8,Flame Body,Swarm,,55,85,55,50,55,60,360,1 Attack,45,50,72,Slow,Bug,,50.0,50.0,40,Ordinary
+0637,Volcarona,5,Bug,Fire,Sun Pokémon,1.6,46.0,Flame Body,Swarm,,85,60,65,135,105,100,550,3 Sp. Atk,15,50,275,Slow,Bug,,50.0,50.0,40,Ordinary
+0638,Cobalion,5,Steel,Fighting,Iron Will Pokémon,2.1,250.0,Justified,,,91,90,129,90,72,108,580,3 Defense,3,35,261,Slow,Undiscovered,,,,80,Legendary
+0639,Terrakion,5,Rock,Fighting,Cavern Pokémon,1.9,260.0,Justified,,,91,129,90,72,90,108,580,3 Attack,3,35,261,Slow,Undiscovered,,,,80,Legendary
+0640,Virizion,5,Grass,Fighting,Grassland Pokémon,2.0,200.0,Justified,,,91,90,72,90,129,108,580,3 Sp. Def,3,35,261,Slow,Undiscovered,,,,80,Legendary
+0641,Tornadus,5,Flying,,Cyclone Pokémon,1.5,63.0,Prankster,Defiant,,79,115,70,125,80,111,580,3 Attack,3,90,290,Slow,Undiscovered,,100.0,0.0,120,Legendary
+0642,Thundurus,5,Electric,Flying,Bolt Strike Pokémon,1.5,61.0,Prankster,Defiant,,79,115,70,125,80,111,580,3 Attack,3,90,290,Slow,Undiscovered,,100.0,0.0,120,Legendary
+0643,Reshiram,5,Dragon,Fire,Vast White Pokémon,3.2,330.0,Turboblaze,,,100,120,100,150,120,90,680,3 Sp. Atk,3,0,306,Slow,Undiscovered,,,,120,Legendary
+0644,Zekrom,5,Dragon,Electric,Deep Black Pokémon,2.9,345.0,Teravolt,,,100,150,120,120,100,90,680,3 Attack,3,0,306,Slow,Undiscovered,,,,120,Legendary
+0645,Landorus,5,Ground,Flying,Abundance Pokémon,1.5,68.0,Sand Force,Sheer Force,,89,125,90,115,80,101,600,3 Sp. Atk,3,90,300,Slow,Undiscovered,,100.0,0.0,120,Legendary
+0646,Kyurem,5,Dragon,Ice,Boundary Pokémon,3.0,325.0,Pressure,,,125,130,90,130,90,95,660,"1 HP, 1 Attack, 1 Sp. Atk",3,0,297,Slow,Undiscovered,,,,120,Legendary
+0647,Keldeo,5,Water,Fighting,Colt Pokémon,1.4,48.5,Justified,,,91,72,90,129,90,108,580,3 Sp. Atk,3,35,261,Slow,Undiscovered,,,,80,Mythical
+0648,Meloetta,5,Normal,Psychic,Melody Pokémon,0.6,6.5,Serene Grace,,,100,77,77,128,128,90,600,"1 Sp. Atk, 1 Sp. Def, 1 Speed",3,100,300,Slow,Undiscovered,,,,120,Mythical
+0649,Genesect,5,Bug,Steel,Paleozoic Pokémon,1.5,82.5,Download,,,71,120,95,120,95,99,600,"1 Attack, 1 Sp. Atk, 1 Speed",3,0,270,Slow,Undiscovered,,,,120,Mythical
+0650,Chespin,6,Grass,,Spiny Nut Pokémon,0.4,9.0,Overgrow,Bulletproof,,56,61,65,48,45,38,313,1 Defense,45,50,63,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0651,Quilladin,6,Grass,,Spiny Armor Pokémon,0.7,29.0,Overgrow,Bulletproof,,61,78,95,56,58,57,405,2 Defense,45,50,142,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0652,Chesnaught,6,Grass,Fighting,Spiny Armor Pokémon,1.6,90.0,Overgrow,Bulletproof,,88,107,122,74,75,64,530,3 Defense,45,50,265,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0653,Fennekin,6,Fire,,Fox Pokémon,0.4,9.4,Blaze,Magician,,40,45,40,62,60,60,307,1 Sp. Atk,45,50,61,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0654,Braixen,6,Fire,,Fox Pokémon,1.0,14.5,Blaze,Magician,,59,59,58,90,70,73,409,2 Sp. Atk,45,50,143,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0655,Delphox,6,Fire,Psychic,Fox Pokémon,1.5,39.0,Blaze,Magician,,75,69,72,114,100,104,534,3 Sp. Atk,45,50,267,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0656,Froakie,6,Water,,Bubble Frog Pokémon,0.3,7.0,Torrent,Protean,,41,56,40,62,44,71,314,1 Speed,45,50,63,Medium Slow,Water 1,,87.5,12.5,20,Ordinary
+0657,Frogadier,6,Water,,Bubble Frog Pokémon,0.6,10.9,Torrent,Protean,,54,63,52,83,56,97,405,2 Speed,45,50,142,Medium Slow,Water 1,,87.5,12.5,20,Ordinary
+0658,Greninja,6,Water,Dark,Ninja Pokémon,1.5,40.0,Torrent,Protean,,72,95,67,103,71,122,530,3 Speed,45,50,265,Medium Slow,Water 1,,87.5,12.5,20,Ordinary
+0659,Bunnelby,6,Normal,,Digging Pokémon,0.4,5.0,Pickup,Cheek Pouch,Huge Power,38,36,38,32,36,57,237,1 Speed,255,50,47,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0660,Diggersby,6,Normal,Ground,Digging Pokémon,1.0,42.4,Pickup,Cheek Pouch,Huge Power,85,56,77,50,77,78,423,2 HP,127,50,148,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0661,Fletchling,6,Normal,Flying,Tiny Robin Pokémon,0.3,1.7,Big Pecks,Gale Wings,,45,50,43,40,38,62,278,1 Speed,255,50,56,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0662,Fletchinder,6,Fire,Flying,Ember Pokémon,0.7,16.0,Flame Body,Gale Wings,,62,73,55,56,52,84,382,2 Speed,120,50,134,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0663,Talonflame,6,Fire,Flying,Scorching Pokémon,1.2,24.5,Flame Body,Gale Wings,,78,81,71,74,69,126,499,3 Speed,45,50,175,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0664,Scatterbug,6,Bug,,Scatterdust Pokémon,0.3,2.5,Shield Dust,Compound Eyes,Friend Guard,38,35,40,27,25,35,200,1 Defense,255,50,40,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0665,Spewpa,6,Bug,,Scatterdust Pokémon,0.3,8.4,Shed Skin,Friend Guard,,45,22,60,27,30,29,213,2 Defense,120,50,75,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0666,Vivillon,6,Bug,Flying,Scale Pokémon,1.2,17.0,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,"1 HP, 1 Sp. Atk, 1 Speed",45,50,206,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0667,Litleo,6,Fire,Normal,Lion Cub Pokémon,0.6,13.5,Rivalry,Unnerve,Moxie,62,50,58,73,54,72,369,1 Sp. Atk,220,50,74,Medium Slow,Field,,12.5,87.5,20,Ordinary
+0668,Pyroar,6,Fire,Normal,Royal Pokémon,1.5,81.5,Rivalry,Unnerve,Moxie,86,68,72,109,66,106,507,2 Sp. Atk,65,50,177,Medium Slow,Field,,12.5,87.5,20,Ordinary
+0669,Flabébé,6,Fairy,,Single Bloom Pokémon,0.1,0.1,Flower Veil,Symbiosis,,44,38,39,61,79,42,303,1 Sp. Def,225,50,61,Medium Fast,Fairy,,0.0,100.0,20,Ordinary
+0670,Floette,6,Fairy,,Single Bloom Pokémon,0.2,0.9,Flower Veil,Symbiosis,,54,45,47,75,98,52,371,2 Sp. Def,120,50,130,Medium Fast,Fairy,,0.0,100.0,20,Ordinary
+0671,Florges,6,Fairy,,Garden Pokémon,1.1,10.0,Flower Veil,Symbiosis,,78,65,68,112,154,75,552,3 Sp. Def,45,50,276,Medium Fast,Fairy,,0.0,100.0,20,Ordinary
+0672,Skiddo,6,Grass,,Mount Pokémon,0.9,31.0,Sap Sipper,Grass Pelt,,66,65,48,62,57,52,350,1 HP,200,50,70,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0673,Gogoat,6,Grass,,Mount Pokémon,1.7,91.0,Sap Sipper,Grass Pelt,,123,100,62,97,81,68,531,2 HP,45,50,186,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0674,Pancham,6,Fighting,,Playful Pokémon,0.6,8.0,Iron Fist,Mold Breaker,Scrappy,67,82,62,46,48,43,348,1 Attack,220,50,70,Medium Fast,Field ,Human-Like,50.0,50.0,25,Ordinary
+0675,Pangoro,6,Fighting,Dark,Daunting Pokémon,2.1,136.0,Iron Fist,Mold Breaker,Scrappy,95,124,78,69,71,58,495,2 Attack,65,50,173,Medium Fast,Field ,Human-Like,50.0,50.0,25,Ordinary
+0676,Furfrou,6,Normal,,Poodle Pokémon,1.2,28.0,Fur Coat,,,75,80,60,65,90,102,472,1 Speed,160,50,165,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0677,Espurr,6,Psychic,,Restraint Pokémon,0.3,3.5,Keen Eye,Infiltrator,Own Tempo,62,48,54,63,60,68,355,1 Speed,190,50,71,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0678,Meowstic,6,Psychic,,Constraint Pokémon,0.6,8.5,Keen Eye,Infiltrator,Prankster,74,48,76,83,81,104,466,2 Speed,75,50,163,Medium Fast,Field,,100.0,0.0,20,Ordinary
+0679,Honedge,6,Steel,Ghost,Sword Pokémon,0.8,2.0,No Guard,,,45,80,100,35,37,28,325,1 Defense,180,50,65,Medium Fast,Mineral,,50.0,50.0,20,Ordinary
+0680,Doublade,6,Steel,Ghost,Sword Pokémon,0.8,4.5,No Guard,,,59,110,150,45,49,35,448,2 Defense,90,50,157,Medium Fast,Mineral,,50.0,50.0,20,Ordinary
+0681,Aegislash,6,Steel,Ghost,Royal Sword Pokémon,1.7,53.0,Stance Change,,,60,50,140,50,140,60,500,"2 Defense, 1 Sp. Def",45,50,234,Medium Fast,Mineral,,50.0,50.0,20,Ordinary
+0682,Spritzee,6,Fairy,,Perfume Pokémon,0.2,0.5,Healer,Aroma Veil,,78,52,60,63,65,23,341,1 HP,200,50,68,Medium Fast,Fairy,,50.0,50.0,20,Ordinary
+0683,Aromatisse,6,Fairy,,Fragrance Pokémon,0.8,15.5,Healer,Aroma Veil,,101,72,72,99,89,29,462,2 HP,140,50,162,Medium Fast,Fairy,,50.0,50.0,20,Ordinary
+0684,Swirlix,6,Fairy,,Cotton Candy Pokémon,0.4,3.5,Sweet Veil,Unburden,,62,48,66,59,57,49,341,1 Defense,200,50,68,Medium Fast,Fairy,,50.0,50.0,20,Ordinary
+0685,Slurpuff,6,Fairy,,Meringue Pokémon,0.8,5.0,Sweet Veil,Unburden,,82,80,86,85,75,72,480,2 Defense,140,50,168,Medium Fast,Fairy,,50.0,50.0,20,Ordinary
+0686,Inkay,6,Dark,Psychic,Revolving Pokémon,0.4,3.5,Contrary,Suction Cups,Infiltrator,53,54,53,37,46,45,288,1 Attack,190,50,58,Medium Fast,Water 1 ,Water 2,50.0,50.0,20,Ordinary
+0687,Malamar,6,Dark,Psychic,Overturning Pokémon,1.5,47.0,Contrary,Suction Cups,Infiltrator,86,92,88,68,75,73,482,2 Attack,80,50,169,Medium Fast,Water 1 ,Water 2,50.0,50.0,20,Ordinary
+0688,Binacle,6,Rock,Water,Two-Handed Pokémon,0.5,31.0,Sniper,Tough Claws,Pickpocket,42,52,67,39,56,50,306,1 Attack,120,50,61,Medium Fast,Water 3,,50.0,50.0,20,Ordinary
+0689,Barbaracle,6,Rock,Water,Collective Pokémon,1.3,96.0,Sniper,Tough Claws,Pickpocket,72,105,115,54,86,68,500,2 Attack,45,50,175,Medium Fast,Water 3,,50.0,50.0,20,Ordinary
+0690,Skrelp,6,Poison,Water,Mock Kelp Pokémon,0.5,7.3,Poison Point,Poison Touch,Adaptability,50,60,60,60,60,30,320,1 Sp. Def,225,50,64,Medium Fast,Dragon ,Water 1,50.0,50.0,20,Ordinary
+0691,Dragalge,6,Poison,Dragon,Mock Kelp Pokémon,1.8,81.5,Poison Point,Poison Touch,Adaptability,65,75,90,97,123,44,494,2 Sp. Def,55,50,173,Medium Fast,Dragon ,Water 1,50.0,50.0,20,Ordinary
+0692,Clauncher,6,Water,,Water Gun Pokémon,0.5,8.3,Mega Launcher,,,50,53,62,58,63,44,330,1 Sp. Atk,225,50,66,Slow,Water 1 ,Water 3,50.0,50.0,15,Ordinary
+0693,Clawitzer,6,Water,,Howitzer Pokémon,1.3,35.3,Mega Launcher,,,71,73,88,120,89,59,500,2 Sp. Atk,55,50,100,Slow,Water 1 ,Water 3,50.0,50.0,15,Ordinary
+0694,Helioptile,6,Electric,Normal,Generator Pokémon,0.5,6.0,Dry Skin,Sand Veil,Solar Power,44,38,33,61,43,70,289,1 Speed,190,50,58,Medium Fast,Dragon ,Monster,50.0,50.0,20,Ordinary
+0695,Heliolisk,6,Electric,Normal,Generator Pokémon,1.0,21.0,Dry Skin,Sand Veil,Solar Power,62,55,52,109,94,109,481,"1 Sp. Atk, 1 Speed",75,50,168,Medium Fast,Dragon ,Monster,50.0,50.0,20,Ordinary
+0696,Tyrunt,6,Rock,Dragon,Royal Heir Pokémon,0.8,26.0,Strong Jaw,Sturdy,,58,89,77,45,45,48,362,1 Attack,45,50,72,Medium Fast,Dragon ,Monster,87.5,12.5,30,Fossil
+0697,Tyrantrum,6,Rock,Dragon,Despot Pokémon,2.5,270.0,Strong Jaw,Rock Head,,82,121,119,69,59,71,521,2 Attack,45,50,182,Medium Fast,Dragon ,Monster,87.5,12.5,30,Fossil
+0698,Amaura,6,Rock,Ice,Tundra Pokémon,1.3,25.2,Refrigerate,Snow Warning,,77,59,50,67,63,46,362,1 HP,45,50,72,Medium Fast,Monster,,87.5,12.5,30,Fossil
+0699,Aurorus,6,Rock,Ice,Tundra Pokémon,2.7,225.0,Refrigerate,Snow Warning,,123,77,72,99,92,58,521,2 HP,45,50,104,Medium Fast,Monster,,87.5,12.5,30,Fossil
+0700,Sylveon,6,Fairy,,Intertwining Pokémon,1.0,23.5,Cute Charm,Pixilate,,95,65,65,110,130,60,525,2 Sp. Def,45,50,184,Medium Fast,Field,,87.5,12.5,35,Ordinary
+0701,Hawlucha,6,Fighting,Flying,Wrestling Pokémon,0.8,21.5,Limber,Unburden,Mold Breaker,78,92,75,74,63,118,500,2 Attack,100,50,175,Medium Fast,Flying ,Human-Like,50.0,50.0,20,Ordinary
+0702,Dedenne,6,Electric,Fairy,Antenna Pokémon,0.2,2.2,Cheek Pouch,Pickup,Plus,67,58,57,81,67,101,431,2 Speed,180,50,151,Medium Fast,Fairy ,Field,50.0,50.0,20,Ordinary
+0703,Carbink,6,Rock,Fairy,Jewel Pokémon,0.3,5.7,Clear Body,Sturdy,,50,50,150,50,150,50,500,"1 Defense, 1 Sp. Def",60,50,100,Slow,Fairy ,Mineral,,,25,Ordinary
+0704,Goomy,6,Dragon,,Soft Tissue Pokémon,0.3,2.8,Sap Sipper,Hydration,Gooey,45,50,35,55,75,40,300,1 Sp. Def,45,35,60,Slow,Dragon,,50.0,50.0,40,Ordinary
+0705,Sliggoo,6,Dragon,,Soft Tissue Pokémon,0.8,17.5,Sap Sipper,Hydration,Gooey,68,75,53,83,113,60,452,2 Sp. Def,45,35,158,Slow,Dragon,,50.0,50.0,40,Ordinary
+0706,Goodra,6,Dragon,,Dragon Pokémon,2.0,150.5,Sap Sipper,Hydration,Gooey,90,100,70,110,150,80,600,3 Sp. Def,45,35,300,Slow,Dragon,,50.0,50.0,40,Ordinary
+0707,Klefki,6,Steel,Fairy,Key Ring Pokémon,0.2,3.0,Prankster,Magician,,57,80,91,80,87,75,470,1 Defense,75,50,165,Fast,Mineral,,50.0,50.0,20,Ordinary
+0708,Phantump,6,Ghost,Grass,Stump Pokémon,0.4,7.0,Natural Cure,Frisk,Harvest,43,70,48,50,60,38,309,1 Attack,120,50,62,Medium Fast,Amorphous ,Grass,50.0,50.0,20,Ordinary
+0709,Trevenant,6,Ghost,Grass,Elder Tree Pokémon,1.5,71.0,Natural Cure,Frisk,Harvest,85,110,76,65,82,56,474,2 Attack,60,50,166,Medium Fast,Amorphous ,Grass,50.0,50.0,20,Ordinary
+0710,Pumpkaboo,6,Ghost,Grass,Pumpkin Pokémon,0.4,5.0,Pickup,Frisk,Insomnia,49,66,70,44,55,51,335,1 Defense,120,50,67,Medium Fast,Amorphous,,50.0,50.0,20,Ordinary
+0711,Gourgeist,6,Ghost,Grass,Pumpkin Pokémon,0.9,12.5,Pickup,Frisk,Insomnia,65,90,122,58,75,84,494,2 Defense,60,50,173,Medium Fast,Amorphous,,50.0,50.0,20,Ordinary
+0712,Bergmite,6,Ice,,Ice Chunk Pokémon,1.0,99.5,Own Tempo,Ice Body,Sturdy,55,69,85,32,35,28,304,1 Defense,190,50,61,Medium Fast,Mineral ,Monster,50.0,50.0,20,Ordinary
+0713,Avalugg,6,Ice,,Iceberg Pokémon,2.0,505.0,Own Tempo,Ice Body,Sturdy,95,117,184,44,46,28,514,2 Defense,55,50,180,Medium Fast,Mineral ,Monster,50.0,50.0,20,Ordinary
+0714,Noibat,6,Flying,Dragon,Sound Wave Pokémon,0.5,8.0,Frisk,Infiltrator,Telepathy,40,30,35,45,40,55,245,1 Speed,190,50,49,Medium Fast,Dragon ,Flying,50.0,50.0,20,Ordinary
+0715,Noivern,6,Flying,Dragon,Sound Wave Pokémon,1.5,85.0,Frisk,Infiltrator,Telepathy,85,70,80,97,80,123,535,2 Speed,45,50,187,Medium Fast,Dragon ,Flying,50.0,50.0,20,Ordinary
+0716,Xerneas,6,Fairy,,Life Pokémon,3.0,215.0,Fairy Aura,,,126,131,95,131,98,99,680,3 HP,45,0,306,Slow,Undiscovered,,,,120,Legendary
+0717,Yveltal,6,Dark,Flying,Destruction Pokémon,5.8,203.0,Dark Aura,,,126,131,95,131,98,99,680,3 HP,45,0,306,Slow,Undiscovered,,,,120,Legendary
+0718,Zygarde,6,Dragon,Ground,Order Pokémon,5.0,305.0,Aura Break,Power Construct,,108,100,121,81,95,95,600,3 HP,3,0,270,Slow,Undiscovered,,,,120,Legendary
+0719,Diancie,6,Rock,Fairy,Jewel Pokémon,0.7,8.8,Clear Body,,,50,100,150,100,150,50,600,"1 Defense, 2 Sp. Def",3,50,300,Slow,Undiscovered,,,,25,Mythical
+0720,Hoopa,6,Psychic,Ghost,Mischief Pokémon,0.5,9.0,Magician,,,80,110,60,150,130,70,600,3 Sp. Atk,3,100,300,Slow,Undiscovered,,,,120,Mythical
+0721,Volcanion,6,Fire,Water,Steam Pokémon,1.7,195.0,Water Absorb,,,80,110,120,130,90,70,600,3 Sp. Atk,3,100,300,Slow,Undiscovered,,,,120,Mythical
+0722,Rowlet,7,Grass,Flying,Grass Quill Pokémon,0.3,1.5,Overgrow,Long Reach,,68,55,55,50,50,42,320,1 HP,45,50,64,Medium Slow,Flying,,87.5,12.5,15,Ordinary
+0723,Dartrix,7,Grass,Flying,Blade Quill Pokémon,0.7,16.0,Overgrow,Long Reach,,78,75,75,70,70,52,420,2 HP,45,50,147,Medium Slow,Flying,,87.5,12.5,15,Ordinary
+0724,Decidueye,7,Grass,Ghost,Arrow Quill Pokémon,1.6,36.6,Overgrow,Long Reach,,78,107,75,100,100,70,530,3 Attack,45,50,265,Medium Slow,Flying,,87.5,12.5,15,Ordinary
+0725,Litten,7,Fire,,Fire Cat Pokémon,0.4,4.3,Blaze,Intimidate,,45,65,40,60,40,70,320,1 Speed,45,50,64,Medium Slow,Field,,87.5,12.5,15,Ordinary
+0726,Torracat,7,Fire,,Fire Cat Pokémon,0.7,25.0,Blaze,Intimidate,,65,85,50,80,50,90,420,2 Speed,45,50,147,Medium Slow,Field,,87.5,12.5,15,Ordinary
+0727,Incineroar,7,Fire,Dark,Heel Pokémon,1.8,83.0,Blaze,Intimidate,,95,115,90,80,90,60,530,3 Attack,45,50,239,Medium Slow,Field,,87.5,12.5,15,Ordinary
+0728,Popplio,7,Water,,Sea Lion Pokémon,0.4,7.5,Torrent,Liquid Voice,,50,54,54,66,56,40,320,1 Sp. Atk,45,50,64,Medium Slow,Field ,Water 1,87.5,12.5,15,Ordinary
+0729,Brionne,7,Water,,Pop Star Pokémon,0.6,17.5,Torrent,Liquid Voice,,60,69,69,91,81,50,420,2 Sp. Atk,45,50,147,Medium Slow,Field ,Water 1,87.5,12.5,15,Ordinary
+0730,Primarina,7,Water,Fairy,Soloist Pokémon,1.8,44.0,Torrent,Liquid Voice,,80,74,74,126,116,60,530,3 Sp. Atk,45,50,239,Medium Slow,Field ,Water 1,87.5,12.5,15,Ordinary
+0731,Pikipek,7,Normal,Flying,Woodpecker Pokémon,0.3,1.2,Keen Eye,Skill Link,Pickup,35,75,30,30,30,65,265,1 Attack,255,50,53,Medium Fast,Flying,,50.0,50.0,15,Ordinary
+0732,Trumbeak,7,Normal,Flying,Bugle Beak Pokémon,0.6,14.8,Keen Eye,Skill Link,Pickup,55,85,50,40,50,75,355,2 Attack,120,50,124,Medium Fast,Flying,,50.0,50.0,15,Ordinary
+0733,Toucannon,7,Normal,Flying,Cannon Pokémon,1.1,26.0,Keen Eye,Skill Link,Sheer Force,80,120,75,75,75,60,485,3 Attack,45,50,218,Medium Fast,Flying,,50.0,50.0,15,Ordinary
+0734,Yungoos,7,Normal,,Loitering Pokémon,0.4,6.0,Strong Jaw,Stakeout,Adaptability,48,70,30,30,30,45,253,1 Attack,255,50,51,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0735,Gumshoos,7,Normal,,Stakeout Pokémon,0.7,14.2,Strong Jaw,Stakeout,Adaptability,88,110,60,55,60,45,418,2 Attack,127,50,146,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0736,Grubbin,7,Bug,,Larva Pokémon,0.4,4.4,Swarm,,,47,62,45,55,45,46,300,1 Attack,255,50,60,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0737,Charjabug,7,Bug,Electric,Battery Pokémon,0.5,10.5,Battery,,,57,82,95,55,75,36,400,2 Defense,120,50,140,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0738,Vikavolt,7,Bug,Electric,Stag Beetle Pokémon,1.5,45.0,Levitate,,,77,70,90,145,75,43,500,3 Sp. Atk,45,50,225,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0739,Crabrawler,7,Fighting,,Boxing Pokémon,0.6,7.0,Hyper Cutter,Iron Fist,Anger Point,47,82,57,42,47,63,338,1 Attack,225,50,68,Medium Fast,Water 3,,50.0,50.0,20,Ordinary
+0740,Crabominable,7,Fighting,Ice,Woolly Crab Pokémon,1.7,180.0,Hyper Cutter,Iron Fist,Anger Point,97,132,77,62,67,43,478,2 Attack,60,50,167,Medium Fast,Water 3,,50.0,50.0,20,Ordinary
+0741,Oricorio,7,Fire,Flying,Dancing Pokémon,0.6,3.4,Dancer,,,75,70,70,98,70,93,476,2 Sp. Atk,45,50,167,Medium Fast,Flying,,25.0,75.0,20,Ordinary
+0742,Cutiefly,7,Bug,Fairy,Bee Fly Pokémon,0.1,0.2,Honey Gather,Shield Dust,Sweet Veil,40,45,40,55,40,84,304,1 Speed,190,50,61,Medium Fast,Bug ,Fairy,50.0,50.0,20,Ordinary
+0743,Ribombee,7,Bug,Fairy,Bee Fly Pokémon,0.2,0.5,Honey Gather,Shield Dust,Sweet Veil,60,55,60,95,70,124,464,2 Speed,75,50,162,Medium Fast,Bug ,Fairy,50.0,50.0,20,Ordinary
+0744,Rockruff,7,Rock,,Puppy Pokémon,0.5,9.2,Keen Eye,Vital Spirit,Steadfast,45,65,40,30,40,60,280,1 Attack,190,50,56,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0745,Lycanroc,7,Rock,,Wolf Pokémon,0.8,25.0,Keen Eye,Sand Rush,Steadfast,75,115,65,55,65,112,487,2 Attack,90,50,170,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0746,Wishiwashi,7,Water,,Small Fry Pokémon,0.2,0.3,Schooling,,,45,20,20,25,25,40,175,1 HP,60,50,61,Fast,Water 2,,50.0,50.0,15,Ordinary
+0747,Mareanie,7,Poison,Water,Brutal Star Pokémon,0.4,8.0,Merciless,Limber,Regenerator,50,53,62,43,52,45,305,1 Defense,190,50,61,Medium Fast,Water 1,,50.0,50.0,20,Ordinary
+0748,Toxapex,7,Poison,Water,Brutal Star Pokémon,0.7,14.5,Merciless,Limber,Regenerator,50,63,152,53,142,35,495,2 Defense,75,50,173,Medium Fast,Water 1,,50.0,50.0,20,Ordinary
+0749,Mudbray,7,Ground,,Donkey Pokémon,1.0,110.0,Own Tempo,Stamina,Inner Focus,70,100,70,45,55,45,385,1 Attack,190,50,77,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0750,Mudsdale,7,Ground,,Draft Horse Pokémon,2.5,920.0,Own Tempo,Stamina,Inner Focus,100,125,100,55,85,35,500,2 Attack,60,50,175,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0751,Dewpider,7,Water,Bug,Water Bubble Pokémon,0.3,4.0,Water Bubble,Water Absorb,,38,40,52,40,72,27,269,1 Sp. Def,200,50,54,Medium Fast,Bug ,Water 1,50.0,50.0,15,Ordinary
+0752,Araquanid,7,Water,Bug,Water Bubble Pokémon,1.8,82.0,Water Bubble,Water Absorb,,68,70,92,50,132,42,454,2 Sp. Def,100,50,159,Medium Fast,Bug ,Water 1,50.0,50.0,15,Ordinary
+0753,Fomantis,7,Grass,,Sickle Grass Pokémon,0.3,1.5,Leaf Guard,Contrary,,40,55,35,50,35,35,250,1 Attack,190,50,50,Medium Fast,Grass,,50.0,50.0,20,Ordinary
+0754,Lurantis,7,Grass,,Bloom Sickle Pokémon,0.9,18.5,Leaf Guard,Contrary,,70,105,90,80,90,45,480,2 Attack,75,50,168,Medium Fast,Grass,,50.0,50.0,20,Ordinary
+0755,Morelull,7,Grass,Fairy,Illuminating Pokémon,0.2,1.5,Illuminate,Effect Spore,Rain Dish,40,35,55,65,75,15,285,1 Sp. Def,190,50,57,Medium Fast,Grass,,50.0,50.0,20,Ordinary
+0756,Shiinotic,7,Grass,Fairy,Illuminating Pokémon,1.0,11.5,Illuminate,Effect Spore,Rain Dish,60,45,80,90,100,30,405,2 Sp. Def,75,50,142,Medium Fast,Grass,,50.0,50.0,20,Ordinary
+0757,Salandit,7,Poison,Fire,Toxic Lizard Pokémon,0.6,4.8,Corrosion,Oblivious,,48,44,40,71,40,77,320,1 Speed,120,50,64,Medium Fast,Dragon ,Monster,87.5,12.5,20,Ordinary
+0758,Salazzle,7,Poison,Fire,Toxic Lizard Pokémon,1.2,22.2,Corrosion,Oblivious,,68,64,60,111,60,117,480,2 Speed,45,50,168,Medium Fast,Dragon ,Monster,0.0,100.0,20,Ordinary
+0759,Stufful,7,Normal,Fighting,Flailing Pokémon,0.5,6.8,Fluffy,Klutz,Cute Charm,70,75,50,45,50,50,340,1 Attack,140,50,68,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0760,Bewear,7,Normal,Fighting,Strong Arm Pokémon,2.1,135.0,Fluffy,Klutz,Unnerve,120,125,80,55,60,60,500,2 Attack,70,50,175,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0761,Bounsweet,7,Grass,,Fruit Pokémon,0.3,3.2,Leaf Guard,Oblivious,Sweet Veil,42,30,38,30,38,32,210,1 HP,235,50,42,Medium Slow,Grass,,0.0,100.0,20,Ordinary
+0762,Steenee,7,Grass,,Fruit Pokémon,0.7,8.2,Leaf Guard,Oblivious,Sweet Veil,52,40,48,40,48,62,290,2 Speed,120,50,102,Medium Slow,Grass,,0.0,100.0,20,Ordinary
+0763,Tsareena,7,Grass,,Fruit Pokémon,1.2,21.4,Leaf Guard,Queenly Majesty,Sweet Veil,72,120,98,50,98,72,510,3 Attack,45,50,255,Medium Slow,Grass,,0.0,100.0,20,Ordinary
+0764,Comfey,7,Fairy,,Posy Picker Pokémon,0.1,0.3,Flower Veil,Triage,Natural Cure,51,52,90,82,110,100,485,2 Sp. Def,60,50,170,Fast,Grass,,25.0,75.0,20,Ordinary
+0765,Oranguru,7,Normal,Psychic,Sage Pokémon,1.5,76.0,Inner Focus,Telepathy,Symbiosis,90,60,80,90,110,60,490,2 Sp. Def,45,50,172,Slow,Field,,50.0,50.0,20,Ordinary
+0766,Passimian,7,Fighting,,Teamwork Pokémon,2.0,82.8,Receiver,Defiant,,100,120,90,40,60,80,490,2 Attack,45,50,172,Slow,Field,,50.0,50.0,20,Ordinary
+0767,Wimpod,7,Bug,Water,Turn Tail Pokémon,0.5,12.0,Wimp Out,,,25,35,40,20,30,80,230,1 Speed,90,50,46,Medium Fast,Bug ,Water 3,50.0,50.0,20,Ordinary
+0768,Golisopod,7,Bug,Water,Hard Scale Pokémon,2.0,108.0,Emergency Exit,,,75,125,140,60,90,40,530,2 Defense,45,50,186,Medium Fast,Bug ,Water 3,50.0,50.0,20,Ordinary
+0769,Sandygast,7,Ghost,Ground,Sand Heap Pokémon,0.5,70.0,Water Compaction,Sand Veil,,55,55,80,70,45,15,320,1 Defense,140,50,64,Medium Fast,Amorphous,,50.0,50.0,15,Ordinary
+0770,Palossand,7,Ghost,Ground,Sand Castle Pokémon,1.3,250.0,Water Compaction,Sand Veil,,85,75,110,100,75,35,480,2 Defense,60,50,168,Medium Fast,Amorphous,,50.0,50.0,15,Ordinary
+0771,Pyukumuku,7,Water,,Sea Cucumber Pokémon,0.3,1.2,Innards Out,Unaware,,55,60,130,30,130,5,410,2 Sp. Def,60,50,144,Fast,Water 1,,50.0,50.0,15,Ordinary
+0772,Type: Null,7,Normal,,Synthetic Pokémon,1.9,120.5,Battle Armor,,,95,95,95,95,95,59,534,2 HP,3,0,107,Slow,Undiscovered,,,,120,Legendary
+0773,Silvally,7,Normal,,Synthetic Pokémon,2.3,100.5,RKS System,,,95,95,95,95,95,95,570,3 HP,3,0,257,Slow,Undiscovered,,,,120,Legendary
+0774,Minior,7,Rock,Flying,Meteor Pokémon,0.3,40.0,Shields Down,,,60,60,100,60,100,60,440,"1 Defense, 1 Sp. Def",30,50,154,Medium Slow,Mineral,,,,25,Ordinary
+0775,Komala,7,Normal,,Drowsing Pokémon,0.4,19.9,Comatose,,,65,115,65,75,95,65,480,2 Attack,45,50,168,Slow,Field,,50.0,50.0,20,Ordinary
+0776,Turtonator,7,Fire,Dragon,Blast Turtle Pokémon,2.0,212.0,Shell Armor,,,60,78,135,91,85,36,485,2 Defense,70,50,170,Medium Fast,Dragon ,Monster,50.0,50.0,20,Ordinary
+0777,Togedemaru,7,Electric,Steel,Roly-Poly Pokémon,0.3,3.3,Iron Barbs,Lightning Rod,Sturdy,65,98,63,40,73,96,435,2 Attack,180,50,152,Medium Fast,Fairy ,Field,50.0,50.0,10,Ordinary
+0778,Mimikyu,7,Ghost,Fairy,Disguise Pokémon,0.2,0.7,Disguise,,,55,90,80,50,105,96,476,2 Sp. Def,45,50,167,Medium Fast,Amorphous,,50.0,50.0,20,Ordinary
+0779,Bruxish,7,Water,Psychic,Gnash Teeth Pokémon,0.9,19.0,Dazzling,Strong Jaw,Wonder Skin,68,105,70,70,70,92,475,2 Attack,80,50,166,Medium Fast,Water 2,,50.0,50.0,15,Ordinary
+0780,Drampa,7,Normal,Dragon,Placid Pokémon,3.0,185.0,Berserk,Sap Sipper,Cloud Nine,78,60,85,135,91,36,485,2 Sp. Atk,70,50,170,Medium Fast,Dragon ,Monster,50.0,50.0,20,Ordinary
+0781,Dhelmise,7,Ghost,Grass,Sea Creeper Pokémon,3.9,210.0,Steelworker,,,70,131,100,86,90,40,517,2 Attack,25,50,181,Medium Fast,Mineral,,,,25,Ordinary
+0782,Jangmo-o,7,Dragon,,Scaly Pokémon,0.6,29.7,Bulletproof,Soundproof,Overcoat,45,55,65,45,45,45,300,1 Defense,45,50,60,Slow,Dragon,,50.0,50.0,40,Ordinary
+0783,Hakamo-o,7,Dragon,Fighting,Scaly Pokémon,1.2,47.0,Bulletproof,Soundproof,Overcoat,55,75,90,65,70,65,420,2 Defense,45,50,147,Slow,Dragon,,50.0,50.0,40,Ordinary
+0784,Kommo-o,7,Dragon,Fighting,Scaly Pokémon,1.6,78.2,Bulletproof,Soundproof,Overcoat,75,110,125,100,105,85,600,3 Defense,45,50,270,Slow,Dragon,,50.0,50.0,40,Ordinary
+0785,Tapu Koko,7,Electric,Fairy,Land Spirit Pokémon,1.8,20.5,Electric Surge,Telepathy,,70,115,85,95,75,130,570,3 Speed,3,50,257,Slow,Undiscovered,,,,15,Legendary
+0786,Tapu Lele,7,Psychic,Fairy,Land Spirit Pokémon,1.2,18.6,Psychic Surge,Telepathy,,70,85,75,130,115,95,570,3 Sp. Atk,3,50,257,Slow,Undiscovered,,,,15,Legendary
+0787,Tapu Bulu,7,Grass,Fairy,Land Spirit Pokémon,1.9,45.5,Grassy Surge,Telepathy,,70,130,115,85,95,75,570,3 Attack,3,50,257,Slow,Undiscovered,,,,15,Legendary
+0788,Tapu Fini,7,Water,Fairy,Land Spirit Pokémon,1.3,21.2,Misty Surge,Telepathy,,70,75,115,95,130,85,570,3 Sp. Def,3,50,257,Slow,Undiscovered,,,,15,Legendary
+0789,Cosmog,7,Psychic,,Nebula Pokémon,0.2,0.1,Unaware,,,43,29,31,29,31,37,200,1 HP,45,0,40,Slow,Undiscovered,,,,120,Legendary
+0790,Cosmoem,7,Psychic,,Protostar Pokémon,0.1,999.9,Sturdy,,,43,29,131,29,131,37,400,"1 Defense, 1 Sp. Def",45,0,140,Slow,Undiscovered,,,,120,Legendary
+0791,Solgaleo,7,Psychic,Steel,Sunne Pokémon,3.4,230.0,Full Metal Body,,,137,137,107,113,89,97,680,3 Attack,45,0,306,Slow,Undiscovered,,,,120,Legendary
+0792,Lunala,7,Psychic,Ghost,Moone Pokémon,4.0,120.0,Shadow Shield,,,137,113,89,137,107,97,680,3 Sp. Atk,45,0,306,Slow,Undiscovered,,,,120,Legendary
+0793,Nihilego,7,Rock,Poison,Parasite Pokémon,1.2,55.5,Beast Boost,,,109,53,47,127,131,103,570,3 Sp. Def,45,0,257,Slow,Undiscovered,,,,120,Ultra Beast
+0794,Buzzwole,7,Bug,Fighting,Swollen Pokémon,2.4,333.6,Beast Boost,,,107,139,139,53,53,79,570,"1 Attack, 2 Defense",45,0,257,Slow,Undiscovered,,,,120,Ultra Beast
+0795,Pheromosa,7,Bug,Fighting,Lissome Pokémon,1.8,25.0,Beast Boost,,,71,137,37,137,37,151,570,3 Speed,45,0,257,Slow,Undiscovered,,,,120,Ultra Beast
+0796,Xurkitree,7,Electric,,Glowing Pokémon,3.8,100.0,Beast Boost,,,83,89,71,173,71,83,570,3 Sp. Atk,45,0,257,Slow,Undiscovered,,,,120,Ultra Beast
+0797,Celesteela,7,Steel,Flying,Launch Pokémon,9.2,999.9,Beast Boost,,,97,101,103,107,101,61,570,"1 Attack, 1 Defense, 1 Sp. Atk",45,0,257,Slow,Undiscovered,,,,120,Ultra Beast
+0798,Kartana,7,Grass,Steel,Drawn Sword Pokémon,0.3,0.1,Beast Boost,,,59,181,131,59,31,109,570,3 Attack,45,0,257,Slow,Undiscovered,,,,120,Ultra Beast
+0799,Guzzlord,7,Dark,Dragon,Junkivore Pokémon,5.5,888.0,Beast Boost,,,223,101,53,97,53,43,570,3 HP,45,0,257,Slow,Undiscovered,,,,120,Ultra Beast
+0800,Necrozma,7,Psychic,,Prism Pokémon,2.4,230.0,Prism Armor,,,97,107,101,127,89,79,600,"1 Attack, 2 Sp. Atk",255,0,270,Slow,Undiscovered,,,,120,Legendary
+0801,Magearna,7,Steel,Fairy,Artificial Pokémon,1.0,80.5,Soul-Heart,,,80,95,115,130,115,65,600,3 Sp. Atk,3,0,300,Slow,Undiscovered,,,,120,Mythical
+0802,Marshadow,7,Fighting,Ghost,Gloomdweller Pokémon,0.7,22.2,Technician,,,90,125,80,90,90,125,600,"2 Attack, 1 Speed",3,0,270,Slow,Undiscovered,,,,120,Mythical
+0803,Poipole,7,Poison,,Poison Pin Pokémon,0.6,1.8,Beast Boost,,,67,73,67,73,67,73,420,1 Speed,45,0,189,Slow,Undiscovered,,,,120,Ultra Beast
+0804,Naganadel,7,Poison,Dragon,Poison Pin Pokémon,3.6,150.0,Beast Boost,,,73,73,73,127,73,121,540,3 Sp. Atk,45,0,243,Slow,Undiscovered,,,,120,Ultra Beast
+0805,Stakataka,7,Rock,Steel,Rampart Pokémon,5.5,820.0,Beast Boost,,,61,131,211,53,101,13,570,3 Defense,30,0,257,Slow,Undiscovered,,,,120,Ultra Beast
+0806,Blacephalon,7,Fire,Ghost,Fireworks Pokémon,1.8,13.0,Beast Boost,,,53,127,53,151,79,107,570,3 Sp. Atk,30,0,257,Slow,Undiscovered,,,,120,Ultra Beast
+0807,Zeraora,7,Electric,,Thunderclap Pokémon,1.5,44.5,Volt Absorb,,,88,112,75,102,80,143,600,3 Speed,3,0,270,Slow,Undiscovered,,,,120,Mythical
+0808,Meltan,7,Steel,,Hex Nut Pokémon,0.2,8.0,Magnet Pull,,,46,65,65,55,35,34,300,1 Attack,3,0,150,Slow,Undiscovered,,,,120,Mythical
+0809,Melmetal,7,Steel,,Hex Nut Pokémon,2.5,800.0,Iron Fist,,,135,143,143,80,65,34,600,3 Attack,3,0,300,Slow,Undiscovered,,,,120,Mythical
+0810,Grookey,8,Grass,,Chimp Pokémon,0.3,5.0,Overgrow,Grassy Surge,,50,65,50,40,40,65,310,1 Attack,45,50,62,Medium Slow,Field ,Grass,87.5,12.5,20,Ordinary
+0811,Thwackey,8,Grass,,Beat Pokémon,0.7,14.0,Overgrow,Grassy Surge,,70,85,70,55,60,80,420,2 Attack,45,50,147,Medium Slow,Field ,Grass,87.5,12.5,20,Ordinary
+0812,Rillaboom,8,Grass,,Drummer Pokémon,2.1,90.0,Overgrow,Grassy Surge,,100,125,90,60,70,85,530,3 Attack,45,50,265,Medium Slow,Field ,Grass,87.5,12.5,20,Ordinary
+0813,Scorbunny,8,Fire,,Rabbit Pokémon,0.3,4.5,Blaze,Libero,,50,71,40,40,40,69,310,1 Speed,45,50,62,Medium Slow,Field ,Human-Like,87.5,12.5,20,Ordinary
+0814,Raboot,8,Fire,,Rabbit Pokémon,0.6,9.0,Blaze,Libero,,65,86,60,55,60,94,420,2 Speed,45,50,147,Medium Slow,Field ,Human-Like,87.5,12.5,20,Ordinary
+0815,Cinderace,8,Fire,,Striker Pokémon,1.4,33.0,Blaze,Libero,,80,116,75,65,75,119,530,3 Speed,45,50,265,Medium Slow,Field ,Human-Like,87.5,12.5,20,Ordinary
+0816,Sobble,8,Water,,Water Lizard Pokémon,0.3,4.0,Torrent,Sniper,,50,40,40,70,40,70,310,"1 Sp. Def, 1 Speed",45,50,62,Medium Slow,Field ,Water 1,87.5,12.5,20,Ordinary
+0817,Drizzile,8,Water,,Water lizard Pokémon,0.7,11.5,Torrent,Sniper,,65,60,55,95,55,90,420,2 Sp. Atk,45,50,147,Medium Slow,Field ,Water 1,87.5,12.5,20,Ordinary
+0818,Inteleon,8,Water,,Secret Agent Pokémon,1.9,45.2,Torrent,Sniper,,70,85,65,125,65,120,530,3 Speed,45,50,265,Medium Slow,Field ,Water 1,87.5,12.5,20,Ordinary
+0819,Skwovet,8,Normal,,Cheeky Pokémon,0.3,2.5,Cheek Pouch,Gluttony,,70,55,55,35,35,25,275,1 HP,255,50,55,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0820,Greedent,8,Normal,,Greedy Pokémon,0.6,6.0,Cheek Pouch,Gluttony,,120,95,95,55,75,20,460,2 HP,90,50,161,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0821,Rookidee,8,Flying,,Tiny Bird Pokémon,0.2,1.8,Keen Eye,Unnerve,Big Pecks,38,47,35,33,35,57,245,1 Speed,255,50,49,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0822,Corvisquire,8,Flying,,Raven Pokémon,0.8,16.0,Keen Eye,Unnerve,Big Pecks,68,67,55,43,55,77,365,2 Speed,120,50,128,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0823,Corviknight,8,Flying,Steel,Raven Pokémon,2.2,75.0,Pressure,Unnerve,Mirror Armor,98,87,105,53,85,67,495,3 Defense,45,50,248,Medium Slow,Flying,,50.0,50.0,15,Ordinary
+0824,Blipbug,8,Bug,,Larva Pokémon,0.4,8.0,Swarm,Compound Eyes,Telepathy,25,20,20,25,45,45,180,1 Sp. Def,255,50,36,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0825,Dottler,8,Bug,Psychic,Radome Pokémon,0.4,19.5,Swarm,Compound Eyes,Telepathy,50,35,80,50,90,30,335,2 Sp. Def,120,50,117,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0826,Orbeetle,8,Bug,Psychic,Seven Spot Pokémon,0.4,40.8,Swarm,Frisk,Telepathy,60,45,110,80,120,90,505,3 Sp. Def,45,50,253,Medium Fast,Bug,,50.0,50.0,15,Ordinary
+0827,Nickit,8,Dark,,Fox Pokémon,0.6,8.9,Run Away,Unburden,Stakeout,40,28,28,47,52,50,245,1 Sp. Def,255,50,49,Fast,Field,,50.0,50.0,15,Ordinary
+0828,Thievul,8,Dark,,Fox Pokémon,1.2,19.9,Run Away,Unburden,Stakeout,70,58,58,87,92,90,455,2 Sp. Def,127,50,159,Fast,Field,,50.0,50.0,15,Ordinary
+0829,Gossifleur,8,Grass,,Flowering Pokémon,0.4,2.2,Cotton Down,Regenerator,Effect Spore,40,40,60,40,60,10,250,1 Sp. Def,190,50,50,Medium Fast,Grass,,50.0,50.0,20,Ordinary
+0830,Eldegoss,8,Grass,,Cotton Bloom Pokémon,0.5,2.5,Cotton Down,Regenerator,Effect Spore,60,50,90,80,120,60,460,2 Sp. Def,75,50,161,Medium Fast,Grass,,50.0,50.0,20,Ordinary
+0831,Wooloo,8,Normal,,Sheep Pokémon,0.6,6.0,Fluffy,Run Away,Bulletproof,42,40,55,40,45,48,270,1 Defense,255,50,122,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0832,Dubwool,8,Normal,,Sheep Pokémon,1.3,43.0,Fluffy,Steadfast,Bulletproof,72,80,100,60,90,88,490,2 Defense,127,50,172,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0833,Chewtle,8,Water,,Snapping Pokémon,0.3,8.5,Strong Jaw,Shell Armor,Swift Swim,50,64,50,38,38,44,284,1 Attack,255,50,57,Medium Fast,Monster ,Water 1,50.0,50.0,20,Ordinary
+0834,Drednaw,8,Water,Rock,Bite Pokémon,1.0,115.5,Strong Jaw,Shell Armor,Swift Swim,90,115,90,48,68,74,485,2 Attack,75,50,170,Medium Fast,Monster ,Water 1,50.0,50.0,20,Ordinary
+0835,Yamper,8,Electric,,Puppy Pokémon,0.3,13.5,Ball Fetch,Rattled,,59,45,50,40,50,26,270,1 HP,255,50,54,Fast,Field,,50.0,50.0,20,Ordinary
+0836,Boltund,8,Electric,,Dog Pokémon,1.0,34.0,Strong Jaw,Competitive,,69,90,60,90,60,121,490,2 Speed,45,50,172,Fast,Field,,50.0,50.0,20,Ordinary
+0837,Rolycoly,8,Rock,,Coal Pokémon,0.3,12.0,Steam Engine,Heatproof,Flash Fire,30,40,50,40,50,30,240,1 Defense,255,50,48,Medium Slow,Mineral,,50.0,50.0,15,Ordinary
+0838,Carkol,8,Rock,Fire,Coal Pokémon,1.1,78.0,Steam Engine,Flame Body,Flash Fire,80,60,90,60,70,50,410,2 Defense,120,50,144,Medium Slow,Mineral,,50.0,50.0,15,Ordinary
+0839,Coalossal,8,Rock,Fire,Coal Pokémon,2.8,310.5,Steam Engine,Flame Body,Flash Fire,110,80,120,80,90,30,510,3 Defense,45,50,255,Medium Slow,Mineral,,50.0,50.0,15,Ordinary
+0840,Applin,8,Grass,Dragon,Apple Core Pokémon,0.2,0.5,Ripen,Gluttony,Bulletproof,40,40,80,40,40,20,260,1 Defense,255,50,52,Erratic,Dragon ,Grass,50.0,50.0,20,Ordinary
+0841,Flapple,8,Grass,Dragon,Apple Wing Pokémon,0.3,1.0,Ripen,Gluttony,Hustle,70,110,80,95,60,70,485,2 Attack,45,50,170,Erratic,Dragon ,Grass,50.0,50.0,20,Ordinary
+0842,Appletun,8,Grass,Dragon,Apple Nectar Pokémon,0.4,13.0,Ripen,Gluttony,Thick Fat,110,85,80,100,80,30,485,2 HP,45,50,170,Erratic,Dragon ,Grass,50.0,50.0,20,Ordinary
+0843,Silicobra,8,Ground,,Sand Snake Pokémon,2.2,7.6,Sand Spit,Shed Skin,Sand Veil,52,57,75,35,50,46,315,1 Defense,255,50,63,Medium Fast,Dragon ,Field,50.0,50.0,20,Ordinary
+0844,Sandaconda,8,Ground,,Sand Snake Pokémon,3.8,65.5,Sand Spit,Shed Skin,Sand Veil,72,107,125,65,70,71,510,2 Defense,120,50,179,Medium Fast,Dragon ,Field,50.0,50.0,20,Ordinary
+0845,Cramorant,8,Flying,Water,Gulp Pokémon,0.8,18.0,Gulp Missile,,,70,85,55,85,95,85,475,2 Sp. Def,45,50,166,Medium Fast,Flying ,Water 1,50.0,50.0,20,Ordinary
+0846,Arrokuda,8,Water,,Rush Pokémon,0.5,1.0,Swift Swim,Propeller Tail,,41,63,40,40,30,66,280,1 Speed,255,50,56,Slow,Water 2,,50.0,50.0,20,Ordinary
+0847,Barraskewda,8,Water,,Skewer Pokémon,1.3,30.0,Swift Swim,Propeller Tail,,61,123,60,60,50,136,490,2 Speed,60,50,172,Slow,Water 2,,50.0,50.0,20,Ordinary
+0848,Toxel,8,Electric,Poison,Baby Pokémon,0.4,11.0,Rattled,Static,Klutz,40,38,35,54,35,40,242,1 Sp. Atk,75,50,48,Medium Slow,Undiscovered,,50.0,50.0,25,Baby Pokemon
+0849,Toxtricity,8,Electric,Poison,Punk Pokémon,1.6,40.0,Punk Rock,Plus,Technician,75,98,70,114,70,75,502,2 Sp. Atk,45,50,176,Medium Slow,Human-Like,,50.0,50.0,25,Ordinary
+0850,Sizzlipede,8,Fire,Bug,Radiator Pokémon,0.7,1.0,Flash Fire,White Smoke,Flame Body,50,65,45,50,50,45,305,1 Attack,190,50,61,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0851,Centiskorch,8,Fire,Bug,Radiator Pokémon,3.0,120.0,Flash Fire,White Smoke,Flame Body,100,115,65,90,90,65,525,2 Attack,75,50,184,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0852,Clobbopus,8,Fighting,,Tantrum Pokémon,0.6,4.0,Limber,Technician,,50,68,60,50,50,32,310,1 Attack,180,50,62,Medium Slow,Human-Like ,Water 1,50.0,50.0,25,Ordinary
+0853,Grapploct,8,Fighting,,Tantrum Pokémon,1.6,39.0,Limber,Technician,,80,118,90,70,80,42,480,2 Attack,45,50,168,Medium Slow,Human-Like ,Water 1,50.0,50.0,25,Ordinary
+0854,Sinistea,8,Ghost,,Black Tea Pokémon,0.1,0.2,Weak Armor,Cursed Body,,40,45,45,74,54,50,308,1 Sp. Atk,120,50,62,Medium Fast,Amorphous ,Mineral,,,20,Ordinary
+0855,Polteageist,8,Ghost,,Black Tea Pokémon,0.2,0.4,Weak Armor,Cursed Body,,60,65,65,134,114,70,508,2 Sp. Atk,60,50,178,Medium Fast,Amorphous ,Mineral,,,20,Ordinary
+0856,Hatenna,8,Psychic,,Calm Pokémon,0.4,3.4,Healer,Anticipation,Magic Bounce,42,30,45,56,53,39,265,1 Sp. Atk,235,50,53,Slow,Fairy,,0.0,100.0,20,Ordinary
+0857,Hattrem,8,Psychic,,Serene Pokémon,0.6,4.8,Healer,Anticipation,Magic Bounce,57,40,65,86,73,49,370,2 Sp. Atk,120,50,130,Slow,Fairy,,0.0,100.0,20,Ordinary
+0858,Hatterene,8,Psychic,Fairy,Silent Pokémon,2.1,5.1,Healer,Anticipation,Magic Bounce,57,90,95,136,103,29,510,3 Sp. Atk,45,50,255,Slow,Fairy,,0.0,100.0,20,Ordinary
+0859,Impidimp,8,Dark,Fairy,Wily Pokémon,0.4,5.5,Prankster,Frisk,Pickpocket,45,45,30,55,40,50,265,1 Sp. Atk,255,50,53,Medium Fast,Fairy ,Human-Like,100.0,0.0,20,Ordinary
+0860,Morgrem,8,Dark,Fairy,Devious Pokémon,0.8,12.5,Prankster,Frisk,Pickpocket,65,60,45,75,55,70,370,2 Sp. Atk,120,50,130,Medium Fast,Fairy ,Human-Like,100.0,0.0,20,Ordinary
+0861,Grimmsnarl,8,Dark,Fairy,Bulk Up Pokémon,1.5,61.0,Prankster,Frisk,Pickpocket,95,120,65,95,75,60,510,3 Attack,45,50,255,Medium Fast,Fairy ,Human-Like,100.0,0.0,20,Ordinary
+0862,Obstagoon,8,Dark,Normal,Blocking Pokémon,1.6,46.0,Reckless,Guts,Defiant,93,90,101,60,81,95,520,3 Defense,45,50,260,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0863,Perrserker,8,Steel,,Viking Pokémon,0.8,28.0,Battle Armor,Tough Claws,Steely Spirit,70,110,100,50,60,50,440,2 Attack,90,50,154,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0864,Cursola,8,Ghost,,Coral Pokémon,1.0,0.4,Weak Armor,Perish Body,,60,95,50,145,130,30,510,2 Sp. Atk,30,50,179,Fast,Water 1 ,Water 3,25.0,75.0,20,Ordinary
+0865,Sirfetch'd,8,Fighting,,Wild Duck Pokémon,0.8,117.0,Steadfast,Scrappy,,62,135,95,68,82,65,507,2 Attack,45,50,177,Medium Fast,Field ,Flying,50.0,50.0,20,Ordinary
+0866,Mr. Rime,8,Ice,Psychic,Comedian Pokémon,1.5,58.2,Tangled Feet,Screen Cleaner,Ice Body,80,85,75,110,100,70,520,3 Sp. Atk,45,50,182,Medium Fast,Human-Like,,50.0,50.0,25,Ordinary
+0867,Runerigus,8,Ground,Ghost,Grudge Pokémon,1.6,66.6,Wandering Spirit,,,58,95,145,50,105,30,483,2 Defense,90,50,169,Medium Fast,Amorphous ,Mineral,50.0,50.0,25,Ordinary
+0868,Milcery,8,Fairy,,Cream Pokémon,0.2,0.3,Sweet Veil,Aroma Veil,,45,40,40,50,61,34,270,1 Sp. Def,200,50,54,Medium Fast,Amorphous ,Fairy,0.0,100.0,20,Ordinary
+0869,Alcremie,8,Fairy,,Cream Pokémon,0.3,0.5,Sweet Veil,Aroma Veil,,65,60,75,110,121,64,495,2 Sp. Def,100,50,173,Medium Fast,Amorphous ,Fairy,0.0,100.0,20,Ordinary
+0870,Falinks,8,Fighting,,Formation Pokémon,3.0,62.0,Battle Armor,Defiant,,65,100,100,70,60,75,470,"2 Attack, 1 Sp. Def",45,50,165,Medium Fast,Fairy ,Mineral,,,25,Ordinary
+0871,Pincurchin,8,Electric,,Sea Urchin Pokémon,0.3,1.0,Lightning Rod,Electric Surge,,48,101,95,91,85,15,435,2 Attack,75,50,152,Medium Fast,Amorphous ,Water 1,50.0,50.0,20,Ordinary
+0872,Snom,8,Ice,Bug,Worm Pokémon,0.3,3.8,Shield Dust,Ice Scales,,30,25,35,45,30,20,185,1 Sp. Atk,190,50,37,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0873,Frosmoth,8,Ice,Bug,Frost Moth Pokémon,1.3,42.0,Shield Dust,Ice Scales,,70,65,60,125,90,65,475,2 Sp. Atk,75,50,166,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0874,Stonjourner,8,Rock,,Big Rock Pokémon,2.5,520.0,Power Spot,,,100,125,135,20,20,70,470,2 Defense,60,50,165,Slow,Mineral,,50.0,50.0,25,Ordinary
+0875,Eiscue,8,Ice,,Penguin Pokémon,1.4,89.0,Ice Face,,,75,80,110,65,90,50,470,2 Defense,60,50,165,Slow,Field ,Water 1,50.0,50.0,25,Ordinary
+0876,Indeedee,8,Psychic,Normal,Emotion Pokémon,0.9,28.0,Inner Focus,Synchronize,Psychic Surge,60,65,55,105,95,95,475,2 Sp. Atk,30,140,166,Fast,Fairy,,100.0,0.0,40,Ordinary
+0877,Morpeko,8,Electric,Dark,Two-Sided Pokémon,0.3,3.0,Hunger Switch,,,58,95,58,70,58,97,436,2 Speed,180,50,153,Medium Fast,Fairy ,Field,50.0,50.0,10,Ordinary
+0878,Cufant,8,Steel,,Copperderm Pokémon,1.2,100.0,Sheer Force,Heavy Metal,,72,80,49,40,49,40,330,1 Attack,190,50,66,Medium Fast,Field ,Mineral,50.0,50.0,25,Ordinary
+0879,Copperajah,8,Steel,,Copperderm Pokémon,3.0,650.0,Sheer Force,Heavy Metal,,122,130,69,80,69,30,500,2 Attack,90,50,175,Medium Fast,Field ,Mineral,50.0,50.0,25,Ordinary
+0880,Dracozolt,8,Electric,Dragon,Fossil Pokémon,1.8,190.0,Volt Absorb,Hustle,Sand Rush,90,100,90,80,70,75,505,2 Attack,45,50,177,Slow,Undiscovered,,,,35,Fossil
+0881,Arctozolt,8,Electric,Ice,Fossil Pokémon,2.3,150.0,Volt Absorb,Static,Slush Rush,90,100,90,90,80,55,505,2 Attack,45,50,177,Slow,Undiscovered,,,,35,Fossil
+0882,Dracovish,8,Water,Dragon,Fossil Pokémon,2.3,215.0,Water Absorb,Strong Jaw,Sand Rush,90,90,100,70,80,75,505,2 Defense,45,50,177,Slow,Undiscovered,,,,35,Fossil
+0883,Arctovish,8,Water,Ice,Fossil Pokémon,2.0,175.0,Water Absorb,Ice Body,Slush Rush,90,90,100,80,90,55,505,2 Defense,45,50,177,Slow,Undiscovered,,,,35,Fossil
+0884,Duraludon,8,Steel,Dragon,Alloy Pokémon,1.8,40.0,Light Metal,Heavy Metal,Stalwart,70,95,115,120,50,85,535,2 Sp. Atk,45,50,187,Medium Fast,Dragon ,Mineral,50.0,50.0,30,Ordinary
+0885,Dreepy,8,Dragon,Ghost,Lingering Pokémon,0.5,2.0,Clear Body,Infiltrator,Cursed Body,28,60,30,40,30,82,270,1 Speed,45,50,54,Slow,Amorphous ,Dragon,50.0,50.0,40,Ordinary
+0886,Drakloak,8,Dragon,Ghost,Caretaker Pokémon,1.4,11.0,Clear Body,Infiltrator,Cursed Body,68,80,50,60,50,102,410,2 Speed,45,50,144,Slow,Amorphous ,Dragon,50.0,50.0,40,Ordinary
+0887,Dragapult,8,Dragon,Ghost,Stealth Pokémon,3.0,50.0,Clear Body,Infiltrator,Cursed Body,88,120,75,100,75,142,600,3 Speed,45,50,300,Slow,Amorphous ,Dragon,50.0,50.0,40,Ordinary
+0888,Zacian,8,Fairy,,Warrior Pokémon,2.8,110.0,Intrepid Sword,,,92,120,115,80,115,138,660,3 Speed,10,0,330,Slow,Undiscovered,,,,120,Legendary
+0889,Zamazenta,8,Fighting,,Warrior Pokémon,2.9,210.0,Dauntless Shield,,,92,120,115,80,115,138,660,3 Speed,10,0,330,Slow,Undiscovered,,,,120,Legendary
+0890,Eternatus,8,Poison,Dragon,Gigantic Pokémon,20.0,950.0,Pressure,,,140,85,95,145,95,130,690,3 HP,255,0,345,Slow,Undiscovered,,,,120,Legendary
+0891,Kubfu,8,Fighting,,Wushu Pokémon,0.6,12.0,Inner Focus,,,60,90,60,53,50,72,385,1 Attack,3,50,77,Slow,Undiscovered,,87.5,12.5,120,Legendary
+0892,Urshifu,8,Fighting,Dark,Wushu Pokémon,1.9,105.0,Unseen Fist,,,100,130,100,63,60,97,550,3 Attack,3,50,275,Slow,Undiscovered,,87.5,12.5,120,Legendary
+0893,Zarude,8,Dark,Grass,Rogue Monkey Pokémon,1.8,70.0,Leaf Guard,,,105,120,105,70,95,105,600,3 Attack,3,0,300,Slow,Undiscovered,,,,120,Mythical
+0894,Regieleki,8,Electric,,Electron Pokémon,1.2,145.0,Transistor,,,80,100,50,100,50,200,580,3 Speed,3,35,290,Slow,Undiscovered,,,,120,Legendary
+0895,Regidrago,8,Dragon,,Dragon Orb Pokémon,2.1,200.0,Dragon's Maw,,,200,100,50,100,50,80,580,3 HP,3,35,290,Slow,Undiscovered,,,,120,Legendary
+0896,Glastrier,8,Ice,,Wild Horse Pokémon,2.2,800.0,Chilling Neigh,,,100,145,130,65,110,30,580,3 Attack,3,35,290,Slow,Undiscovered,,,,120,Legendary
+0897,Spectrier,8,Ghost,,Swift Horse Pokémon,2.0,44.5,Grim Neigh,,,100,65,60,145,80,130,580,3 Sp. Atk,3,35,290,Slow,Undiscovered,,,,120,Legendary
+0898,Calyrex,8,Psychic,Grass,King Pokémon,1.1,7.7,Unnerve,,,100,80,80,80,80,80,500,3 HP,3,100,250,Slow,Undiscovered,,,,120,Legendary
+0899,Wyrdeer,8,Normal,Psychic,Big Horn Pokémon,1.8,95.1,Intimidate,Frisk,Sap Sipper,103,105,72,105,75,65,525,"1 Attack, 1 Sp. Atk",45,50,263,Slow,Field,,50.0,50.0,20,Ordinary
+0900,Kleavor,8,Bug,Rock,Axe Pokémon,1.8,89.0,Swarm,Sheer Force,Sharpness,70,135,95,45,70,85,500,3 Attack,15,50,175,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0901,Ursaluna,8,Ground,Normal,Peat Pokémon,2.4,290.0,Guts,Bulletproof,Unnerve,130,140,105,45,80,50,550,3 Attack,20,50,275,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0902,Basculegion,8,Water,Ghost,Big Fish Pokémon,3.0,110.0,Swift Swim,Adaptability,Mold Breaker,120,112,65,80,75,78,530,3 HP,45,50,265,Medium Fast,Water 2,,100.0,0.0,20,Ordinary
+0903,Sneasler,8,Fighting,Poison,Free Climb Pokémon,1.3,43.0,Pressure,Unburden,Poison Touch,80,130,60,40,80,120,510,2 Attack,20,50,102,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0904,Overqwil,8,Dark,Poison,Pin Cluster Pokémon,2.5,60.5,Poison Point,Swift Swim,Intimidate,85,115,95,65,65,85,510,2 Attack,45,50,179,Medium Fast,Water 2,,50.0,50.0,20,Ordinary
+0905,Enamorus,8,Fairy,Flying,Love-Hate Pokémon,1.6,48.0,Cute Charm,Contrary,,74,115,70,135,80,106,580,3 Sp. Atk,3,50,116,Slow,Undiscovered,,0.0,100.0,20,Legendary
+0906,Sprigatito,9,Grass,,Grass Cat Pokémon,0.4,4.1,Overgrow,Protean,,40,61,54,45,45,65,310,1 Speed,45,50,62,Medium Slow,Field ,Grass,87.5,12.5,20,Ordinary
+0907,Floragato,9,Grass,,Grass Cat Pokémon,0.9,12.2,Overgrow,Protean,,61,80,63,60,63,83,410,2 Speed,45,50,144,Medium Slow,Field ,Grass,87.5,12.5,20,Ordinary
+0908,Meowscarada,9,Grass,Dark,Magician Pokémon,1.5,31.2,Overgrow,Protean,,76,110,70,81,70,123,530,3 Speed,45,50,265,Medium Slow,Field ,Grass,87.5,12.5,20,Ordinary
+0909,Fuecoco,9,Fire,,Fire Croc Pokémon,0.4,9.8,Blaze,Unaware,,67,45,59,63,40,36,310,1 HP,45,50,62,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0910,Crocalor,9,Fire,,Fire Croc Pokémon,1.0,30.7,Blaze,Unaware,,81,55,78,90,58,49,411,2 Sp. Atk,45,50,144,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0911,Skeledirge,9,Fire,Ghost,Singer Pokémon,1.6,326.5,Blaze,Unaware,,104,75,100,110,75,66,530,3 Sp. Atk,45,50,265,Medium Slow,Field,,87.5,12.5,20,Ordinary
+0912,Quaxly,9,Water,,Duckling Pokémon,0.5,6.1,Torrent,Moxie,,55,65,45,50,45,50,310,1 Attack,45,50,62,Medium Slow,Flying ,Water 1,87.5,12.5,20,Ordinary
+0913,Quaxwell,9,Water,,Practicing Pokémon,1.2,21.5,Torrent,Moxie,,70,85,65,65,60,65,410,2 Attack,45,50,144,Medium Slow,Flying ,Water 1,87.5,12.5,20,Ordinary
+0914,Quaquaval,9,Water,Fighting,Dancer Pokémon,1.8,61.9,Torrent,Moxie,,85,120,80,85,75,85,530,3 Attack,45,50,265,Medium Slow,Flying ,Water 1,87.5,12.5,20,Ordinary
+0915,Lechonk,9,Normal,,Hog Pokémon,0.5,10.2,Aroma Veil,Gluttony,Thick Fat,54,45,40,35,45,35,254,1 HP,255,50,51,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0916,Oinkologne,9,Normal,,Hog Pokémon,1.0,120.0,Lingering Aroma,Gluttony,Thick Fat,110,100,75,59,80,65,489,2 HP,100,50,171,Medium Fast,Field,,100.0,0.0,15,Ordinary
+0917,Tarountula,9,Bug,,String Ball Pokémon,0.3,4.0,Insomnia,Stakeout,,35,41,45,29,40,20,210,1 Defense,255,50,42,Erratic,Bug,,50.0,50.0,15,Ordinary
+0918,Spidops,9,Bug,,Trap Pokémon,1.0,16.5,Insomnia,Stakeout,,60,79,92,52,86,35,404,2 Defense,120,50,141,Erratic,Bug,,50.0,50.0,15,Ordinary
+0919,Nymble,9,Bug,,Grasshopper Pokémon,0.2,1.0,Swarm,Tinted Lens,,33,46,40,21,25,45,210,1 Attack,190,20,42,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0920,Lokix,9,Bug,Dark,Grasshopper Pokémon,1.0,17.5,Swarm,Tinted Lens,,71,102,78,52,55,92,450,2 Attack,30,0,158,Medium Fast,Bug,,50.0,50.0,20,Ordinary
+0921,Pawmi,9,Electric,,Mouse Pokémon,0.3,2.5,Static,Natural Cure,Iron Fist,45,50,20,40,25,60,240,1 Speed,190,50,48,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0922,Pawmo,9,Electric,Fighting,Mouse Pokémon,0.4,6.5,Volt Absorb,Natural Cure,Iron Fist,60,75,40,50,40,85,350,2 Speed,80,50,123,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0923,Pawmot,9,Electric,Fighting,Hands-On Pokémon,0.9,41.0,Volt Absorb,Natural Cure,Iron Fist,70,115,70,70,60,105,490,3 Attack,45,50,245,Medium Fast,Field,,50.0,50.0,15,Ordinary
+0924,Tandemaus,9,Normal,,Couple Pokémon,0.3,1.8,Run Away,Pickup,Own Tempo,50,50,45,40,45,75,305,1 Speed,150,50,61,Fast,Fairy ,Field,,,10,Ordinary
+0925,Maushold,9,Normal,,Family Pokémon,0.3,2.8,Friend Guard,Cheek Pouch,Technician,74,75,70,65,75,111,470,2 Speed,75,50,165,Fast,Fairy ,Field,,,10,Ordinary
+0926,Fidough,9,Fairy,,Puppy Pokémon,0.3,10.9,Own Tempo,Klutz,,37,55,70,30,55,65,312,1 Speed,190,50,62,Medium Slow,Field ,Mineral,50.0,50.0,20,Ordinary
+0927,Dachsbun,9,Fairy,,Dog Pokémon,0.5,14.9,Well-Baked Body,Aroma Veil,,57,80,115,50,80,95,477,2 Speed,90,50,167,Medium Slow,Field ,Mineral,50.0,50.0,20,Ordinary
+0928,Smoliv,9,Grass,Normal,Olive Pokémon,0.3,6.5,Early Bird,Harvest,,41,35,45,58,51,30,260,1 Sp. Atk,255,50,52,Medium Slow,Grass,,50.0,50.0,20,Ordinary
+0929,Dolliv,9,Grass,Normal,Olive Pokémon,0.6,11.9,Early Bird,Harvest,,52,53,60,78,78,33,354,2 Sp. Atk,120,50,124,Medium Slow,Grass,,50.0,50.0,20,Ordinary
+0930,Arboliva,9,Grass,Normal,Olive Pokémon,1.4,48.2,Seed Sower,Harvest,,78,69,90,125,109,39,510,3 Sp. Atk,45,50,255,Medium Slow,Grass,,50.0,50.0,20,Ordinary
+0931,Squawkabilly,9,Normal,Flying,Parrot Pokémon,0.6,2.4,Intimidate,Hustle,Guts,82,96,51,45,51,92,417,1 Attack,190,50,146,Erratic,Flying,,50.0,50.0,15,Ordinary
+0932,Nacli,9,Rock,,Rock Salt Pokémon,0.4,16.0,Purifying Salt,Sturdy,Clear Body,55,55,75,35,35,25,280,1 Defense,255,50,56,Medium Slow,Mineral,,50.0,50.0,20,Ordinary
+0933,Naclstack,9,Rock,,Rock Salt Pokémon,0.6,105.0,Purifying Salt,Sturdy,Clear Body,60,60,100,35,65,35,355,2 Defense,120,50,124,Medium Slow,Mineral,,50.0,50.0,20,Ordinary
+0934,Garganacl,9,Rock,,Rock Salt Pokémon,2.3,240.0,Purifying Salt,Sturdy,Clear Body,100,100,130,45,90,35,500,3 Defense,45,50,250,Medium Slow,Mineral,,50.0,50.0,20,Ordinary
+0935,Charcadet,9,Fire,,Fire Child Pokémon,0.6,10.5,Flash Fire,Flame Body,,40,50,40,50,40,35,255,1 Sp. Atk,90,50,51,Slow,Human-Like,,50.0,50.0,35,Ordinary
+0936,Armarouge,9,Fire,Psychic,Fire Warrior Pokémon,1.5,85.0,Flash Fire,Weak Armor,,85,60,100,125,80,75,525,2 Sp. Atk,25,20,263,Slow,Human-Like,,50.0,50.0,35,Ordinary
+0937,Ceruledge,9,Fire,Ghost,Fire Blades Pokémon,1.6,62.0,Flash Fire,Weak Armor,,75,125,80,60,100,85,525,2 Attack,25,20,263,Slow,Human-Like,,50.0,50.0,35,Ordinary
+0938,Tadbulb,9,Electric,,EleTadpole Pokémon,0.3,0.4,Own Tempo,Static,Damp,61,31,41,59,35,45,272,1 HP,190,50,54,Medium Fast,Water 1,,50.0,50.0,20,Ordinary
+0939,Bellibolt,9,Electric,,EleFrog Pokémon,1.2,113.0,Electromorphosis,Static,Damp,109,64,91,103,83,45,495,2 HP,50,50,173,Medium Fast,Water 1,,50.0,50.0,20,Ordinary
+0940,Wattrel,9,Electric,Flying,Storm Petrel Pokémon,0.4,3.6,Wind Power,Volt Absorb,Competitive,40,40,35,55,40,70,280,1 Speed,180,50,56,Medium Slow,Flying ,Water 1,50.0,50.0,20,Ordinary
+0941,Kilowattrel,9,Electric,Flying,Frigatebird Pokémon,1.4,38.6,Wind Power,Volt Absorb,Competitive,70,70,60,105,60,125,490,2 Speed,90,50,172,Medium Slow,Flying ,Water 1,50.0,50.0,20,Ordinary
+0942,Maschiff,9,Dark,,Rascal Pokémon,0.5,16.0,Intimidate,Run Away,Stakeout,60,78,60,40,51,51,340,1 Attack,150,50,68,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0943,Mabosstiff,9,Dark,,Boss Pokémon,1.1,61.0,Intimidate,Guard Dog,Stakeout,80,120,90,60,70,85,505,2 Attack,75,50,177,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0944,Shroodle,9,Poison,Normal,Toxic Mouse Pokémon,0.2,0.7,Unburden,Pickpocket,Prankster,40,65,35,40,35,75,290,1 Speed,190,50,58,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0945,Grafaiai,9,Poison,Normal,Toxic Monkey Pokémon,0.7,27.2,Unburden,Poison Touch,Prankster,63,95,65,80,72,110,485,2 Speed,90,50,170,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0946,Bramblin,9,Grass,Ghost,Tumbleweed Pokémon,0.6,0.6,Wind Rider,Infiltrator,,40,65,30,45,35,60,275,1 Attack,190,50,55,Medium Fast,Grass,,50.0,50.0,20,Ordinary
+0947,Brambleghast,9,Grass,Ghost,Tumbleweed Pokémon,1.2,6.0,Wind Rider,Infiltrator,,55,115,70,80,70,90,480,2 Attack,45,50,168,Medium Fast,Grass,,50.0,50.0,20,Ordinary
+0948,Toedscool,9,Ground,Grass,Woodear Pokémon,0.9,33.0,Mycelium Might,,,40,40,35,50,100,70,335,1 Sp. Def,190,50,67,Medium Slow,Grass,,50.0,50.0,20,Ordinary
+0949,Toedscruel,9,Ground,Grass,Woodear Pokémon,1.9,58.0,Mycelium Might,,,80,70,65,80,120,100,515,2 Sp. Def,90,50,180,Medium Slow,Grass,,50.0,50.0,20,Ordinary
+0950,Klawf,9,Rock,,Ambush Pokémon,1.3,79.0,Anger Shell,Shell Armor,Regenerator,70,100,115,35,55,75,450,2 Defense,120,50,158,Medium Fast,Water 3,,50.0,50.0,35,Ordinary
+0951,Capsakid,9,Grass,,Spicy Pepper Pokémon,0.3,3.0,Chlorophyll,Insomnia,Klutz,50,62,40,62,40,50,304,1 Attack,190,50,61,Medium Fast,Grass,,50.0,50.0,20,Ordinary
+0952,Scovillain,9,Grass,Fire,Spicy Pepper Pokémon,0.9,15.0,Chlorophyll,Insomnia,Moody,65,108,65,108,65,75,486,2 Attack,75,50,170,Medium Fast,Grass,,50.0,50.0,20,Ordinary
+0953,Rellor,9,Bug,,Rolling Pokémon,0.2,1.0,Compound Eyes,Shed Skin,,41,50,60,31,58,30,270,1 Defense,190,50,54,Fast,Bug,,50.0,50.0,20,Ordinary
+0954,Rabsca,9,Bug,Psychic,Rolling Pokémon,0.3,3.5,Synchronize,Telepathy,,75,50,85,115,100,45,470,2 Sp. Atk,45,50,165,Fast,Bug,,50.0,50.0,20,Ordinary
+0955,Flittle,9,Psychic,,Frill Pokémon,0.2,1.5,Anticipation,Frisk,Speed Boost,30,35,30,55,30,75,255,1 Speed,120,50,51,Medium Slow,Flying,,50.0,50.0,20,Ordinary
+0956,Espathra,9,Psychic,,Ostrich Pokémon,1.9,90.0,Opportunist,Frisk,Speed Boost,95,60,60,101,60,105,481,2 Speed,60,50,168,Medium Slow,Flying,,50.0,50.0,20,Ordinary
+0957,Tinkatink,9,Fairy,Steel,Metalsmith Pokémon,0.4,8.9,Mold Breaker,Own Tempo,Pickpocket,50,45,45,35,64,58,297,1 Sp. Def,190,50,59,Medium Slow,Fairy,,0.0,100.0,20,Ordinary
+0958,Tinkatuff,9,Fairy,Steel,Hammer Pokémon,0.7,59.1,Mold Breaker,Own Tempo,Pickpocket,65,55,55,45,82,78,380,2 Sp. Def,90,50,133,Medium Slow,Fairy,,0.0,100.0,20,Ordinary
+0959,Tinkaton,9,Fairy,Steel,Hammer Pokémon,0.7,112.8,Mold Breaker,Own Tempo,Pickpocket,85,75,77,70,105,94,506,3 Sp. Def,45,50,253,Medium Slow,Fairy,,0.0,100.0,20,Ordinary
+0960,Wiglett,9,Water,,Garden Eel Pokémon,1.2,1.8,Gooey,Rattled,Sand Veil,10,55,25,35,25,95,245,1 Speed,255,50,49,Medium Fast,Water 3,,50.0,50.0,20,Ordinary
+0961,Wugtrio,9,Water,,Garden Eel Pokémon,1.2,5.4,Gooey,Rattled,Sand Veil,35,100,50,50,70,120,425,2 Speed,50,50,149,Medium Fast,Water 3,,50.0,50.0,20,Ordinary
+0962,Bombirdier,9,Flying,Dark,Item Drop Pokémon,1.5,42.9,Big Pecks,Keen Eye,Rocky Payload,70,103,85,60,85,82,485,2 Attack,25,50,243,Slow,Flying,,50.0,50.0,35,Ordinary
+0963,Finizen,9,Water,,Dolphin Pokémon,1.3,60.2,Water Veil,,,70,45,40,45,40,75,315,1 Speed,200,50,63,Slow,Field ,Water 2,50.0,50.0,40,Ordinary
+0964,Palafin,9,Water,,Dolphin Pokémon,1.3,60.2,Zero to Hero,,,100,70,72,53,62,100,457,2 HP,45,50,160,Slow,Field ,Water 2,50.0,50.0,40,Ordinary
+0965,Varoom,9,Steel,Poison,Single-Cyl Pokémon,1.0,35.0,Overcoat,Slow Start,,45,70,63,30,45,47,300,1 Attack,190,50,60,Medium Fast,Mineral,,50.0,50.0,20,Ordinary
+0966,Revavroom,9,Steel,Poison,Multi-Cyl Pokémon,1.8,120.0,Overcoat,Filter,,80,119,90,54,67,90,500,2 Attack,75,50,175,Medium Fast,Mineral,,50.0,50.0,20,Ordinary
+0967,Cyclizar,9,Dragon,Normal,Mount Pokémon,1.6,63.0,Shed Skin,Regenerator,,70,95,65,85,65,121,501,2 Speed,190,50,175,Medium Slow,Field,,50.0,50.0,30,Ordinary
+0968,Orthworm,9,Steel,,Earthworm Pokémon,2.5,310.0,Earth Eater,Sand Veil,,70,85,145,60,55,65,480,2 Defense,25,50,240,Slow,Field,,50.0,50.0,35,Ordinary
+0969,Glimmet,9,Rock,Poison,Ore Pokémon,0.7,8.0,Toxic Debris,Corrosion,,48,35,42,105,60,60,350,1 Sp. Atk,70,50,70,Medium Slow,Mineral,,50.0,50.0,30,Ordinary
+0970,Glimmora,9,Rock,Poison,Ore Pokémon,1.5,45.0,Toxic Debris,Corrosion,,83,55,90,130,81,86,525,2 Sp. Atk,25,50,184,Medium Slow,Mineral,,50.0,50.0,30,Ordinary
+0971,Greavard,9,Ghost,,Ghost Dog Pokémon,0.6,35.0,Pickup,Fluffy,,50,61,60,30,55,34,290,1 Attack,120,50,58,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0972,Houndstone,9,Ghost,,Ghost Dog Pokémon,2.0,15.0,Sand Rush,Fluffy,,72,101,100,50,97,68,488,2 Attack,60,50,171,Medium Slow,Field,,50.0,50.0,20,Ordinary
+0973,Flamigo,9,Flying,Fighting,Synchronize Pokémon,1.6,37.0,Scrappy,Tangled Feet,Costar,82,115,74,75,64,90,500,2 Attack,100,50,175,Medium Slow,Flying,,50.0,50.0,20,Ordinary
+0974,Cetoddle,9,Ice,,Terra Whale Pokémon,1.2,45.0,Thick Fat,Snow Cloak,Sheer Force,108,68,45,30,40,43,334,1 HP,150,50,67,Medium Slow,Field,,50.0,50.0,25,Ordinary
+0975,Cetitan,9,Ice,,Terra Whale Pokémon,4.5,700.0,Thick Fat,Slush Rush,Sheer Force,170,113,65,45,55,73,521,2 HP,50,50,182,Medium Slow,Field,,50.0,50.0,25,Ordinary
+0976,Veluza,9,Water,Psychic,Jettison Pokémon,2.5,90.0,Mold Breaker,Sharpness,,90,102,73,78,65,70,478,2 Attack,100,50,167,Fast,Water 2,,50.0,50.0,20,Ordinary
+0977,Dondozo,9,Water,,Big Catfish Pokémon,12.0,220.0,Unaware,Oblivious,Water Veil,150,100,115,65,65,35,530,3 HP,25,50,265,Slow,Water 2,,50.0,50.0,40,Ordinary
+0978,Tatsugiri,9,Dragon,Water,Mimicry Pokémon,0.3,8.0,Commander,Storm Drain,,68,50,60,120,95,82,475,2 Sp. Atk,100,50,166,Medium Slow,Water 2,,50.0,50.0,35,Ordinary
+0979,Annihilape,9,Fighting,Ghost,Rage Monkey Pokémon,1.2,56.0,Vital Spirit,Inner Focus,Defiant,110,115,80,50,90,90,535,3 Attack,45,50,268,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0980,Clodsire,9,Poison,Ground,Spiny Fish Pokémon,1.8,223.0,Poison Point,Water Absorb,Unaware,130,75,60,45,100,20,430,2 HP,90,50,151,Medium Fast,Field ,Water 1,50.0,50.0,20,Ordinary
+0981,Farigiraf,9,Normal,Psychic,Long Neck Pokémon,3.2,160.0,Cud Chew,Armor Tail,Sap Sipper,120,90,70,110,70,60,520,3 HP,45,50,260,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0982,Dudunsparce,9,Normal,,Land Snake Pokémon,3.6,39.2,Serene Grace,Run Away,Rattled,125,100,80,85,75,55,520,2 HP,45,50,182,Medium Fast,Field,,50.0,50.0,20,Ordinary
+0983,Kingambit,9,Dark,Steel,Big Blade Pokémon,2.0,120.0,Defiant,Supreme Overlord,Pressure,100,135,120,60,85,50,550,3 Attack,25,50,275,Medium Fast,Human-Like,,50.0,50.0,20,Ordinary
+0984,Great Tusk,9,Ground,Fighting,Paradox Pokémon,2.2,320.0,Protosynthesis,,,115,131,131,53,53,87,570,3 Attack,30,0,285,Slow,Undiscovered,,,,50,Ancient Paradox
+0985,Scream Tail,9,Fairy,Psychic,Paradox Pokémon,1.2,8.0,Protosynthesis,,,115,65,99,65,115,111,570,3 HP,50,0,285,Slow,Undiscovered,,,,50,Ancient Paradox
+0986,Brute Bonnet,9,Grass,Dark,Paradox Pokémon,1.2,21.0,Protosynthesis,,,111,127,99,79,99,55,570,3 Attack,50,0,285,Slow,Undiscovered,,,,50,Ancient Paradox
+0987,Flutter Mane,9,Ghost,Fairy,Paradox Pokémon,1.4,4.0,Protosynthesis,,,55,55,55,135,135,135,570,"1 Sp. Atk, 1 Sp. Def, 1 Speed",30,0,285,Slow,Undiscovered,,,,50,Ancient Paradox
+0988,Slither Wing,9,Bug,Fighting,Paradox Pokémon,3.2,92.0,Protosynthesis,,,85,135,79,85,105,81,570,3 Attack,30,0,285,Slow,Undiscovered,,,,50,Ancient Paradox
+0989,Sandy Shocks,9,Electric,Ground,Paradox Pokémon,2.3,60.0,Protosynthesis,,,85,81,97,121,85,101,570,3 Sp. Atk,30,0,285,Slow,Undiscovered,,,,50,Ancient Paradox
+0990,Iron Treads,9,Ground,Steel,Paradox Pokémon,0.9,240.0,Quark Drive,,,90,112,120,72,70,106,570,3 Defense,30,0,285,Slow,Undiscovered,,,,50,Future Paradox
+0991,Iron Bundle,9,Ice,Water,Paradox Pokémon,0.6,11.0,Quark Drive,,,56,80,114,124,60,136,570,3 Speed,50,0,285,Slow,Undiscovered,,,,50,Future Paradox
+0992,Iron Hands,9,Fighting,Electric,Paradox Pokémon,1.8,380.7,Quark Drive,,,154,140,108,50,68,50,570,3 Attack,50,0,285,Slow,Undiscovered,,,,50,Future Paradox
+0993,Iron Jugulis,9,Dark,Flying,Paradox Pokémon,1.3,111.0,Quark Drive,,,94,80,86,122,80,108,570,3 Sp. Atk,30,0,285,Slow,Undiscovered,,,,50,Future Paradox
+0994,Iron Moth,9,Fire,Poison,Paradox Pokémon,1.2,36.0,Quark Drive,,,80,70,60,140,110,110,570,3 Sp. Atk,30,0,285,Slow,Undiscovered,,,,50,Future Paradox
+0995,Iron Thorns,9,Rock,Electric,Paradox Pokémon,1.6,303.0,Quark Drive,,,100,134,110,70,84,72,570,3 Attack,30,0,285,Slow,Undiscovered,,,,50,Future Paradox
+0996,Frigibax,9,Dragon,Ice,Ice Fin Pokémon,0.5,17.0,Thermal Exchange,Ice Body,,65,75,45,35,45,55,320,1 Attack,45,50,64,Slow,Dragon ,Mineral,50.0,50.0,40,Ordinary
+0997,Arctibax,9,Dragon,Ice,Ice Fin Pokémon,0.8,30.0,Thermal Exchange,Ice Body,,90,95,66,45,65,62,423,2 Attack,25,50,148,Slow,Dragon ,Mineral,50.0,50.0,40,Ordinary
+0998,Baxcalibur,9,Dragon,Ice,Ice Dragon Pokémon,2.1,210.0,Thermal Exchange,Ice Body,,115,145,92,75,86,87,600,3 Attack,10,50,300,Slow,Dragon ,Mineral,50.0,50.0,40,Ordinary
+0999,Gimmighoul,9,Ghost,,Coin Chest Pokémon,0.3,5.0,Rattled,,,45,30,70,75,70,10,300,1 Sp. Atk,45,50,60,Slow,Undiscovered,,,,50,Ordinary
+1000,Gholdengo,9,Steel,Ghost,Coin Entity Pokémon,1.2,30.0,Good as Gold,,,87,60,95,133,91,84,550,2 Sp. Atk,45,50,275,Slow,Undiscovered,,,,50,Ordinary
+1001,Wo-Chien,9,Dark,Grass,Ruinous Pokémon,1.5,74.2,Tablets of Ruin,,,85,85,100,95,135,70,570,3 Sp. Def,6,0,285,Slow,Undiscovered,,,,50,Legendary
+1002,Chien-Pao,9,Dark,Ice,Ruinous Pokémon,1.9,152.2,Sword of Ruin,,,80,120,80,90,65,135,570,3 Speed,6,0,285,Slow,Undiscovered,,,,50,Legendary
+1003,Ting-Lu,9,Dark,Ground,Ruinous Pokémon,2.7,699.7,Vessel of Ruin,,,155,110,125,55,80,45,570,3 Defense,6,0,285,Slow,Undiscovered,,,,50,Legendary
+1004,Chi-Yu,9,Dark,Fire,Ruinous Pokémon,0.4,4.9,Beads of Ruin,,,55,80,80,135,120,100,570,3 Sp. Atk,6,0,285,Slow,Undiscovered,,,,50,Legendary
+1005,Roaring Moon,9,Dragon,Dark,Paradox Pokémon,2.0,380.0,Protosynthesis,,,105,139,71,55,101,119,590,3 Attack,10,0,295,Slow,Undiscovered,,,,50,Ancient Paradox
+1006,Iron Valiant,9,Fairy,Fighting,Paradox Pokémon,1.4,35.0,Quark Drive,,,74,130,90,120,60,116,590,3 Attack,10,0,295,Slow,Undiscovered,,,,50,Future Paradox
+1007,Koraidon,9,Fighting,Dragon,Paradox Pokémon,2.5,303.0,Orichalcum Pulse,,,100,135,115,85,100,135,670,3 Attack,3,0,335,Slow,Undiscovered,,,,50,Legendary
+1008,Miraidon,9,Electric,Dragon,Paradox Pokémon,3.5,240.0,Hadron Engine,,,100,85,100,135,115,135,670,3 Sp. Atk,3,0,335,Slow,Undiscovered,,,,50,Legendary
+1009,Walking Wake,9,Water,Dragon,Paradox Pokémon,3.5,280.0,Protosynthesis,,,99,83,91,125,83,109,590,3 Sp. Atk,5,—,—,Slow,Undiscovered,,,,—,Ancient Paradox
+1010,Iron Leaves,9,Grass,Psychic,Paradox Pokémon,1.5,125.0,Quark Drive,,,90,130,88,70,108,104,590,3 Attack,5,—,—,Slow,Undiscovered,,,,—,Future Paradox
+1011,Dipplin,9,Grass,Dragon,Candy Apple Pokémon,0.4,4.4,Supersweet Syrup,Gluttony,Sticky Hold,80,80,110,95,80,40,485,2 Defense,45,—,—,Erratic,Dragon ,Grass,50.0,50.0,—,Ordinary
+1012,Poltchageist,9,Grass,Ghost,Matcha Pokémon,0.1,1.1,Hospitality,Heatproof,,40,45,45,74,54,50,308,1 Sp. Atk,120,—,—,Medium Fast,Amorphous ,Mineral,,,—,Ordinary
+1013,Sinistcha,9,Grass,Ghost,Matcha Pokémon,0.2,2.2,Hospitality,Heatproof,,71,60,106,121,80,70,508,2 Sp. Atk,60,—,—,Medium Fast,Amorphous ,Mineral,,,—,Ordinary
+1014,Okidogi,9,Poison,Fighting,Retainer Pokémon,1.8,92.0,Toxic Chain,Guard Dog,,88,128,115,58,86,80,555,3 Attack,3,—,—,Slow,Undiscovered,,100.0,0.0,—,Legendary
+1015,Munkidori,9,Poison,Psychic,Retainer Pokémon,1.0,12.2,Toxic Chain,Frisk,,88,75,66,130,90,106,555,3 Sp. Atk,3,—,—,Slow,Undiscovered,,100.0,0.0,—,Legendary
+1016,Fezandipiti,9,Poison,Fairy,Retainer Pokémon,1.4,30.1,Toxic Chain,Technician,,88,91,82,70,125,99,555,3 Sp. Def,3,—,—,Slow,Undiscovered,,100.0,0.0,—,Legendary
+1017,Ogerpon,9,Grass,,Mask Pokémon,1.2,39.8,Defiant,Embody Aspect,,80,120,84,60,96,110,550,3 Attack,5,—,—,Slow,Undiscovered,,0.0,100.0,—,Legendary
+1018,Archaludon,9,Steel,Dragon,Alloy Pokémon,2.0,60.0,Stamina,Sturdy,Stalwart,90,105,130,125,65,85,600,3 Defense,10,—,—,Medium Fast,Dragon ,Mineral,50.0,50.0,—,Ordinary
+1019,Hydrapple,9,Grass,Dragon,—,1.8,93.0,Supersweet Syrup,Regenerator,Sticky Hold,106,80,110,120,80,44,540,3 Sp. Atk,10,—,—,Erratic,Dragon ,Grass,50.0,50.0,—,Ordinary
+1020,Gouging Fire,9,Fire,Dragon,Paradox Pokémon,3.5,590.0,Protosynthesis,,,105,115,121,65,93,91,590,3 Defense,10,—,—,Slow,Undiscovered,,,,—,Ancient Paradox
+1021,Raging Bolt,9,Electric,Dragon,Paradox Pokémon,5.2,480.0,Protosynthesis,,,125,73,91,137,89,75,590,3 Sp. Atk,10,—,—,Slow,Undiscovered,,,,—,Ancient Paradox
+1022,Iron Boulder,9,Rock,Psychic,Paradox Pokémon,1.5,162.5,Quark Drive,,,90,120,80,68,108,124,590,3 Speed,10,—,—,Slow,Undiscovered,,,,—,Future Paradox
+1023,Iron Crown,9,Steel,Psychic,Paradox Pokémon,1.6,156.0,Quark Drive,,,90,72,100,122,108,98,590,3 Sp. Atk,10,—,—,Slow,Undiscovered,,,,—,Future Paradox
+1024,Terapagos,9,Normal,,Tera Pokémon,0.2,6.5,Tera Shift,,,90,65,85,65,85,60,450,1 Defense,255,—,—,Slow,Undiscovered,,50.0,50.0,—,Legendary
+1025,Pecharunt,9,Poison,Ghost,Subjugation Pokémon,0.3,0.3,Poison Puppeteer,,,88,88,160,88,88,88,600,3 Defense,3,—,—,Slow,Undiscovered,,,,—,Mythical
