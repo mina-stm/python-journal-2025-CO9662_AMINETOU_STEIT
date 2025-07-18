@@ -11,7 +11,6 @@ print(df.iloc[:, 1])
 print(df.iloc[:, [1, 6]]) # Filters all rows and "Name" and "Defense" columns as␣↪DataFrame
 df.iloc[:, [1, 6]].plot.hist()
 df['Legendary'] = df['special_group'] == 'Legendary'
-print(df.columns)
 print(df.loc[df['Legendary'] == False])
 print(df.columns)
 print(df.loc[df['special_group'] != 'Legendary'])
